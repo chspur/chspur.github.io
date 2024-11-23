@@ -1,4 +1,4 @@
-## November 23, 2024
+## my first post
 
 This is my first blog post.
 
