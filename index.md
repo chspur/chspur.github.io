@@ -1,4 +1,4 @@
-Hi, my name is Stephen
+Hi, my name is Stephen.
 
 Not sure what I'm going to write on here or how consistent I'll be.
 
