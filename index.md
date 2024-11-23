@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hi, my name is Stephen
 
-Maybe say a some things about yourself.
+Not sure what I'm going to write on here or how consistent I'll be.
 
-Or maybe what you plan to blog about.
+Maybe I'll post some cool quotes from my reading.
