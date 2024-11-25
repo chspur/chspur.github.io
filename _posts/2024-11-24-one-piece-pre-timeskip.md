@@ -21,6 +21,7 @@ This is my one piece arc tier list up to the timeskip.
 17. Amazon Lily
 18. Syrup Village
 19. Whiskey Peak
+![Orange Town](/images/Orange_Town_Arc.webp)
 20. Orange Town
 21. Jaya
 22. Reverse Mountain
