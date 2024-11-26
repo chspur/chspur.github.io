@@ -1,6 +1,6 @@
 ## one piece arc tier list (pre-timeskip)
 
-My one piece arc tier list up to the timeskip.
+My [one piece arc](https://onepiece.fandom.com/wiki/Story_Arcs) tier list up to the timeskip.
 
 1. [Marineford](https://onepiece.fandom.com/wiki/Marineford_Arc)
 2. [Enies Lobby](https://onepiece.fandom.com/wiki/Enies_Lobby_Arc)
