@@ -12,6 +12,6 @@ This is what my family ate for dinner. We always eat hot pot for Thanksgiving in
 
 | today's reading |
 | :-------------: |
-| Deut. 2; Ps. 83-84; Isa. 30; Jude 1
+| Deut. 2; Ps. 83-84; Isa. 30; Jude 1 |
 | John 5; Ex. 23; Heb. 8; 2 Thess. 3; Job 11; Ps. 73; Prov. 11; 1 Sam. 24; Jer. 7; Acts 17 |
 | WCF 2; WLC 7-11; WSC 4-6 |
