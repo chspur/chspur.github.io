@@ -1,6 +1,6 @@
 ## thankful for God
 
-Today is Thanksgiving and this morning I read Psalm 84 in my devotional time. Verses 10-12 stood out to me:
+Today is Thanksgiving and I read Psalm 84 in my devotional time this morning. Verses 10-12 stood out to me:
 
 > <sup>10</sup> For a day in your courts is better than a thousand elsewhere. I would rather be a doorkeeper in the house of my God than dwell in the tents of wickedness. <sup>11</sup> For the LORD God is a sun and shield; the LORD bestows favor and honor. No good thing does he withhold from those who walk uprightly. <sup>12</sup> O LORD of hosts, blessed is the one who trusts in you!
 
