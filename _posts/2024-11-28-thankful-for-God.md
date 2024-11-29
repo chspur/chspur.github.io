@@ -10,8 +10,7 @@ I'm so thankful that someone as sinful as me is able to be in God's presence, to
 
 This is what my family ate for dinner. We always eat hot pot for thanksgiving instead of a typical thanksgiving dinner, which in my opinion is definitely an upgrade.
 
-| daily reading |
-| ------------- |
+## daily reading
 - [x] Deut. 2; Ps. 83-84; Isa. 30; Jude 1
 - [x] John 5; Ex. 23; Heb. 8; 2 Thess. 3; Job 11; Ps. 73; Prov. 11; 1 Sam. 24; Jer. 7; Acts 17
 - [x] WCF 2; WLC 7-11; WSC 4-6
