@@ -1,6 +1,6 @@
 ## bonhoeffer
 
-Dad, Petrus, and I went to watch the new Bonhoeffer movie today. It was decent. Not terrible, not amazing, just alright. I give it a six out of ten.
+Dad, Petrus, and I went to watch the new Bonhoeffer movie today. It was decent. Not terrible, not amazing, just alright. I give it a 6/10.
 
 | today's reading |
 | :-------------: |
