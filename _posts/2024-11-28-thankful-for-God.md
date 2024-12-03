@@ -13,7 +13,7 @@ This is what my family ate for dinner. We always eat hot pot for Thanksgiving in
 <details markdown="1">
 <summary>daily reading</summary>
 
-| Nov 28, 2024 |
+| Nov. 28, 2024 |
 | :-------------: |
 | Deut. 2; Ps. 83-84; Isa. 30; Jude 1 |
 | WCF 2; WLC 7-11; WSC 4-6 |

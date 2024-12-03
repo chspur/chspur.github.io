@@ -11,7 +11,7 @@ J. C. Ryle's *A Call to Prayer* is one of my favorite books. It's a concise, lit
 <details markdown="1">
 <summary>daily reading</summary>
 
-| Dec 1, 2024 |
+| Dec. 1, 2024 |
 | :-------------: |
 | Deut. 5; Ps. 88; Isa. 33; Rev. 3 |
 | WCF 5; WLC 30-35; WSC 20-23 |

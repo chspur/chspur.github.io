@@ -7,7 +7,7 @@ I was talking to a granny before swimming and she thought I was in high school. 
 <details markdown="1">
 <summary>daily reading</summary>
 
-| Dec 2, 2024 |
+| Dec. 2, 2024 |
 | :-------------: |
 | Deut. 6; Ps. 89; Isa. 34; Rev. 4 |
 | WCF 6; WLC 36-42; WSC 24-26 |
