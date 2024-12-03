@@ -14,3 +14,13 @@ First time inside the SD Supercomputer Center. Dad works here sometimes and we g
 ![pic of food from Class 302](/images/2024-11-27-a-petrus-thanksgiving/class302.jpg)
 
 Ate dinner at Class 302 in Irvine before heading home. Pretty good.
+
+<details markdown="1">
+<summary>daily reading</summary>
+
+| Nov. 27, 2024 |
+| :-------------: |
+| Deut. 1; Ps. 81-82; Isa. 29; 3 John 1 |
+| WCF 1; WLC 1-6; WSC 1-3 |
+
+</details>
