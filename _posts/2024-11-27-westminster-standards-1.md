@@ -35,4 +35,4 @@
 
 *Finished:*
 
-[*Source: Mid-America Reformed Seminary* ](https://s3.us-west-1.amazonaws.com/blog.swang.cloud/reformed-standards-monthly.pdf)
+[*Source: Mid-America Reformed Seminary*](https://s3.us-west-1.amazonaws.com/blog.swang.cloud/reformed-standards-monthly.pdf)
