@@ -3,7 +3,7 @@
 *Started: Nov. 27, 2024*
 
 - [x] Day 1: WCF 1; WLC 1-6; WSC 1-3
-- [x] Day 2: [WCF 2; WLC 7-11; WSC 4-6](./2024-11-28-thankful-for-God.md)
+- [x] Day 2: [WCF 2; WLC 7-11; WSC 4-6](/_posts/2024-11-28-thankful-for-God.md)
 - [x] Day 3: WCF 3; WLC 12-20; WSC 7-12
 - [x] Day 4: WCF 4; WLC 21-29; WSC 13-19
 - [x] Day 5: WCF 5; WLC 30-35; WSC 20-23
