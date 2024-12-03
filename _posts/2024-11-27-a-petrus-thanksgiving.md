@@ -21,6 +21,6 @@ Ate dinner at Class 302 in Irvine before heading home. Pretty good.
 | Nov. 27, 2024 |
 | :-------------: |
 | Deut. 1; Ps. 81-82; Isa. 29; 3 John 1 |
-| WCF 1; WLC 1-6; WSC 1-3 |
+| [WCF 1; WLC 1-6; WSC 1-3](https://blog.swang.cloud/2024/11/27/westminster-month-1.html) |
 
 </details>
