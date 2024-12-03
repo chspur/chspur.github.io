@@ -7,10 +7,10 @@ I was talking to a granny before swimming and she thought I was in high school. 
 <details markdown="1">
 <summary>daily reading</summary>
 
-| today's reading |
+| today |
 | :-------------: |
-| Deut. 4; Ps. 86-87; Isa. 32; Rev. 2 |
-| John 7; Ex. 25; Heb. 10; 1 Tim. 2; Job 13; Ps. 75; Prov. 13; 1 Sam. 26; Jer. 9; Acts 19 |
-| WCF 4; WLC 21-29; WSC 13-19 |
+| Deut. 6; Ps. 89; Isa. 34; Rev. 4 |
+| WCF 6; WLC 36-42; WSC 24-26 |
+| John 9; Ex. 27; Heb. 12; 1 Tim. 4; Job 15; Ps. 77; Prov. 15; 1 Sam. 28; Jer. 11; Acts 21 |
 
 </details>
