@@ -1,4 +1,4 @@
-## westminster reading plan 1
+## westminster standards 1
 
 *Started: Nov. 27, 2024*
 
@@ -34,3 +34,5 @@
 - [ ] Day 30: WCF 30-33; WLC 193-196; WSC 104-107
 
 *Finished:*
+
+[*Source: Mid-America Reformed Seminary* ](https://s3.us-west-1.amazonaws.com/blog.swang.cloud/reformed-standards-monthly.pdf)
