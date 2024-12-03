@@ -8,8 +8,13 @@ J. C. Ryle's *A Call to Prayer* is one of my favorite books. It's a concise, lit
 
 -J. C. Ryle, *A Call to Prayer*
 
-| today's reading |
+<details markdown="1">
+<summary>daily reading</summary>
+
+| Dec 1, 2024 |
 | :-------------: |
 | Deut. 5; Ps. 88; Isa. 33; Rev. 3 |
-| John 8; Ex. 26; Heb. 11; 1 Tim. 3; Job 14; Ps. 76; Prov. 14; 1 Sam. 27; Jer. 10; Acts 20 |
 | WCF 5; WLC 30-35; WSC 20-23 |
+| John 8; Ex. 26; Heb. 11; 1 Tim. 3; Job 14; Ps. 76; Prov. 14; 1 Sam. 27; Jer. 10; Acts 20 |
+
+</details>
