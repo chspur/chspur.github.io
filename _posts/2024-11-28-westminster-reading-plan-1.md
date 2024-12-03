@@ -4,10 +4,10 @@
 
 - [x] Day 1: WCF 1; WLC 1-6; WSC 1-3
 - [x] Day 2: [WCF 2; WLC 7-11; WSC 4-6](https://blog.swang.cloud/2024/11/28/thankful-for-God.html)
-- [x] Day 3: [WCF 3; WLC 12-20; WSC 7-12](./2024-11-29-bonhoeffer.md)
-- [x] Day 4: WCF 4; WLC 21-29; WSC 13-19
-- [x] Day 5: WCF 5; WLC 30-35; WSC 20-23
-- [x] Day 6: WCF 6; WLC 36-42; WSC 24-26
+- [x] Day 3: [WCF 3; WLC 12-20; WSC 7-12](https://blog.swang.cloud/2024/11/29/bonhoeffer.html)
+- [x] Day 4: [WCF 4; WLC 21-29; WSC 13-19](https://blog.swang.cloud/2024/11/30/chill-day.html)
+- [x] Day 5: [WCF 5; WLC 30-35; WSC 20-23](https://blog.swang.cloud/2024/12/01/diligent-private-prayer.html)
+- [x] Day 6: [WCF 6; WLC 36-42; WSC 24-26](https://blog.swang.cloud/2024/12/02/improving-my-swim-game.html)
 - [ ] Day 7: WCF 7; WLC 43-50; WSC 27-28
 - [ ] Day 8: WCF 8; WLC 51-56; WSC 29-32
 - [ ] Day 9: WCF 9; WLC 57-61; WSC 33-36
