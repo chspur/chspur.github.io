@@ -10,7 +10,7 @@ I was talking to a granny before swimming and she thought I was in high school. 
 | Dec. 2, 2024 |
 | :-------------: |
 | Deut. 6; Ps. 89; Isa. 34; Rev. 4 |
-| WCF 6; WLC 36-42; WSC 24-26 |
+| [WCF 6; WLC 36-42; WSC 24-26](https://blog.swang.cloud/2024/11/27/westminster-month-1.html) |
 | John 9; Ex. 27; Heb. 12; 1 Tim. 4; Job 15; Ps. 77; Prov. 15; 1 Sam. 28; Jer. 11; Acts 21 |
 
 </details>
