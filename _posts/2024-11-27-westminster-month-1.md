@@ -8,7 +8,7 @@
 - [x] Day 4: [WCF 4; WLC 21-29; WSC 13-19](https://blog.swang.cloud/2024/11/30/chill-day.html)
 - [x] Day 5: [WCF 5; WLC 30-35; WSC 20-23](https://blog.swang.cloud/2024/12/01/diligent-private-prayer.html)
 - [x] Day 6: [WCF 6; WLC 36-42; WSC 24-26](https://blog.swang.cloud/2024/12/02/improving-my-swim-game.html)
-- [ ] Day 7: WCF 7; WLC 43-50; WSC 27-28
+- [x] Day 7: [WCF 7; WLC 43-50; WSC 27-28](https://blog.swang.cloud/2024/12/03/calvinism-debunked.html)
 - [ ] Day 8: WCF 8; WLC 51-56; WSC 29-32
 - [ ] Day 9: WCF 9; WLC 57-61; WSC 33-36
 - [ ] Day 10: WCF 10; WLC 62-69; WSC 37-38

@@ -9,7 +9,7 @@ At BSF today, part of our discussion included 2 Peter 3:9 and our group leader, 
 
 | Dec. 3, 2024 |
 | :-------------: |
-| Deut. 7; Ps. 90; Isa. 35; Rev. 5 |
+| [Deut. 7; Ps. 90; Isa. 35; Rev. 5](https://blog.swang.cloud/2024/12/03/Bible-year-1.html) |
 | [WCF 7; WLC 43-50; WSC 27-28](https://blog.swang.cloud/2024/11/27/westminster-month-1.html) |
 | John 10; Ex. 28; Heb. 13; 1 Tim. 5; Job 16; Ps. 78; Prov. 16; 1 Sam. 29; Jer. 12; Acts 22 |
 

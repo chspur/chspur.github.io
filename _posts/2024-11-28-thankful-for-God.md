@@ -15,7 +15,7 @@ This is what my family ate for dinner. We always eat hot pot for Thanksgiving in
 
 | Nov. 28, 2024 |
 | :-------------: |
-| Deut. 2; Ps. 83-84; Isa. 30; Jude 1 |
+| [Deut. 2; Ps. 83-84; Isa. 30; Jude 1](https://blog.swang.cloud/2024/12/03/Bible-year-1.html) |
 | [WCF 2; WLC 7-11; WSC 4-6](https://blog.swang.cloud/2024/11/27/westminster-month-1.html) |
 | John 5; Ex. 23; Heb. 8; 2 Thess. 3; Job 11; Ps. 73; Prov. 11; 1 Sam. 24; Jer. 7; Acts 17 |
 
