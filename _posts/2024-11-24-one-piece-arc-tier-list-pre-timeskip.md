@@ -6,7 +6,7 @@ My [One Piece arc](https://onepiece.fandom.com/wiki/Story_Arcs) tier list up to 
 2. [Enies Lobby](https://onepiece.fandom.com/wiki/Enies_Lobby_Arc)
 3. [Sabaody Archipelago](https://onepiece.fandom.com/wiki/Sabaody_Archipelago_Arc)
 4. [Arabasta](https://onepiece.fandom.com/wiki/Arabasta_Arc)
-5. [Water 7](https://onepiece.fandom.com/wiki/Water_7_Saga)
+5. [Water 7](https://onepiece.fandom.com/wiki/Water_7_Arc)
 6. [Impel Down](https://onepiece.fandom.com/wiki/Impel_Down_Arc)
 7. [Romance Dawn](https://onepiece.fandom.com/wiki/Romance_Dawn_Arc)
 8. [Post-War](https://onepiece.fandom.com/wiki/Post-War_Arc)
