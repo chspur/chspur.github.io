@@ -16,7 +16,7 @@
 - [x] Day 12: [WCF 12; WLC 79-83; WSC 43-44](https://blog.swang.cloud/2024/12/08/dressrosa.html)
 - [x] Day 13: [WCF 13; WLC 84-90; WSC 45-48](https://blog.swang.cloud/2024/12/09/garmin-swim-2.html)
 - [x] Day 14: [WCF 14; WLC 91-98; WSC 49-52](https://blog.swang.cloud/2024/12/10/devo-struggles.html)
-- [ ] Day 15: WCF 15; WLC 99-100; WSC 53-56
+- [x] Day 15: [WCF 15; WLC 99-100; WSC 53-56](https://blog.swang.cloud/2024/12/11/start-with-thanksgiving.html)
 - [ ] Day 16: WCF 16; WLC 101-106; WSC 57-62
 - [ ] Day 17: WCF 17; WLC 107-114; WSC 63-66
 - [ ] Day 18: WCF 18; WLC 115-121; WSC 67-69
