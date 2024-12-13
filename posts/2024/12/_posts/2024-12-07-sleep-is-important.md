@@ -9,8 +9,8 @@ My free copy of the MacArthur Study Bible came in the mail today. Probably won't
 
 | Dec. 7, 2024 |
 | :-------------: |
-| [Deut. 11; Ps. 95-96; Isa. 39; Rev. 9](https://blog.swang.cloud/2024/12/03/Bible-year-1.html) |
-| [WCF 11; WLC 70-78; WSC 39-42](https://blog.swang.cloud/2024/11/27/westminster-month-1.html) |
+| [Deut. 11; Ps. 95-96; Isa. 39; Rev. 9](https://blog.swang.cloud/2024/12/03/Bible-year-1/) |
+| [WCF 11; WLC 70-78; WSC 39-42](https://blog.swang.cloud/2024/11/27/westminster-month-1/) |
 | [The Nicene Creed](https://threeforms.org/the-nicene-creed/) |
 
 </details>

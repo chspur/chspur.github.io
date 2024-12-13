@@ -9,8 +9,8 @@ Today's sermon was great. I loved being reminded that we are a holy priesthood a
 
 | Dec. 8, 2024 |
 | :-------------: |
-| [Deut. 12; Ps. 97-98; Isa. 40; Rev. 10](https://blog.swang.cloud/2024/12/03/Bible-year-1.html) |
-| [WCF 12; WLC 79-83; WSC 43-44](https://blog.swang.cloud/2024/11/27/westminster-month-1.html) |
+| [Deut. 12; Ps. 97-98; Isa. 40; Rev. 10](https://blog.swang.cloud/2024/12/03/Bible-year-1/) |
+| [WCF 12; WLC 79-83; WSC 43-44](https://blog.swang.cloud/2024/11/27/westminster-month-1/) |
 | [The Athanasian Creed](https://threeforms.org/the-athanasian-creed/) |
 
 </details>

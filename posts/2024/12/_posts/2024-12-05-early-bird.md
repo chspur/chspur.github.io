@@ -9,8 +9,8 @@ I think I'm going to try waking up at 6:30, just so I'm not so rushed to do my d
 
 | Dec. 5, 2024 |
 | :-------------: |
-| [Deut. 9; Ps. 92-93; Isa. 37; Rev. 7](https://blog.swang.cloud/2024/12/03/Bible-year-1.html) |
-| [WCF 9; WLC 57-61; WSC 33-36](https://blog.swang.cloud/2024/11/27/westminster-month-1.html) |
+| [Deut. 9; Ps. 92-93; Isa. 37; Rev. 7](https://blog.swang.cloud/2024/12/03/Bible-year-1/) |
+| [WCF 9; WLC 57-61; WSC 33-36](https://blog.swang.cloud/2024/11/27/westminster-month-1/) |
 | [The Athanasian Creed](https://threeforms.org/the-athanasian-creed/) |
 
 </details>

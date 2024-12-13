@@ -13,8 +13,8 @@ Another quote from J. C. Ryle's *A Call to Prayer*. This one encourages me to im
 
 | Dec. 6, 2024 |
 | :-------------: |
-| [Deut. 10; Ps. 94; Isa. 38; Rev. 8](https://blog.swang.cloud/2024/12/03/Bible-year-1.html) |
-| [WCF 10; WLC 62-69; WSC 37-38](https://blog.swang.cloud/2024/11/27/westminster-month-1.html) |
+| [Deut. 10; Ps. 94; Isa. 38; Rev. 8](https://blog.swang.cloud/2024/12/03/Bible-year-1/) |
+| [WCF 10; WLC 62-69; WSC 37-38](https://blog.swang.cloud/2024/11/27/westminster-month-1/) |
 | [The Apostles' Creed](https://threeforms.org/the-apostles-creed/) |
 
 </details>
