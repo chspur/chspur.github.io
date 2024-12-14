@@ -15,8 +15,8 @@ Only swam 2000 meters this morning. My head started hurting in the middle of my 
 
 | Dec. 13, 2024 |
 | :-------------: |
-| [Deut. 18; Ps. 105; Isa. 45; Rev. 15](https://blog.swang.cloud/2024/12/03/Bible-year-1.html) |
-| [WCF 17; WLC 107-114; WSC 63-66](https://blog.swang.cloud/2024/11/27/westminster-month-1.html) |
+| [Deut. 18; Ps. 105; Isa. 45; Rev. 15](https://blog.swang.cloud/2024/12/03/Bible-year-1/) |
+| [WCF 17; WLC 107-114; WSC 63-66](https://blog.swang.cloud/2024/11/27/westminster-month-1/) |
 | [The Nicene Creed](https://threeforms.org/the-nicene-creed/) |
 
 </details>
