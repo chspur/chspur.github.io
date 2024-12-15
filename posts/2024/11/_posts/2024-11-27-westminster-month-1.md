@@ -19,7 +19,7 @@
 - [x] Day 15: [WCF 15; WLC 99-100; WSC 53-56](https://blog.swang.cloud/2024/12/11/start-with-thanksgiving/)
 - [x] Day 16: [WCF 16; WLC 101-106; WSC 57-62](https://blog.swang.cloud/2024/12/12/pray-much/)
 - [x] Day 17: [WCF 17; WLC 107-114; WSC 63-66](https://blog.swang.cloud/2024/12/13/prayer-and-bowling/)
-- [ ] Day 18: WCF 18; WLC 115-121; WSC 67-69
+- [x] Day 18: [WCF 18; WLC 115-121; WSC 67-69](https://blog.swang.cloud/2024/12/14/a-petrus-christmas/)
 - [ ] Day 19: WCF 19; WLC 122-133; WSC 70-72
 - [ ] Day 20: WCF 20; WLC 134-139; WSC 73-75
 - [ ] Day 21: WCF 21; WLC 140-145; WSC 76-78
