@@ -7,8 +7,8 @@ I bought the Garmin Swim 2 recently and tried it for the first time today. It's 
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 13–14; Ps. 99–101; Isa. 41; Rev. 11](https://blog.swang.cloud/2024/12/03/Bible-year-1/) |
-| [WCF 13; WLC 84-90; WSC 45-48](https://blog.swang.cloud/2024/11/27/westminster-month-1/) |
+| [Deut. 13–14; Ps. 99–101; Isa. 41; Rev. 11]({% post_url 2024-12-03-Bible-year-1 %}) |
+| [WCF 13; WLC 84-90; WSC 45-48]({% post_url 2024-11-27-westminster-month-1 %}) |
 | [The Apostles' Creed](https://threeforms.org/the-apostles-creed/) |
 
 </details>

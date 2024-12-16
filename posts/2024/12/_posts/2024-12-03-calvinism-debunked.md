@@ -9,8 +9,8 @@ At BSF today, part of our discussion included 2 Peter 3:9 and our group leader, 
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 7; Ps. 90; Isa. 35; Rev. 5](https://blog.swang.cloud/2024/12/03/Bible-year-1/) |
-| [WCF 7; WLC 43-50; WSC 27-28](https://blog.swang.cloud/2024/11/27/westminster-month-1/) |
+| [Deut. 7; Ps. 90; Isa. 35; Rev. 5]({% post_url 2024-12-03-Bible-year-1 %}) |
+| [WCF 7; WLC 43-50; WSC 27-28]({% post_url 2024-11-27-westminster-month-1 %}) |
 | [The Apostles' Creed](https://threeforms.org/the-apostles-creed/) |
 
 </details>
