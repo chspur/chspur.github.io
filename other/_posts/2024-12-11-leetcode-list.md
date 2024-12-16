@@ -1,3 +1,7 @@
+---
+permalink: /:title/
+---
+
 ## leetcode list
 
 1. [Two Sum (#1)](https://leetcode.com/problems/two-sum/description/)

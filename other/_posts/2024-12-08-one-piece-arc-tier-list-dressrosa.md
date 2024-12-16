@@ -1,3 +1,7 @@
+---
+permalink: /:title/
+---
+
 ## one piece arc tier list (dressrosa)
 
 My [One Piece arc](https://onepiece.fandom.com/wiki/Story_Arcs) tier list up to Dressrosa.
