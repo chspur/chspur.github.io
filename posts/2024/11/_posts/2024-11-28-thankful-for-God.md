@@ -13,7 +13,7 @@ This is what my family ate for dinner. We always eat hot pot for Thanksgiving in
 <details markdown="1">
 <summary>daily reading</summary>
 
-| Nov. 28, 2024 |
+| {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
 | [Deut. 2; Ps. 83-84; Isa. 30; Jude 1](https://blog.swang.cloud/2024/12/03/Bible-year-1/) |
 | [WCF 2; WLC 7-11; WSC 4-6](https://blog.swang.cloud/2024/11/27/westminster-month-1/) |

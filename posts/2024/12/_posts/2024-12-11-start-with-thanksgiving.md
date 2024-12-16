@@ -9,7 +9,7 @@ Applied to Esri today. Hopefully, they are willing to take me back.
 <details markdown="1">
 <summary>daily reading</summary>
 
-| Dec. 11, 2024 |
+| {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
 | [Deut. 16; Ps. 103; Isa. 43; Rev. 13](https://blog.swang.cloud/2024/12/03/Bible-year-1/) |
 | [WCF 15; WLC 99-100; WSC 53-56](https://blog.swang.cloud/2024/11/27/westminster-month-1/) |

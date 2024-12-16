@@ -7,7 +7,7 @@ Once I started giving thanks to God, things started to get easier. Walking aroun
 <details markdown="1">
 <summary>daily reading</summary>
 
-| Dec. 10, 2024 |
+| {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
 | [Deut. 15; Ps. 102; Isa. 42; Rev. 12](https://blog.swang.cloud/2024/12/03/Bible-year-1/) |
 | [WCF 14; WLC 91-98; WSC 49-52](https://blog.swang.cloud/2024/11/27/westminster-month-1/) |

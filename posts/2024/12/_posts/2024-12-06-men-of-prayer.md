@@ -11,7 +11,7 @@ Another quote from J. C. Ryle's *A Call to Prayer*. This one encourages me to im
 <details markdown="1">
 <summary>daily reading</summary>
 
-| Dec. 6, 2024 |
+| {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
 | [Deut. 10; Ps. 94; Isa. 38; Rev. 8](https://blog.swang.cloud/2024/12/03/Bible-year-1/) |
 | [WCF 10; WLC 62-69; WSC 37-38](https://blog.swang.cloud/2024/11/27/westminster-month-1/) |

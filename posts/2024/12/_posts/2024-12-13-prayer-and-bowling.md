@@ -13,7 +13,7 @@ Only swam 2000 meters this morning. My head started hurting in the middle of my 
 <details markdown="1">
 <summary>daily reading</summary>
 
-| Dec. 13, 2024 |
+| {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
 | [Deut. 18; Ps. 105; Isa. 45; Rev. 15](https://blog.swang.cloud/2024/12/03/Bible-year-1/) |
 | [WCF 17; WLC 107-114; WSC 63-66](https://blog.swang.cloud/2024/11/27/westminster-month-1/) |

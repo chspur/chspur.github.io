@@ -7,7 +7,7 @@ My free copy of the MacArthur Study Bible came in the mail today. Probably won't
 <details markdown="1">
 <summary>daily reading</summary>
 
-| Dec. 7, 2024 |
+| {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
 | [Deut. 11; Ps. 95-96; Isa. 39; Rev. 9](https://blog.swang.cloud/2024/12/03/Bible-year-1/) |
 | [WCF 11; WLC 70-78; WSC 39-42](https://blog.swang.cloud/2024/11/27/westminster-month-1/) |

@@ -7,7 +7,7 @@ I think I'm going to try waking up at 6:30, just so I'm not so rushed to do my d
 <details markdown="1">
 <summary>daily reading</summary>
 
-| Dec. 5, 2024 |
+| {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
 | [Deut. 9; Ps. 92-93; Isa. 37; Rev. 7](https://blog.swang.cloud/2024/12/03/Bible-year-1/) |
 | [WCF 9; WLC 57-61; WSC 33-36](https://blog.swang.cloud/2024/11/27/westminster-month-1/) |
