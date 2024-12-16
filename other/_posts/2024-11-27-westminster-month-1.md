@@ -1,3 +1,7 @@
+---
+permalink: /:title/
+---
+
 ## westminster month 1
 
 *Started: Nov. 27, 2024*
