@@ -29,7 +29,7 @@ permalink: /:title/
 - [ ] Day 21: WCF 21; WLC 140-145; WSC 76-78
 - [ ] Day 22: WCF 22; WLC 146-152; WSC 79-81
 - [ ] Day 23: WCF 23; WLC 153-160; WSC 82-84
-- [ ] Day 24: WCF 24; WLC 161-164; WSC 176-177 85-87
+- [ ] Day 24: WCF 24; WLC 161-164, 176-177; WSC 85-87
 - [ ] Day 25: WCF 25; WLC 165-167; WSC 88-90
 - [ ] Day 26: WCF 26; WLC 168-175; WSC 91-93
 - [ ] Day 27: WCF 27; WLC 178-185; WSC 94-97
