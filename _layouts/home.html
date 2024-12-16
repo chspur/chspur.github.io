@@ -9,7 +9,7 @@ layout: default
   <h1 class="page-heading">Recent Posts</h1>
 
   <ul class="post-list">
-    {% for post in site.categories.posts limit:10 %}
+    {% for post in site.categories.posts limit:7 %}
       <li>
         <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
 
