@@ -10,6 +10,6 @@ title: Blog Archive
 
 <ul>
   {% for post in site.categories.posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ post.url }}">{{ post.date | date: "%B %-d, %Y" }} - {{ post.title }}</a></li>
   {% endfor %}
 </ul>
