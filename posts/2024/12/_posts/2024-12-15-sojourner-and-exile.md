@@ -5,7 +5,7 @@ Another excellent sermon today. It was on 1 Peter 2:10-12 and it was very intere
 I was also reminded today that I am a sojourner and exile in this world. I am a foreigner in this land and this is not my home. This world hates me, just as it hated my master. As a friend of God, I am an enemy of this world. I have renounced my citizenship in this world and my life must reflect that more and more. I must always live as a citizen of heaven. This world has nothing for me!
 
 <details markdown="1">
-<summary>Daily Reading</summary>
+<summary>daily reading</summary>
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
