@@ -8,13 +8,13 @@ title: Blog Archive
 # </ul>
 ---
 <style>
-  a:link, a:visited {
+  a.color:link, a.color:visited {
   color: #222288;
 }
 </style>
 
 <ul>
   {% for post in site.categories.posts %}
-    <li><a href="{{ post.url }}">{{ post.date | date: "%B %-d, %Y" }} - {{ post.title }}</a></li>
+    <li><a href="{{ post.url }}" class="color">{{ post.date | date: "%B %-d, %Y" }} - {{ post.title }}</a></li>
   {% endfor %}
 </ul>
