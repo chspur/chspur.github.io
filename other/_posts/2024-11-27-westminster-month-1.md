@@ -25,7 +25,7 @@ permalink: /:title/
 - [x] Day 17: [WCF 17; WLC 107-114; WSC 63-66]({% post_url 2024-12-13-prayer-and-bowling %})
 - [x] Day 18: [WCF 18; WLC 115-121; WSC 67-69]({% post_url 2024-12-14-a-petrus-christmas %})
 - [x] Day 19: [WCF 19; WLC 122-133; WSC 70-72]({% post_url 2024-12-15-sojourner-and-exile %})
-- [ ] Day 20: WCF 20; WLC 134-139; WSC 73-75
+- [x] Day 20: [WCF 20; WLC 134-139; WSC 73-75]({% post_url 2024-12-16-consistency-is-key %})
 - [ ] Day 21: WCF 21; WLC 140-145; WSC 76-78
 - [ ] Day 22: WCF 22; WLC 146-152; WSC 79-81
 - [ ] Day 23: WCF 23; WLC 153-160; WSC 82-84
