@@ -1,0 +1,2 @@
+The Google Font used in the favicon is called Shadows Into Light.
+The color used is #222288.
