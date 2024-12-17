@@ -51,3 +51,11 @@ footer a:link, a:visited {
 .post-link:link, .post-link:visited {
   color: #222288;
 }
+
+.archive-link:link, .archive-link:visited {
+  color: #222288;
+}
+
+.other-link:link, .other-link:visited {
+  color: #222288;
+}
