@@ -7,6 +7,11 @@ title: Blog Archive
 #   {% endfor %}
 # </ul>
 ---
+<style>
+  a:link, a:visited {
+  color: #222288;
+}
+</style>
 
 <ul>
   {% for post in site.categories.posts %}
