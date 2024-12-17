@@ -63,3 +63,7 @@ footer a:link, a:visited {
 .post-content a:link, a:visited {
   color: #222288;
 }
+
+* {
+  font-family: "charter", Georgia, serif;
+}
