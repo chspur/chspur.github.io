@@ -7,11 +7,8 @@ title: Blog Archive
 #   {% endfor %}
 # </ul>
 ---
-{% for category in site.categories.11 %}
-  <p>{{ category.title }}</p>
-{% endfor %}
-  <ul>
-    {% for post in site.categories.posts %}
-      <li><a href="{{ post.url }}" class="archive-link">{{ post.date | date: "%B %-d, %Y" }} - {{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+{% for month in (11..12) %}
+  {% for post in site.categories.2024.{{month}} %}
+    <p>{{ post.title }}</p>
+  {% endfor %}
+{% endfor %}  
