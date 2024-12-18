@@ -8,7 +8,7 @@ title: Blog Archive
 # </ul>
 ---
 {% for month in (11..12) %}
-  {% for post in site.categories.2024.{{month}} %}
+  {% for post in site.categories.2024.month %}
     <p>{{ post.title }}</p>
   {% endfor %}
 {% endfor %}  
