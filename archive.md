@@ -7,7 +7,7 @@ title: Blog Archive
 #   {% endfor %}
 # </ul>
 ---
-{% for category in site.categories.posts %}
+{% for category in site.categories.11 %}
   <p>{{ category.title }}</p>
 {% endfor %}
   <ul>
