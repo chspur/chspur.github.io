@@ -15,7 +15,7 @@ This is what my family ate for dinner. We always eat hot pot for Thanksgiving in
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 2; Ps. 83-84; Isa. 30; Jude 1]({% post_url 2024-12-03-Bible-year-1 %}) |
-| [WCF 2; WLC 7-11; WSC 4-6]({% post_url 2024-11-27-westminster-month-1 %}) |
+| [Deut. 2; Ps. 83-84; Isa. 30; Jude 1]({% link pages/Bible-year-1.md %}) |
+| [WCF 2; WLC 7-11; WSC 4-6]({% link pages/westminster-month-1.md %}) |
 
 </details>

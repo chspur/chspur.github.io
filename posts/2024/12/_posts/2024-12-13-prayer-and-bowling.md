@@ -15,8 +15,8 @@ Only swam 2000 meters this morning. My head started hurting in the middle of my 
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 18; Ps. 105; Isa. 45; Rev. 15]({% post_url 2024-12-03-Bible-year-1 %}) |
-| [WCF 17; WLC 107-114; WSC 63-66]({% post_url 2024-11-27-westminster-month-1 %}) |
+| [Deut. 18; Ps. 105; Isa. 45; Rev. 15]({% link pages/Bible-year-1.md %}) |
+| [WCF 17; WLC 107-114; WSC 63-66]({% link pages/westminster-month-1.md %}) |
 | [The Nicene Creed](https://threeforms.org/the-nicene-creed/) |
 
 </details>

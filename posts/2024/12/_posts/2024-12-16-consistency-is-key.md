@@ -9,8 +9,8 @@ Swam 2100 meters in sets of 300 today.
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 21; Ps. 108–109; Isa. 48; Rev. 18]({% post_url 2024-12-03-Bible-year-1 %}) |
-| [WCF 20; WLC 134-139; WSC 73-75]({% post_url 2024-11-27-westminster-month-1 %}) |
+| [Deut. 21; Ps. 108–109; Isa. 48; Rev. 18]({% link pages/Bible-year-1.md %}) |
+| [WCF 20; WLC 134-139; WSC 73-75]({% link pages/westminster-month-1.md %}) |
 | [The Nicene Creed](https://threeforms.org/the-nicene-creed/) |
 
 </details>

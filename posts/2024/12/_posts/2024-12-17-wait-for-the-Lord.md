@@ -11,8 +11,8 @@ My Bible reading today included Isaiah 49 and I feel like I experienced what Isa
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 22; Ps. 110–111; Isa. 49; Rev. 19]({% post_url 2024-12-03-Bible-year-1 %}) |
-| [WCF 21; WLC 140-145; WSC 76-78]({% post_url 2024-11-27-westminster-month-1 %}) |
+| [Deut. 22; Ps. 110–111; Isa. 49; Rev. 19]({% link pages/Bible-year-1.md %}) |
+| [WCF 21; WLC 140-145; WSC 76-78]({% link pages/westminster-month-1.md %}) |
 | [The Athanasian Creed](https://threeforms.org/the-athanasian-creed/) |
 
 </details>

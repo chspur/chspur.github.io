@@ -11,8 +11,8 @@ Went with Dad to pick up Petrus from school for winter break. He has a very nice
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 19; Ps. 106; Isa. 46; Rev. 16]({% post_url 2024-12-03-Bible-year-1 %}) |
-| [WCF 18; WLC 115-121; WSC 67-69]({% post_url 2024-11-27-westminster-month-1 %}) |
+| [Deut. 19; Ps. 106; Isa. 46; Rev. 16]({% link pages/Bible-year-1.md %}) |
+| [WCF 18; WLC 115-121; WSC 67-69]({% link pages/westminster-month-1.md %}) |
 | [The Athanasian Creed](https://threeforms.org/the-athanasian-creed/) |
 
 </details>

@@ -9,8 +9,8 @@ My free copy of the MacArthur Study Bible came in the mail today. Probably won't
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 11; Ps. 95-96; Isa. 39; Rev. 9]({% post_url 2024-12-03-Bible-year-1 %}) |
-| [WCF 11; WLC 70-78; WSC 39-42]({% post_url 2024-11-27-westminster-month-1 %}) |
+| [Deut. 11; Ps. 95-96; Isa. 39; Rev. 9]({% link pages/Bible-year-1.md %}) |
+| [WCF 11; WLC 70-78; WSC 39-42]({% link pages/westminster-month-1.md %}) |
 | [The Nicene Creed](https://threeforms.org/the-nicene-creed/) |
 
 </details>
