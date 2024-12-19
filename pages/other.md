@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Other
+permalink: /:title/
 ---
 
   <ul>
