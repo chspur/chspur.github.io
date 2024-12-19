@@ -1,7 +1,7 @@
 ---
 layout: page
-title: One Piece Arcs Tier List (Dressrosa)
-permalink: /one-piece-arcs-tier-list-dressrosa/
+title: One Piece Arc Tier List (Dressrosa)
+permalink: /one-piece-arc-tier-list-dressrosa/
 navbar: false
 ---
 

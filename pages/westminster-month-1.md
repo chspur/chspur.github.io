@@ -1,8 +1,9 @@
 ---
-permalink: /:title/
+layout: page
+title: Westminster Standards Month 1
+permalink: /westminster-month-1/
+navbar: false
 ---
-
-## westminster month 1
 
 *Started: Nov. 27, 2024*
 

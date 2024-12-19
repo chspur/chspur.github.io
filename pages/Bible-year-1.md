@@ -1,8 +1,9 @@
 ---
-permalink: /:title/
+layout: page
+title: Bible Year 1
+permalink: /Bible-year-1/
+navbar: false
 ---
-
-## Bible year 1
 
 *Started: July 3, 2024*
 

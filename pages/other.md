@@ -5,11 +5,8 @@ permalink: /other/
 navbar: true
 ---
 
-  <ul>
-    {% for post in site.categories.other %}
-      <li><a href="{{ post.url }}" class="other-link">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-
-- [One Piece Arc Tier List (Pre-Timeskip)]({% link pages/one-piece-arcs-tier-list-pre-timeskip.md %})
-- [One Piece Arc Tier List (Dressrosa)]({% link pages/one-piece-arcs-tier-list-dressrosa.md %})
+- [Bible Year 1]({% link pages/Bible-year-1.md %})
+- [Westminster Standards Month 1]({% link pages/westminster-month-1.md %})
+- [One Piece Arc Tier List (Pre-Timeskip)]({% link pages/one-piece-arc-tier-list-pre-timeskip.md %})
+- [One Piece Arc Tier List (Dressrosa)]({% link pages/one-piece-arc-tier-list-dressrosa.md %})
+- [LeetCode List]({% link pages/leetcode-list %})

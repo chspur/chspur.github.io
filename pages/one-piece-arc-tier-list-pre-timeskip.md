@@ -1,7 +1,7 @@
 ---
 layout: page
-title: One Piece Arcs Tier List (Pre-Timeskip)
-permalink: /one-piece-arcs-tier-list-pre-timeskip/
+title: One Piece Arc Tier List (Pre-Timeskip)
+permalink: /one-piece-arc-tier-list-pre-timeskip/
 navbar: false
 ---
 
