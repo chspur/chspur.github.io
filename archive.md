@@ -8,28 +8,8 @@ title: Blog Archive
 # </ul>
 ---
 
-<details>
-<summary>2024</summary>
-  <ul>
-    <li>
-      <details>
-      <summary>December</summary>
-        <ul>
-          {% for post in site.categories.12 %}
-            <li><a href="{{ post.url }}" class="archive-link">{{ post.date | date: "%B %-d, %Y" }} - {{ post.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details>
-      <summary>November</summary>
-        <ul>
-          {% for post in site.categories.11 %}
-            <li><a href="{{ post.url }}" class="archive-link">{{ post.date | date: "%B %-d, %Y" }} - {{ post.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </details>
-    </li>
-  </ul>
-</details>
+<ul>
+  {% for post in site.categories.posts %}
+    <li><a href="{{ post.url }}" class="archive-link">{{ post.date | date: "%B %-d, %Y" }} - {{ post.title }}</a></li>
+  {% endfor %}
+</ul>
