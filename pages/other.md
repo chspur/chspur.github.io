@@ -2,6 +2,7 @@
 layout: page
 title: Other
 permalink: /other/
+navbar: true
 ---
 
   <ul>
