@@ -9,7 +9,7 @@ title: Blog Archive
 ---
 
 <details>
-<summary><h2>December 2024</h2></summary>
+<summary>December 2024</summary>
   <ul>
     {% for post in site.categories.12 %}
       <li><a href="{{ post.url }}" class="archive-link">{{ post.date | date: "%B %-d, %Y" }} - {{ post.title }}</a></li>
@@ -18,7 +18,7 @@ title: Blog Archive
 </details>
 
 <details>
-<summary><h2>November 2024</h2></summary>
+<summary>November 2024</summary>
   <ul>
     {% for post in site.categories.11 %}
       <li><a href="{{ post.url }}" class="archive-link">{{ post.date | date: "%B %-d, %Y" }} - {{ post.title }}</a></li>
