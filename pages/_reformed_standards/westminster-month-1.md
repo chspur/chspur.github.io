@@ -5,7 +5,7 @@ permalink: /westminster-month-1/
 navbar: false
 ---
 
-*Started: Nov. 27, 2024*
+*Started: November 27, 2024*
 
 - [x] Day 1: [WCF 1; WLC 1-6; WSC 1-3]({% post_url 2024-11-27-a-petrus-thanksgiving %})
 - [x] Day 2: [WCF 2; WLC 7-11; WSC 4-6]({% post_url 2024-11-28-thankful-for-God %})
