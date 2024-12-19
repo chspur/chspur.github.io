@@ -2,6 +2,8 @@
 
 I probably spent around five hours reconfiguring stuff on my blog this afternoon. That's pretty much all I did today besides doing my devos and swimming in the morning. Crazy.
 
+Swam 2500 meters today. I did 2100 freestyle in sets of 300 and 400 breastroke in sets of 200.
+
 Was watching a Gavin Ortlund video on church history and he said something that I thought was very insightful:
 
 > The only alternative to conscious engagement with the past is an unconscious relation to the past. In other words, the only alternative to studying history is to be blindly shaped by history.
