@@ -1,6 +1,6 @@
 ## working on my blog
 
-I probably spent around five hours reconfiguring stuff on my blog this afternoon. That's pretty much all I did today besides doing my devos and swimming in the morning. Crazy stuff.
+I probably spent around five hours reconfiguring stuff on my blog this afternoon. That's pretty much all I did today besides doing my devos and swimming in the morning. Crazy.
 
 Was watching a Gavin Ortlund video on church history and he said something that I thought was very insightful:
 
