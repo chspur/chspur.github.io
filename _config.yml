@@ -42,3 +42,7 @@ defaults:
       tags: Other
 
 permalink: /:year/:month/:day/:title/
+
+collections:
+  - Bible
+  - reformed_standards
