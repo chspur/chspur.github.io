@@ -1,5 +1,6 @@
 ---
 permalink: /:title/
+published: false
 ---
 
 ## leetcode list
