@@ -9,8 +9,8 @@ I was also reminded today that I am a sojourner and exile in this world. I am a 
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 20; Ps. 107; Isa. 47; Rev. 17]({% link pages/Bible-year-1.md %}) |
-| [WCF 19; WLC 122-133; WSC 70-72]({% link pages/westminster-month-1.md %}) |
+| [Deut. 20; Ps. 107; Isa. 47; Rev. 17]({% link pages/_Bible/Bible-year-1.md %}) |
+| [WCF 19; WLC 122-133; WSC 70-72]({% link pages/_reformed_standards/westminster-month-1.md %}) |
 | [The Apostles' Creed](https://threeforms.org/the-apostles-creed/) |
 
 </details>

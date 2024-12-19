@@ -11,8 +11,8 @@ Applied to Esri today. Hopefully, they are willing to take me back.
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 16; Ps. 103; Isa. 43; Rev. 13]({% link pages/Bible-year-1.md %}) |
-| [WCF 15; WLC 99-100; WSC 53-56]({% link pages/westminster-month-1.md %}) |
+| [Deut. 16; Ps. 103; Isa. 43; Rev. 13]({% link pages/_Bible/Bible-year-1.md %}) |
+| [WCF 15; WLC 99-100; WSC 53-56]({% link pages/_reformed_standards/westminster-month-1.md %}) |
 | [The Athanasian Creed](https://threeforms.org/the-athanasian-creed/) |
 
 </details>

@@ -13,8 +13,8 @@ Another quote from J. C. Ryle's *A Call to Prayer*. This one encourages me to im
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 10; Ps. 94; Isa. 38; Rev. 8]({% link pages/Bible-year-1.md %}) |
-| [WCF 10; WLC 62-69; WSC 37-38]({% link pages/westminster-month-1.md %}) |
+| [Deut. 10; Ps. 94; Isa. 38; Rev. 8]({% link pages/_Bible/Bible-year-1.md %}) |
+| [WCF 10; WLC 62-69; WSC 37-38]({% link pages/_reformed_standards/westminster-month-1.md %}) |
 | [The Apostles' Creed](https://threeforms.org/the-apostles-creed/) |
 
 </details>

@@ -9,7 +9,7 @@ I was talking to a granny before swimming and she thought I was in high school. 
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 6; Ps. 89; Isa. 34; Rev. 4]({% link pages/Bible-year-1.md %}) |
-| [WCF 6; WLC 36-42; WSC 24-26]({% link pages/westminster-month-1.md %}) |
+| [Deut. 6; Ps. 89; Isa. 34; Rev. 4]({% link pages/_Bible/Bible-year-1.md %}) |
+| [WCF 6; WLC 36-42; WSC 24-26]({% link pages/_reformed_standards/westminster-month-1.md %}) |
 
 </details>

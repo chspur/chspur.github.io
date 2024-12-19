@@ -13,7 +13,7 @@ J. C. Ryle's *A Call to Prayer* is one of my favorite books. It's a concise, lit
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 5; Ps. 88; Isa. 33; Rev. 3]({% link pages/Bible-year-1.md %}) |
-| [WCF 5; WLC 30-35; WSC 20-23]({% link pages/westminster-month-1.md %}) |
+| [Deut. 5; Ps. 88; Isa. 33; Rev. 3]({% link pages/_Bible/Bible-year-1.md %}) |
+| [WCF 5; WLC 30-35; WSC 20-23]({% link pages/_reformed_standards/westminster-month-1.md %}) |
 
 </details>

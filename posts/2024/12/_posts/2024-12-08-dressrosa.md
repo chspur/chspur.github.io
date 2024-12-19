@@ -9,8 +9,8 @@ Today's sermon was great. I loved being reminded that we are a holy priesthood a
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 12; Ps. 97-98; Isa. 40; Rev. 10]({% link pages/Bible-year-1.md %}) |
-| [WCF 12; WLC 79-83; WSC 43-44]({% link pages/westminster-month-1.md %}) |
+| [Deut. 12; Ps. 97-98; Isa. 40; Rev. 10]({% link pages/_Bible/Bible-year-1.md %}) |
+| [WCF 12; WLC 79-83; WSC 43-44]({% link pages/_reformed_standards/westminster-month-1.md %}) |
 | [The Athanasian Creed](https://threeforms.org/the-athanasian-creed/) |
 
 </details>

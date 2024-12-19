@@ -21,7 +21,7 @@ Ate dinner at Class 302 in Irvine before heading home. Pretty good.
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 1; Ps. 81-82; Isa. 29; 3 John 1]({% link pages/Bible-year-1.md %}) |
-| [WCF 1; WLC 1-6; WSC 1-3]({% link pages/westminster-month-1.md %}) |
+| [Deut. 1; Ps. 81-82; Isa. 29; 3 John 1]({% link pages/_Bible/Bible-year-1.md %}) |
+| [WCF 1; WLC 1-6; WSC 1-3]({% link pages/_reformed_standards/westminster-month-1.md %}) |
 
 </details>
