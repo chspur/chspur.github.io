@@ -28,7 +28,7 @@ navbar: false
 - [x] Day 19: [WCF 19; WLC 122-133; WSC 70-72]({% post_url 2024-12-15-sojourner-and-exile %})
 - [x] Day 20: [WCF 20; WLC 134-139; WSC 73-75]({% post_url 2024-12-16-consistency-is-key %})
 - [x] Day 21: [WCF 21; WLC 140-145; WSC 76-78]({% post_url 2024-12-17-wait-for-the-Lord %})
-- [ ] Day 22: WCF 22; WLC 146-152; WSC 79-81
+- [x] Day 22: [WCF 22; WLC 146-152; WSC 79-81]({% post_url 2024-12-18-working-on-my-blog %})
 - [ ] Day 23: WCF 23; WLC 153-160; WSC 82-84
 - [ ] Day 24: WCF 24; WLC 161-164, 176-177; WSC 85-87
 - [ ] Day 25: WCF 25; WLC 165-167; WSC 88-90
