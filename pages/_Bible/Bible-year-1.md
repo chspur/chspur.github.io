@@ -176,7 +176,7 @@ navbar: false
 - [x] Day 167: [Deut. 21; Ps. 108–109; Isa. 48; Rev. 18]({% post_url 2024-12-16-consistency-is-key %})
 - [x] Day 168: [Deut. 22; Ps. 110–111; Isa. 49; Rev. 19]({% post_url 2024-12-17-wait-for-the-Lord %})
 - [x] Day 169: [Deut. 23; Ps. 112–113; Isa. 50; Rev. 20]({% post_url 2024-12-18-working-on-my-blog %})
-- [ ] Day 170: Deut. 24; Ps. 114–115; Isa. 51; Rev. 21
+- [x] Day 170: [Deut. 24; Ps. 114–115; Isa. 51; Rev. 21]({% post_url 2024-12-19-one-thing %})
 - [ ] Day 171: Deut. 25; Ps. 116; Isa. 52; Rev. 22
 - [ ] Day 172: Deut. 26; Ps. 117–118; Isa. 53; Matt. 1
 - [ ] Day 173: Deut. 27:1–28:19; Ps. 119:1–24; Isa. 54; Matt. 2
