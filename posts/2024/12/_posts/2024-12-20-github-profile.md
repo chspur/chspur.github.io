@@ -2,7 +2,7 @@
 
 Updated my GitHub profile today. It looks pretty cool now and it wasn't that hard to do.
 
-I forgot my watch today so I'm not exactly sure how much I swam. I definitely swam 2000+ meters though.
+I forgot my watch today so I'm not sure exactly how much I swam, but it was definitely over 2000 meters.
 
 <details markdown="1">
 <summary>daily reading</summary>
