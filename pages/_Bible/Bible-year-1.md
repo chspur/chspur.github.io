@@ -178,7 +178,7 @@ navbar: false
 - [x] Day 169: [Deut. 23; Ps. 112–113; Isa. 50; Rev. 20]({% post_url 2024-12-18-working-on-my-blog %})
 - [x] Day 170: [Deut. 24; Ps. 114–115; Isa. 51; Rev. 21]({% post_url 2024-12-19-one-thing %})
 - [x] Day 171: [Deut. 25; Ps. 116; Isa. 52; Rev. 22]({% post_url 2024-12-20-github-profile %})
-- [ ] Day 172: Deut. 26; Ps. 117–118; Isa. 53; Matt. 1
+- [x] Day 172: [Deut. 26; Ps. 117–118; Isa. 53; Matt. 1]({% post_url 2024-12-21-soup-n-fresh %})
 - [ ] Day 173: Deut. 27:1–28:19; Ps. 119:1–24; Isa. 54; Matt. 2
 - [ ] Day 174: Deut. 28:20–68; Ps. 119:25–48; Isa. 55; Matt. 3
 - [ ] Day 175: Deut. 29; Ps. 119:49–72; Isa. 56; Matt. 4
