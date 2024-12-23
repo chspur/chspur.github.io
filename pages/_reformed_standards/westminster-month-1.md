@@ -32,7 +32,7 @@ navbar: false
 - [x] Day 23: [WCF 23; WLC 153-160; WSC 82-84]({% post_url 2024-12-19-one-thing %})
 - [x] Day 24: [WCF 24; WLC 161-164, 176-177; WSC 85-87]({% post_url 2024-12-20-github-profile %})
 - [x] Day 25: [WCF 25; WLC 165-167; WSC 88-90]({% post_url 2024-12-21-soup-n-fresh %})
-- [ ] Day 26: WCF 26; WLC 168-175; WSC 91-93
+- [x] Day 26: [WCF 26; WLC 168-175; WSC 91-93]({% post_url 2024-12-22-new-and-old-friends %})
 - [ ] Day 27: WCF 27; WLC 178-185; WSC 94-97
 - [ ] Day 28: WCF 28; WLC 186-189; WSC 98-100
 - [ ] Day 29: WCF 29; WLC 190-192; WSC 101-103
