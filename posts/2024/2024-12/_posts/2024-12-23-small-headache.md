@@ -9,8 +9,8 @@ I was going to hang out with Chen this afternoon, but then we just decided to pl
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 28:20–68; Ps. 119:25–48; Isa. 55; Matt. 3]({% link pages/_Bible/Bible-year-1.md %}) |
-| [WCF 27; WLC 178-185; WSC 94-97]({% link pages/_reformed_standards/westminster-month-1.md %}) |
+| [Deut. 28:20–68; Ps. 119:25–48; Isa. 55; Matt. 3]({% link _Bible/Bible-year-1.md %}) |
+| [WCF 27; WLC 178-185; WSC 94-97]({% link _westminster/westminster-month-1.md %}) |
 | [The Athanasian Creed](https://threeforms.org/the-athanasian-creed/) |
 
 </details>

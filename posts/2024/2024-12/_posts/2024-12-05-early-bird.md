@@ -9,8 +9,8 @@ I think I'm going to try waking up at 6:30, just so I'm not so rushed to do my d
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 9; Ps. 92-93; Isa. 37; Rev. 7]({% link pages/_Bible/Bible-year-1.md %}) |
-| [WCF 9; WLC 57-61; WSC 33-36]({% link pages/_reformed_standards/westminster-month-1.md %}) |
+| [Deut. 9; Ps. 92-93; Isa. 37; Rev. 7]({% link _Bible/Bible-year-1.md %}) |
+| [WCF 9; WLC 57-61; WSC 33-36]({% link _westminster/westminster-month-1.md %}) |
 | [The Athanasian Creed](https://threeforms.org/the-athanasian-creed/) |
 
 </details>

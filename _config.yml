@@ -44,12 +44,9 @@ defaults:
 permalink: /:year/:month/:day/:title/
 
 collections:
-  - reformed_standards
   - Bible
-  - test_collection
-
+  - westminster
 
 include:
   - _Bible
-  - _reformed_standards
-  - _test_collection
+  - _westminster

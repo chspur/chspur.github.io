@@ -13,8 +13,8 @@ Was watching a Gavin Ortlund video on church history and he said something that 
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 23; Ps. 112–113; Isa. 50; Rev. 20]({% link pages/_Bible/Bible-year-1.md %}) |
-| [WCF 22; WLC 146-152; WSC 79-81]({% link pages/_reformed_standards/westminster-month-1.md %}) |
+| [Deut. 23; Ps. 112–113; Isa. 50; Rev. 20]({% link _Bible/Bible-year-1.md %}) |
+| [WCF 22; WLC 146-152; WSC 79-81]({% link _westminster/westminster-month-1.md %}) |
 | [The Apostles' Creed](https://threeforms.org/the-apostles-creed/) |
 
 </details>

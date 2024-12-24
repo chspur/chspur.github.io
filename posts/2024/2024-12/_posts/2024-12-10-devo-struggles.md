@@ -9,8 +9,8 @@ Once I started giving thanks to God, things started to get easier. Walking aroun
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Deut. 15; Ps. 102; Isa. 42; Rev. 12]({% link pages/_Bible/Bible-year-1.md %}) |
-| [WCF 14; WLC 91-98; WSC 49-52]({% link pages/_reformed_standards/westminster-month-1.md %}) |
+| [Deut. 15; Ps. 102; Isa. 42; Rev. 12]({% link _Bible/Bible-year-1.md %}) |
+| [WCF 14; WLC 91-98; WSC 49-52]({% link _westminster/westminster-month-1.md %}) |
 | [The Nicene Creed](https://threeforms.org/the-nicene-creed/) |
 
 </details>
