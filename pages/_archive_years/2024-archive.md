@@ -6,7 +6,7 @@ navbar: false
 ---
 
 <ul>
-  {% for page in site.2024 %}
+  {% for page in site.2024_archive %}
     <li><a href="{{ page.url }}">{{ page.title }}</a></li>
   {% endfor %}
 </ul>

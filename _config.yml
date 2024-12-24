@@ -46,11 +46,11 @@ permalink: /:year/:month/:day/:title/
 collections:
   - Bible
   - reformed_standards
-  - years
-  - months
+  - archive_years
+  - 2024_archive
 
 include:
   - _Bible
   - _reformed_standards
-  - _years
-  - _months
+  - _archive_years
+  - _2024_archive
