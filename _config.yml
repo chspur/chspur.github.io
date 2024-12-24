@@ -43,15 +43,13 @@ defaults:
 
 permalink: /:year/:month/:day/:title/
 
+collections_dir: pages
+
 collections:
   - reformed_standards
   - archive_years
-
-collections:
-  2024_archive:
-    output: true
-  Bible:
-    output: true
+  - Bible
+  - 2024_archive
 
 include:
   - _Bible
