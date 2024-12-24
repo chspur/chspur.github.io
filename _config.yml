@@ -44,11 +44,13 @@ defaults:
 permalink: /:year/:month/:day/:title/
 
 collections:
-  2024_archive:
-    output: true
   - Bible
   - reformed_standards
   - archive_years
+
+collections:
+  2024_archive:
+    output: true
 
 include:
   - _Bible
