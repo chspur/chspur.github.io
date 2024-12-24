@@ -47,7 +47,8 @@ collections:
   - Bible
   - reformed_standards
   - archive_years
-  - 2024_archive
+  2024_archive:
+    output: true
 
 include:
   - _Bible
