@@ -45,12 +45,8 @@ permalink: /:year/:month/:day/:title/
 
 collections:
   - reformed_standards
-  - archive_years
   - Bible
-  - 2024_archive
 
 include:
   - _Bible
   - _reformed_standards
-  - _archive_years
-  - _2024_archive
