@@ -47,10 +47,10 @@ collections:
   - Bible
   - reformed_standards
   - years
-  - 2024
+  - months
 
 include:
   - _Bible
   - _reformed_standards
   - _years
-  - _2024
+  - _months
