@@ -46,7 +46,10 @@ permalink: /:year/:month/:day/:title/
 collections:
   - reformed_standards
   - Bible
+  - test_collection
+
 
 include:
   - _Bible
   - _reformed_standards
+  - _test_collection
