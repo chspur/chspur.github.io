@@ -10,3 +10,9 @@ navbar: false
     <li><a href="{{ month.url }}">{{ month.title }}</a></li>
   {% endfor %}
 </ul>
+
+<ul>
+  {% for month in site.2024_archive %}
+    <li>{{ month.test }}</li>
+  {% endfor %}
+</ul>
