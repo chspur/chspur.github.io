@@ -2,11 +2,11 @@
 
 Prayer meeting was great today. We went bowling after and I managed to break 100 on our second game.
 
-![image showing my score of 106 points](/images/2024/12/2024-12-13-prayer-and-bowling/breaking-100-points.jpg)
+![image showing my score of 106 points](/images/2024/2024-12/2024-12-13-prayer-and-bowling/breaking-100-points.jpg)
 
 There was also a funny moment where all of us scored 9 points on our first frame.
 
-![image showing scores of 9 across the board](/images/2024/12/2024-12-13-prayer-and-bowling/all-9-scores.jpg)
+![image showing scores of 9 across the board](/images/2024/2024-12/2024-12-13-prayer-and-bowling/all-9-scores.jpg)
 
 Only swam 2000 meters this morning. My head started hurting in the middle of my swim, so I took it easy after that. I did 1500 freestyle and 500 breastroke.
 
