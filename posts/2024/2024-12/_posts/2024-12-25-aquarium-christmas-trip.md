@@ -8,7 +8,6 @@ Grateful that we could celebrate "God with us" today as a family.
 
 <details markdown="1">
 <summary>daily reading</summary>
-<br>
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
