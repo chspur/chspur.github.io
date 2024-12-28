@@ -7,7 +7,7 @@ navbar: false
 
 My [One Piece arc](https://onepiece.fandom.com/wiki/Story_Arcs) tier list up to Dressrosa.
 
-<h3>S tier (absolute best)</h3>
+<h2>S tier (absolute best)</h2>
 <p>
     1. <a href="https://onepiece.fandom.com/wiki/Dressrosa_Arc">Dressrosa</a><br>
     2. <a href="https://onepiece.fandom.com/wiki/Marineford_Arc">Marineford</a><br>
