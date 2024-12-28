@@ -184,7 +184,7 @@ navbar: false
 - [x] Day 175: [Deut. 29; Ps. 119:49–72; Isa. 56; Matt. 4]({% post_url 2024-12-24-psalm-119 %})
 - [x] Day 176: [Deut. 30; Ps. 119:73–96; Isa. 57; Matt. 5]({% post_url 2024-12-25-aquarium-christmas-trip %})
 - [x] Day 177: [Deut. 31; Ps. 119:97–120; Isa. 58; Matt. 6]({% post_url 2024-12-26-fish-are-cool %})
-- [ ] Day 178: Deut. 32; Ps. 119:121–144; Isa. 59; Matt. 7
+- [x] Day 178: [Deut. 32; Ps. 119:121–144; Isa. 59; Matt. 7]({% post_url 2024-12-27-jellies %})
 - [ ] Day 179: Deut. 33–34; Ps. 119:145–176; Isa. 60; Matt. 8
 - [ ] Day 180: Josh. 1; Ps. 120–122; Isa. 61; Matt. 9
 - [ ] Day 181: Josh. 2; Ps. 123–125; Isa. 62; Matt. 10
