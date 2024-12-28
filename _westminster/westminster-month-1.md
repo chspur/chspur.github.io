@@ -36,8 +36,8 @@ navbar: false
 - [x] Day 27: [WCF 27; WLC 178-185; WSC 94-97]({% post_url 2024-12-23-small-headache %})
 - [x] Day 28: [WCF 28; WLC 186-189; WSC 98-100]({% post_url 2024-12-24-psalm-119 %})
 - [x] Day 29: [WCF 29; WLC 190-192; WSC 101-103]({% post_url 2024-12-25-aquarium-christmas-trip %})
-- [ ] Day 30: WCF 30-33; WLC 193-196; WSC 104-107
+- [x] Day 30: [WCF 30-33; WLC 193-196; WSC 104-107]({% post_url 2024-12-26-fish-are-cool %})
 
-*Finished:*
+*Finished: December 26, 2024*
 
 [*Source: Mid-America Reformed Seminary*](https://s3.us-west-1.amazonaws.com/blog.swang.cloud/reformed-standards-monthly.pdf)
