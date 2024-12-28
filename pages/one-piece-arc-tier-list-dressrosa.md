@@ -11,18 +11,21 @@ My [One Piece arc](https://onepiece.fandom.com/wiki/Story_Arcs) tier list up to 
 1. [Dressrosa](https://onepiece.fandom.com/wiki/Dressrosa_Arc)
 2. [Marineford](https://onepiece.fandom.com/wiki/Marineford_Arc)
 3. [Enies Lobby](https://onepiece.fandom.com/wiki/Enies_Lobby_Arc)
+
 ### A tier (very solid)
 4. [Sabaody Archipelago](https://onepiece.fandom.com/wiki/Sabaody_Archipelago_Arc)
 5. [Arabasta](https://onepiece.fandom.com/wiki/Arabasta_Arc)
 6. [Water 7](https://onepiece.fandom.com/wiki/Water_7_Arc)
 7. [Impel Down](https://onepiece.fandom.com/wiki/Impel_Down_Arc)
 8. [Romance Dawn](https://onepiece.fandom.com/wiki/Romance_Dawn_Arc)
+
 ### B tier (pretty decent)
 9. [Punk Hazard](https://onepiece.fandom.com/wiki/Punk_Hazard_Arc)
 10. [Post-War](https://onepiece.fandom.com/wiki/Post-War_Arc)
 11. [Post-Enies Lobby](https://onepiece.fandom.com/wiki/Post-Enies_Lobby_Arc)
 12. [Baratie](https://onepiece.fandom.com/wiki/Baratie_Arc)
 13. [Arlong Park](https://onepiece.fandom.com/wiki/Arlong_Park_Arc)
+
 ### C tier (just average)
 14. [Fish-Man Island](https://onepiece.fandom.com/wiki/Fish-Man_Island_Arc)
 15. [Thriller Bark](https://onepiece.fandom.com/wiki/Thriller_Bark_Arc)
@@ -33,11 +36,12 @@ My [One Piece arc](https://onepiece.fandom.com/wiki/Story_Arcs) tier list up to 
 20. [Amazon Lily](https://onepiece.fandom.com/wiki/Amazon_Lily_Arc)
 21. [Little Garden](https://onepiece.fandom.com/wiki/Little_Garden_Arc)
 22. [Syrup Village](https://onepiece.fandom.com/wiki/Syrup_Village_Arc)
+
 ### D tier (quite mediocre)
 23. [Whiskey Peak](https://onepiece.fandom.com/wiki/Whisky_Peak_Arc)
 24. [Orange Town](https://onepiece.fandom.com/wiki/Orange_Town_Arc)
 25. [Jaya](https://onepiece.fandom.com/wiki/Jaya_Arc)
 26. [Reverse Mountain](https://onepiece.fandom.com/wiki/Reverse_Mountain_Arc)
 
-## F tier (surprisingly canon)
+### F tier (surprisingly canon)
 27. [Long Ring Long Land](https://onepiece.fandom.com/wiki/Long_Ring_Long_Land_Arc)
