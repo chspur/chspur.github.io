@@ -3,10 +3,9 @@ layout: page
 title: Three Forms of Unity Month 1
 permalink: /three-forms-month-1/
 navbar: false
-published: false
 ---
 
-*Started:*
+*Started: December 27, 2024*
 
 - [ ] Day 1: BC 1-2; HC 1-5; CD I: Art. 1-4
 - [ ] Day 2: BC 3-4; HC 6-11; CD I: Art. 5-7
