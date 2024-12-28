@@ -46,7 +46,9 @@ permalink: /:year/:month/:day/:title/
 collections:
   - Bible
   - westminster
+  - three_forms
 
 include:
   - _Bible
   - _westminster
+  - _three_forms
