@@ -45,7 +45,7 @@ navbar: false
     22. <a href="https://onepiece.fandom.com/wiki/Syrup_Village_Arc">Syrup Village</a><br>
 </p>
 
-<h3>D tier (quite mediocre)</h3>
+<h3>D tier (fairly mediocre)</h3>
 <p>
     23. <a href="https://onepiece.fandom.com/wiki/Whisky_Peak_Arc">Whiskey Peak</a><br>
     24. <a href="https://onepiece.fandom.com/wiki/Orange_Town_Arc">Orange Town</a><br>
