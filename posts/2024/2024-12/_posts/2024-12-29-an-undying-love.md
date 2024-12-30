@@ -1,4 +1,4 @@
-##
+## an undying love
 
 Today was the last Lord's Day of the year. P Dan was preaching from Ephesians 6:24 on what a dying and undying love for Christ looks like. He reminded us that a dying or a fleeting love for Christ is marked by a love for the world in the heart. Worldliness, friendship with the world, a preference for the world's mindset towards life and the world's purpose for your life is what kills love for Christ in the heart. Love for this present world and love for Christ are mutually exclusive.
 
