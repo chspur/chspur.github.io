@@ -9,7 +9,7 @@ navbar: false
 
 - [x] Day 1: [BC 1-2; HC 1-5; CD I: Art. 1-4]({% post_url 2024-12-27-jellies %})
 - [x] Day 2: [BC 3-4; HC 6-11; CD I: Art. 5-7]({% post_url 2024-12-28-driving-back %})
-- [ ] Day 3: BC 5-6; HC 12-15; CD I: Art. 8-12
+- [x] Day 3: [BC 5-6; HC 12-15; CD I: Art. 8-12]({% post_url 2024-12-29-an-undying-love %})
 - [ ] Day 4: BC 7; HC 16-19; CD I: Art. 13-15
 - [ ] Day 5: BC 8; HC 20-23; CD I: Art. 16-18
 - [ ] Day 6: BC 9; HC 24-26; CD I: Rej. 1-3
