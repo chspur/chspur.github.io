@@ -189,7 +189,7 @@ navbar: false
 - [x] Day 180: [Josh. 1; Ps. 120–122; Isa. 61; Matt. 9]({% post_url 2024-12-29-an-undying-love %})
 - [x] Day 181: [Josh. 2; Ps. 123–125; Isa. 62; Matt. 10]({% post_url 2024-12-30-consistency-is-key %})
 - [x] Day 182: [Josh. 3; Ps. 126–128; Isa. 63; Matt. 11]({% post_url 2024-12-31-last-post-of-2024 %})
-- [ ] Day 183: Josh. 4; Ps. 129–131; Isa. 64; Matt. 12
+- [x] Day 183: [Josh. 4; Ps. 129–131; Isa. 64; Matt. 12]({% post_url 2024-01-01-first-post-of-2025 %})
 - [ ] Day 184: Josh. 5:1–6:5; Ps. 132–134; Isa. 65; Matt. 13
 - [ ] Day 185: Josh. 6:6–27; Ps. 135–136; Isa. 66; Matt. 14
 - [ ] Day 186: Josh. 7; Ps. 137–138; Jer. 1; Matt. 15
