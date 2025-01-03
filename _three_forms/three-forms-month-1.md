@@ -13,7 +13,7 @@ navbar: false
 - [x] Day 4: [BC 7; HC 16-19; CD I: Art. 13-15]({% post_url 2024-12-30-consistency-is-key %})
 - [x] Day 5: [BC 8; HC 20-23; CD I: Art. 16-18]({% post_url 2024-12-31-last-post-of-2024 %})
 - [x] Day 6: [BC 9; HC 24-26; CD I: Rej. 1-3]({% post_url 2025-01-01-first-post-of-2025 %})
-- [ ] Day 7: BC 10-11; HC 27-28; CD I: Rej. 4-6
+- [x] Day 7: [BC 10-11; HC 27-28; CD I: Rej. 4-6]({% post_url 2025-01-02-348-gang %})
 - [ ] Day 8: BC 12; HC 29-34; CD I: Rej. 7-9
 - [ ] Day 9: BC 13; HC 35-39; CD II: Art. 1-3
 - [ ] Day 10: BC 14-15; HC 40-44; CD II: Art. 4-7
