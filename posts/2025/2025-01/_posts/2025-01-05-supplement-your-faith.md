@@ -1,6 +1,6 @@
 ## supplement your faith
 
-Today P Dan reminded us through the Word that we must make every effort to supplement our faith (2 Peter 1:5-8). We must urgently do all that we can to supply, furnish, grow, and strengthen our faith. I have to be more careful about what I watch, listen to, read, and fill my mind with. I must continually grow in knowledge by reading the word of God and gain mastery over my fleshly desires and impulses. I need to have a more disciplined prayer life and grow in my love for Christ and for others too.
+Today, P Dan reminded us through the Word that we must make every effort to supplement our faith (2 Peter 1:5-8). We must urgently do all that we can to supply, furnish, grow, and strengthen our faith. I have to be more careful about what I watch, listen to, read, and fill my mind with. I must continually grow in knowledge by reading the word of God and gain mastery over my fleshly desires and impulses. I need to have a more disciplined prayer life and grow in my love for Christ and for others too.
 
 <details markdown="1">
 <summary>daily reading</summary>
