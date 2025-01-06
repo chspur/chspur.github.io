@@ -27,9 +27,9 @@ navbar: false
 <p>
     9. <a href="https://onepiece.fandom.com/wiki/Punk_Hazard_Arc">Punk Hazard</a><br>
     10. <a href="https://onepiece.fandom.com/wiki/Post-War_Arc">Post-War</a><br>
-    11. <a href="https://onepiece.fandom.com/wiki/Post-Enies_Lobby_Arc">Post-Enies Lobby</a><br>
-    12. <a href="https://onepiece.fandom.com/wiki/Baratie_Arc">Baratie</a><br>
-    13. <a href="https://onepiece.fandom.com/wiki/Arlong_Park_Arc">Arlong Park</a><br>
+    11. <a href="https://onepiece.fandom.com/wiki/Baratie_Arc">Baratie</a><br>
+    12. <a href="https://onepiece.fandom.com/wiki/Arlong_Park_Arc">Arlong Park</a><br>
+    13. <a href="https://onepiece.fandom.com/wiki/Post-Enies_Lobby_Arc">Post-Enies Lobby</a><br>
 </p>
 
 <h3>C tier (just average)</h3>
