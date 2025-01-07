@@ -194,7 +194,7 @@ navbar: false
 - [x] Day 185: [Josh. 6:6–27; Ps. 135–136; Isa. 66; Matt. 14]({% post_url 2025-01-03-new-year's-resolution %})
 - [x] Day 186: [Josh. 7; Ps. 137–138; Jer. 1; Matt. 15]({% post_url 2025-01-04-watchfulness-over-prayer %})
 - [x] Day 187: [Josh. 8; Ps. 139; Jer. 2; Matt. 16]({% post_url 2025-01-05-supplement-your-faith %})
-- [ ] Day 188: Josh. 9; Ps. 140–141; Jer. 3; Matt. 17
+- [x] Day 188: [Josh. 9; Ps. 140–141; Jer. 3; Matt. 17]({% post_url 2025-01-06-seek-for-more %})
 - [ ] Day 189: Josh. 10; Ps. 142–143; Jer. 4; Matt. 18
 - [ ] Day 190: Josh. 11; Ps. 144; Jer. 5; Matt. 19
 - [ ] Day 191: Josh. 12–13; Ps. 145; Jer. 6; Matt. 20
