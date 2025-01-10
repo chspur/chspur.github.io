@@ -197,7 +197,7 @@ navbar: false
 - [x] Day 188: [Josh. 9; Ps. 140–141; Jer. 3; Matt. 17]({% post_url 2025-01-06-seek-for-more %})
 - [x] Day 189: [Josh. 10; Ps. 142–143; Jer. 4; Matt. 18]({% post_url 2025-01-07-power-outage %})
 - [x] Day 190: [Josh. 11; Ps. 144; Jer. 5; Matt. 19]({% post_url 2025-01-08-pool-closed %})
-- [ ] Day 191: Josh. 12–13; Ps. 145; Jer. 6; Matt. 20
+- [x] Day 191: [Josh. 12–13; Ps. 145; Jer. 6; Matt. 20]({% post_url 2025-01-09-cars-books-and-projects %})
 - [ ] Day 192: Josh. 14–15; Ps. 146–147; Jer. 7; Matt. 21
 - [ ] Day 193: Josh. 16–17; Ps. 148; Jer. 8; Matt. 22
 - [ ] Day 194: Josh. 18–19; Ps. 149–150; Jer. 9; Matt. 23
