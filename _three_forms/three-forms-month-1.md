@@ -21,7 +21,7 @@ navbar: false
 - [x] Day 12: [BC 18; HC 50-52; CD II: Rej. 1-3]({% post_url 2025-01-07-power-outage %})
 - [x] Day 13: [BC 19; HC 53-58; CD II: Rej. 4-7]({% post_url 2025-01-08-pool-closed %})
 - [x] Day 14: [BC 20; HC 59-64; CD III/IV: Art. 1-4]({% post_url 2025-01-09-cars-books-and-projects %})
-- [ ] Day 15: BC 21; HC 65-68; CD III/IV: Art. 5-8
+- [x] Day 15: [BC 21; HC 65-68; CD III/IV: Art. 5-8]({% post_url 2025-01-10-officially-presbyterian %})
 - [ ] Day 16: BC 22; HC 69-74; CD III/IV: Art. 9-11
 - [ ] Day 17: BC 23; HC 75-79; CD III/IV: Art. 12-14
 - [ ] Day 18: BC 24; HC 80-82; CD III/IV: Art. 15-17
