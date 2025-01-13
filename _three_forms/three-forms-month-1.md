@@ -23,7 +23,7 @@ navbar: false
 - [x] Day 14: [BC 20; HC 59-64; CD III/IV: Art. 1-4]({% post_url 2025-01-09-cars-books-and-projects %})
 - [x] Day 15: [BC 21; HC 65-68; CD III/IV: Art. 5-8]({% post_url 2025-01-10-officially-presbyterian %})
 - [x] Day 16: [BC 22; HC 69-74; CD III/IV: Art. 9-11]({% post_url 2025-01-11-phone-repair %})
-- [ ] Day 17: BC 23; HC 75-79; CD III/IV: Art. 12-14
+- [x] Day 17: [BC 23; HC 75-79; CD III/IV: Art. 12-14]({% post_url 2025-01-12-the-flesh %})
 - [ ] Day 18: BC 24; HC 80-82; CD III/IV: Art. 15-17
 - [ ] Day 19: BC 25; HC 83-85; CD III/IV: Rej. 1-3
 - [ ] Day 20: BC 26; HC 86-91; CD III/IV: Rej. 4-6
