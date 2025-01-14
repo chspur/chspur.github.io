@@ -16,10 +16,10 @@ navbar: false
 
 <h3>A tier (very solid)</h3>
 <p>
-    4. <a href="https://onepiece.fandom.com/wiki/Sabaody_Archipelago_Arc">Sabaody Archipelago</a><br>
-    5. <a href="https://onepiece.fandom.com/wiki/Arabasta_Arc">Arabasta</a><br>
-    6. <a href="https://onepiece.fandom.com/wiki/Water_7_Arc">Water 7</a><br>
-    7. <a href="https://onepiece.fandom.com/wiki/Impel_Down_Arc">Impel Down</a><br>
+    4. <a href="https://onepiece.fandom.com/wiki/Arabasta_Arc">Arabasta</a><br>
+    5. <a href="https://onepiece.fandom.com/wiki/Water_7_Arc">Water 7</a><br>
+    6. <a href="https://onepiece.fandom.com/wiki/Impel_Down_Arc">Impel Down</a><br>
+    7. <a href="https://onepiece.fandom.com/wiki/Sabaody_Archipelago_Arc">Sabaody Archipelago</a><br>
     8. <a href="https://onepiece.fandom.com/wiki/Romance_Dawn_Arc">Romance Dawn</a><br>
 </p>
 
