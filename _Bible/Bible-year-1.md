@@ -201,7 +201,7 @@ navbar: false
 - [x] Day 192: [Josh. 14–15; Ps. 146–147; Jer. 7; Matt. 21]({% post_url 2025-01-10-officially-presbyterian %})
 - [x] Day 193: [Josh. 16–17; Ps. 148; Jer. 8; Matt. 22]({% post_url 2025-01-11-phone-repair %})
 - [x] Day 194: [Josh. 18–19; Ps. 149–150; Jer. 9; Matt. 23]({% post_url 2025-01-12-the-flesh %})
-- [ ] Day 195: Josh. 20–21; Acts 1; Jer. 10; Matt. 24
+- [x] Day 195: [Josh. 20–21; Acts 1; Jer. 10; Matt. 24]({% post_url 2025-01-13-the-council %})
 - [ ] Day 196: Josh. 22; Acts 2; Jer. 11; Matt. 25
 - [ ] Day 197: Josh. 23; Acts 3; Jer. 12; Matt. 26
 - [ ] Day 198: Josh. 24; Acts 4; Jer. 13; Matt. 27
