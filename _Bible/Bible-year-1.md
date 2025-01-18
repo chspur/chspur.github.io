@@ -205,7 +205,7 @@ navbar: false
 - [x] Day 196: [Josh. 22; Acts 2; Jer. 11; Matt. 25]({% post_url 2025-01-14-free-chick-fil-a %})
 - [x] Day 197: [Josh. 23; Acts 3; Jer. 12; Matt. 26]({% post_url 2025-01-15-true-religion %})
 - [x] Day 198: [Josh. 24; Acts 4; Jer. 13; Matt. 27]({% post_url 2025-01-16-pixel-9 %})
-- [ ] Day 199: Judg. 1; Acts 5; Jer. 14; Matt. 28
+- [x] Day 199: [Judg. 1; Acts 5; Jer. 14; Matt. 28]({% post_url 2025-01-17-quesadillas-and-tea %})
 - [ ] Day 200: Judg. 2; Acts 6; Jer. 15; Mark 1
 - [ ] Day 201: Judg. 3; Acts 7; Jer. 16; Mark 2
 - [ ] Day 202: Judg. 4; Acts 8; Jer. 17; Mark 3
