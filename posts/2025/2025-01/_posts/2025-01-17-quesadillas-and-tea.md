@@ -1,12 +1,12 @@
-## tacos and tea
+## quesadillas and tea
 
 Went to hang out with Chen today in Fullerton. We went to Tacos Los Cholos for dinner and then a tea shop called Vivot Cafe. It was fun and we had some solid conversations, which I'm very thankful for.
 
-![pic of Tacos Los Cholos quesadillas](/images/2025/2025-01/2025-01-17-tacos-and-tea/quesadillas.jpg)
+![pic of Tacos Los Cholos quesadillas](/images/2025/2025-01/2025-01-17-quesadillas-and-tea/quesadillas.jpg)
 
 I got an adobada quesadilla and an asada quesadilla. They were really yummy with lots of meat.
 
-![pic of Vivot Cafe tea drinks](/images/2025/2025-01/2025-01-17-tacos-and-tea/teas.jpg)
+![pic of Vivot Cafe tea drinks](/images/2025/2025-01/2025-01-17-quesadillas-and-tea/tea.jpg)
 
 Chen has Yelp Elite, so we got this for free. It was like a tea sampler type of thing.
 
