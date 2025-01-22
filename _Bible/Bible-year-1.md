@@ -209,7 +209,7 @@ navbar: false
 - [x] Day 200: [Judg. 2; Acts 6; Jer. 15; Mark 1]({% post_url 2025-01-18-pinwheel-pasta %})
 - [x] Day 201: [Judg. 3; Acts 7; Jer. 16; Mark 2]({% post_url 2025-01-19-members-meeting %})
 - [x] Day 202: [Judg. 4; Acts 8; Jer. 17; Mark 3]({% post_url 2025-01-20-honorable-conduct %})
-- [ ] Day 203: Judg. 5; Acts 9; Jer. 18; Mark 4
+- [x] Day 203: [Judg. 5; Acts 9; Jer. 18; Mark 4]({% post_url 2025-01-21-tuesday-swim %})
 - [ ] Day 204: Judg. 6; Acts 10; Jer. 19; Mark 5
 - [ ] Day 205: Judg. 7; Acts 11; Jer. 20; Mark 6
 - [ ] Day 206: Judg. 8; Acts 12; Jer. 21; Mark 7
