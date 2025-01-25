@@ -40,4 +40,4 @@ navbar: false
 
 *Finished:*
 
-[*Source: Christ Covenant OPC*](https://s3.us-west-1.amazonaws.com/blog.swang.cloud/westminster-monthly-systematic.pdf)
+*Source:* [*Christ Covenant OPC*](https://s3.us-west-1.amazonaws.com/blog.swang.cloud/westminster-monthly-systematic.pdf)
