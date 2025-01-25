@@ -6,7 +6,7 @@ navbar: false
 ---
 
 <ul>
-  {% for plan in site.three_forms %}
+  {% for plan in site.three_forms | reverse %}
     <li><a href="{{ plan.url }}">{{ plan.title }}</a></li>
   {% endfor %}
 </ul>

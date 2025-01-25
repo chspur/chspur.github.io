@@ -6,7 +6,7 @@ navbar: false
 ---
 
 <ul>
-  {% for plan in site.westminster %}
+  {% for plan in site.westminster | reverse %}
     <li><a href="{{ plan.url }}">{{ plan.title }}</a></li>
   {% endfor %}
 </ul>
