@@ -3,6 +3,7 @@ layout: page
 title: LeetCode List
 permalink: /leetcode-list/
 navbar: false
+published: false
 ---
 
 1. [Two Sum (#1)](https://leetcode.com/problems/two-sum/description/)
