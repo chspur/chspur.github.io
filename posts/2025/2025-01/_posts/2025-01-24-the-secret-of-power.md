@@ -1,10 +1,10 @@
 ## the secret of power
 
-I'm currently reading the Complete Works of E. M. Bounds on Prayer and this is an excellent quote from him that motivates me to pursue the Lord.
+I'm currently reading the Complete Works of E. M. Bounds on Prayer and this is an excellent quote that motivates me to pursue the Lord.
 
 > Holiness energizing the soul, the whole man aflame with love, with desire for more faith, more prayer, more zeal, more consecration—this is the secret of power.
 
-—E. M. Bounds, *Power Through Prayer*
+— E. M. Bounds, *Power Through Prayer*
 
 <details markdown="1">
 <summary>daily reading</summary>
