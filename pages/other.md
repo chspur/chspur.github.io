@@ -5,5 +5,4 @@ permalink: /other/
 navbar: true
 ---
 
-- [One Piece Arc Tier List (Dressrosa)]({% link pages/one-piece-arc-tier-list-dressrosa.md %})
-- [LeetCode List]({% link pages/leetcode-list.md %})
+- [One Piece Arc Tier List (Whole Cake Island)]({% link pages/one-piece-arc-tier-list-wci.md %})
