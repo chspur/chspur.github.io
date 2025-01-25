@@ -35,7 +35,7 @@ navbar: false
 - [x] Day 26: [BC 33; HC 112-115; CD V: Art. 13-15]({% post_url 2025-01-21-tuesday-swim %})
 - [x] Day 27: [BC 34; HC 116-119; CD V: Rej. 1-3]({% post_url 2025-01-22-grinding-my-teeth %})
 - [x] Day 28: [BC 35; HC 120-122; CD V: Rej. 4-6]({% post_url 2025-01-23-lunch-meetup %})
-- [ ] Day 29: BC 36; HC 123-125; CD V: Rej. 7-9
+- [x] Day 29: [BC 36; HC 123-125; CD V: Rej. 7-9]({% post_url 2025-01-24-the-secret-of-power %})
 - [ ] Day 30: BC 37; HC 126-129; CD Conclusion
 
 *Finished:*
