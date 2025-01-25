@@ -375,4 +375,4 @@ navbar: false
 
 *Finished:*
 
-[*Source: The Gospel Coalition*](https://s3.us-west-1.amazonaws.com/blog.swang.cloud/mcheyne-bible-plan.pdf)
+*Source:* [*The Gospel Coalition*](https://s3.us-west-1.amazonaws.com/blog.swang.cloud/mcheyne-bible-plan.pdf)
