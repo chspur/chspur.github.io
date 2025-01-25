@@ -6,7 +6,7 @@ J. C. Ryle's *A Call to Prayer* is one of my favorite books. It's a concise, lit
 >  
 > Now I believe that this is a most dangerous mistake. I believe that spiritual as well as natural greatness depends in a high degree on the faithful use of means within everybody's reach. Of course I do not say we have a right to expect a miraculous grant of intellectual gifts; but this I do say, that when a man is once converted to God, his progress in holiness will be much in accordance with his own diligence in the use of God's appointed means. And I assert confidently that the principal means by which most believers have become great in the church of Christ is the habit of ***diligent private prayer***.
 
--J. C. Ryle, *A Call to Prayer*
+—J. C. Ryle, *A Call to Prayer*
 
 <details markdown="1">
 <summary>daily reading</summary>

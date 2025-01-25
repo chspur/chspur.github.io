@@ -6,7 +6,7 @@ Another quote from J. C. Ryle's *A Call to Prayer*. This one encourages me to im
 >
 > Prayer obtains fresh and continued outpourings of the Spirit. He alone begins the work of grace in a man's heart. He alone can carry it forward and make it prosper. But the good Spirit loves to be entreated. And those who ask most will have most of his influence.
 
--J. C. Ryle, *A Call to Prayer*
+—J. C. Ryle, *A Call to Prayer*
 
 <details markdown="1">
 <summary>daily reading</summary>

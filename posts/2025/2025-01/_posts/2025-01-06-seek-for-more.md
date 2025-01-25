@@ -6,7 +6,7 @@ I must always be spiritually discontent, seeking for more and more before the th
 >
 > Our Heavenly Father has promised to give His Spirit to those who ask Him. The reason why we go on from day to day with so little grace is because our little suffices us. We are content and sit down satisfied with that little. They who dwell at the throne of grace, whose very breath is prayer, who are constantly and anxiously seeking for God's blessing, whom one blessing will not suffice but are still seeking for more and more, these are the thriving souls, full of faith and full of the Spirit.
 
--Richard Alleine, *The World Conquered by the Faithful Christian*
+—Richard Alleine, *The World Conquered by the Faithful Christian*
 
 <details markdown="1">
 <summary>daily reading</summary>

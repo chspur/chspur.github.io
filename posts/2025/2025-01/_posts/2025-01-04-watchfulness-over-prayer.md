@@ -6,7 +6,7 @@ When my spiritual life was revolutionized in college, one of the most noticeable
 >
 > Oh, let us keep an eye continually upon our private devotions. Here is the pith and marrow of our practical Christianity. Sermons and books and tracts, and committee meetings and the company of good men, are all good in their way, but they will never make up for the neglect of private prayer. Mark well the places and society and companions that unhinge your hearts for communion with God and make your prayers drive heavily. ***There be on your guard***. Observe narrowly what friends and what employments leave your soul in the most spiritual frame, and most ready to speak with God. ***To these cleave and stick fast***. If you will take care of your prayers, nothing shall go very wrong with your soul.
 
--J. C. Ryle, *A Call to Prayer*
+—J. C. Ryle, *A Call to Prayer*
 
 <details markdown="1">
 <summary>daily reading</summary>
