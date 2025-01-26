@@ -213,7 +213,7 @@ navbar: false
 - [x] Day 204: [Judg. 6; Acts 10; Jer. 19; Mark 5]({% post_url 2025-01-22-grinding-my-teeth %})
 - [x] Day 205: [Judg. 7; Acts 11; Jer. 20; Mark 6]({% post_url 2025-01-23-lunch-meetup %})
 - [x] Day 206: [Judg. 8; Acts 12; Jer. 21; Mark 7]({% post_url 2025-01-24-the-secret-of-power %})
-- [ ] Day 207: Judg. 9; Acts 13; Jer. 22; Mark 8
+- [x] Day 207: [Judg. 9; Acts 13; Jer. 22; Mark 8]({% post_url 2025-01-25-unction %})
 - [ ] Day 208: Judg. 10:1–11:11; Acts 14; Jer. 23; Mark 9
 - [ ] Day 209: Judg. 11:12–40; Acts 15; Jer. 24; Mark 10
 - [ ] Day 210: Judg. 12; Acts 16; Jer. 25; Mark 11
