@@ -6,14 +6,14 @@ Drove to UCSD today with Dad to pick up Petrus. There was a lot of traffic, but 
 
 <figure>
     <img src="/images/2024/2024-11/2024-11-27-a-petrus-thanksgiving/ucsd-construction-2.jpg" alt="second pic of UCSD under construction" width="300" style="display: block; margin: auto;">
-    <figcaption style="text-align: center;">
+    <figcaption style="display: block; margin: auto; text-align: center; width: 300px;">
         <i>UCSD is permanently under construction lol. They are currently rebuilding Marshall.</i>
     </figcaption>
 </figure>
 
 <figure>
     <img src="/images/2024/2024-11/2024-11-27-a-petrus-thanksgiving/sdsc.jpg" alt="pic of the SDSC lobby" width="300" style="display: block; margin: auto;">
-    <figcaption style="text-align: center;">
+    <figcaption style="display: block; margin: auto; text-align: center; width: 300px;">
         <i>First time inside the SD Supercomputer Center. Dad works here sometimes and we got our gas paid for by checking in here. Perks of the job.</i>
     </figcaption>
 </figure>
