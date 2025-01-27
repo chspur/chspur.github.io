@@ -8,7 +8,7 @@ I'm so thankful that someone as sinful as me is able to be in God's presence, to
 
 <figure>
     <img src="/images/2024/2024-11/2024-11-28-thankful-for-God/thanksgiving-dinner.jpg" alt="pic of our hot pot thanksgiving dinner" width="300" style="display: block; margin: auto;">
-    <figcaption style="text-align: center;">
+    <figcaption style="text-align: center;" width="300">
         <i>This is what my family ate for dinner. We always eat hot pot for Thanksgiving instead of a typical Thanksgiving dinner, which in my opinion is definitely an upgrade.</i>
     </figcaption>
 </figure>
