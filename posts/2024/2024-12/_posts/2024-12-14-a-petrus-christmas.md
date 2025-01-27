@@ -2,9 +2,9 @@
 
 Went with Dad to pick up Petrus from school for winter break. He has a very nice view from his dorm.
 
-![photo of peter's living room including the view outside](/images/2024/2024-12/2024-12-14-a-petrus-christmas/petrus-dorm-view-1.jpg)
+<img src="/images/2024/2024-12/2024-12-14-a-petrus-christmas/petrus-dorm-view-1.jpg" alt="photo of peter's living room including the view outside" width="300" style="display: block; margin: auto;">
 
-![full view of outside from peter's dorm](/images/2024/2024-12/2024-12-14-a-petrus-christmas/petrus-dorm-view-2.jpg)
+<img src="/images/2024/2024-12/2024-12-14-a-petrus-christmas/petrus-dorm-view-2.jpg" alt="full view of outside from peter's dorm" width="300" style="display: block; margin: auto;">
 
 <details markdown="1">
 <summary>daily reading</summary>

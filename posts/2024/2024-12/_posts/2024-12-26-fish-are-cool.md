@@ -2,11 +2,11 @@
 
 This morning I broke my phone camera, so I had Petrus take pictures of the fish. The fish were pretty cool.
 
-![pic of a school of fish](/images/2024/2024-12/2024-12-26-fish-are-cool/fish-1.jpg)
+<img src="/images/2024/2024-12/2024-12-26-fish-are-cool/fish-1.jpg" alt="pic of a school of fish" width="300" style="display: block; margin: auto;">
 
-![pic of two fish in a kelp forest](/images/2024/2024-12/2024-12-26-fish-are-cool/fish-2.jpg)
+<img src="/images/2024/2024-12/2024-12-26-fish-are-cool/fish-2.jpg" alt="pic of two fish in a kelp forest" width="300" style="display: block; margin: auto;">
 
-![pic of an octopus](/images/2024/2024-12/2024-12-26-fish-are-cool/octo.jpg)
+<img src="/images/2024/2024-12/2024-12-26-fish-are-cool/octo.jpg" alt="pic of an octopus" width="300" style="display: block; margin: auto;">
 
 <details markdown="1">
 <summary>daily reading</summary>
