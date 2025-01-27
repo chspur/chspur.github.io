@@ -20,7 +20,7 @@ Drove to UCSD today with Dad to pick up Petrus. There was a lot of traffic, but 
 
 <figure>
     <img src="/images/2024/2024-11/2024-11-27-a-petrus-thanksgiving/class302.jpg" alt="pic of food from Class 302" width="300" style="display: block; margin: auto;">
-    <figcaption style="text-align: center;">
+    <figcaption style="display: block; margin: auto; text-align: center; width: 300px;">
         <i>Ate dinner at Class 302 in Irvine before heading home. Pretty good.</i>
     </figcaption>
 </figure>
