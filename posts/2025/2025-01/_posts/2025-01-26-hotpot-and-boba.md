@@ -6,14 +6,14 @@ After, I ate lunch with Chen and Jonk at a hotpot place in Walnut. It was extra 
 
 <figure>
     <img src="/images/2025/2025-01/2025-01-26-hotpot-and-boba/hotpot.jpg" alt="pic of the hotpot" width="300" style="display: block; margin: auto;">
-    <figcaption style="text-align: center;">
+    <figcaption style="display: block; margin: auto; text-align: center; width: 300px;">
         <i>Chen and Jonk were concerned for me because I didn't get any veggies.</i>
     </figcaption>
 </figure>
 
 <figure>
     <img src="/images/2025/2025-01/2025-01-26-hotpot-and-boba/boba.jpg" alt="pic of the boba" width="300" style="display: block; margin: auto;">
-    <figcaption style="text-align: center;">
+    <figcaption style="display: block; margin: auto; text-align: center; width: 300px;">
         <i> I got the Mango Matche Latte. The branding was pretty cool.</i>
     </figcaption>
 </figure>

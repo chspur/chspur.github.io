@@ -4,7 +4,7 @@ Jonk, Chen, and I went to Pinwheel Pasta for lunch today. Their portion sizes ar
 
 <figure>
     <img src="/images/2025/2025-01/2025-01-18-pinwheel-pasta/lasagna.jpg" alt="pic of Pinwheel Pasta lasagna" width="300" style="display: block; margin: auto;">
-    <figcaption style="text-align: center;">
+    <figcaption style="display: block; margin: auto; text-align: center; width: 300px;">
         <i>I got the meat lasagna at Pinwheel Pasta and it was pretty good.</i>
     </figcaption>
 </figure>
