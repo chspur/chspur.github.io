@@ -6,7 +6,7 @@ After, I ate lunch with Chen and Jonk at a hotpot place in Walnut. It was extra 
 
 <figure>
     <img src="/images/2025/2025-01/2025-01-26-hotpot-and-boba/hotpot.jpg"
-         alt="pic of the hotpot" width="200">
+         alt="pic of the hotpot" width="300" style="text-align: center;">
     <figcaption><i>Chen and Jonk were concerned for me because I didn't get any veggies.</i></figcaption>
 </figure>
 
