@@ -5,9 +5,9 @@ permalink: /westminster-month-2/
 navbar: false
 ---
 
-*Started:*
+*Started: January 26, 2025*
 
-- [ ] Day 1 (Scripture and Prolegomena): WCF 1; WSC 1-3; WLC 1-5
+- [x] Day 1 (Scripture and Prolegomena): [WCF 1; WSC 1-3; WLC 1-5]({% post_url 2025-01-26-hotpot-and-boba %})
 - [ ] Day 2 (God): WCF 2; WSC 4-6; WLC 6-11
 - [ ] Day 3 (God's Decree): WCF 3; WSC 7-8; WLC 12-14
 - [ ] Day 4 (Creation): WCF 4, 9.1-9.2; WSC 9-10; WLC 15-17
