@@ -11,8 +11,7 @@ Went to hang out with Chen today in Fullerton. We went to Tacos Los Cholos for d
 </figure>
 
 <figure>
-    <img src="/images/2025/2025-01/2025-01-17-quesadillas-and-tea/tea.jpg"
-         alt="pic of Vivot Cafe tea drinks" width="300" style="display: block; margin: auto;">
+    <img src="/images/2025/2025-01/2025-01-17-quesadillas-and-tea/tea.jpg" alt="pic of Vivot Cafe tea drinks" width="300" style="display: block; margin: auto;">
     <figcaption style="text-align: center;">
         <i>Chen has Yelp Elite, so we got this for free. It was like a tea sampler type of thing.</i>
     </figcaption>

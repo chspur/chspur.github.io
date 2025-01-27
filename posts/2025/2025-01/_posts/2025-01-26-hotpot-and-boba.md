@@ -5,16 +5,14 @@ After service today, we had a congregational meeting for this year's budget and 
 After, I ate lunch with Chen and Jonk at a hotpot place in Walnut. It was extra satisfying because it was a cold and rainy day. It was the first time I've been to a place where you pay by weight for how much food you get, so you can get as much or as little as you want. We went to this fancy boba place nearby after.
 
 <figure>
-    <img src="/images/2025/2025-01/2025-01-26-hotpot-and-boba/hotpot.jpg"
-         alt="pic of the hotpot" width="300" style="display: block; margin: auto;">
+    <img src="/images/2025/2025-01/2025-01-26-hotpot-and-boba/hotpot.jpg" alt="pic of the hotpot" width="300" style="display: block; margin: auto;">
     <figcaption style="text-align: center;">
         <i>Chen and Jonk were concerned for me because I didn't get any veggies.</i>
     </figcaption>
 </figure>
 
 <figure>
-    <img src="/images/2025/2025-01/2025-01-26-hotpot-and-boba/boba.jpg"
-         alt="pic of the boba" width="300" style="display: block; margin: auto;">
+    <img src="/images/2025/2025-01/2025-01-26-hotpot-and-boba/boba.jpg" alt="pic of the boba" width="300" style="display: block; margin: auto;">
     <figcaption style="text-align: center;">
         <i> I got the Mango Matche Latte. The branding was pretty cool.</i>
     </figcaption>

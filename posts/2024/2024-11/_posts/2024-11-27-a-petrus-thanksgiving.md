@@ -2,19 +2,28 @@
 
 Drove to UCSD today with Dad to pick up Petrus. There was a lot of traffic, but it was fun.
 
-![first pic of UCSD under construction](/images/2024/2024-11/2024-11-27-a-petrus-thanksgiving/ucsd-construction-1.jpg)
+<img src="/images/2024/2024-11/2024-11-27-a-petrus-thanksgiving/ucsd-construction-1.jpg" alt="first pic of UCSD under construction" width="300" style="display: block; margin: auto;">
 
-![second pic of UCSD under construction](/images/2024/2024-11/2024-11-27-a-petrus-thanksgiving/ucsd-construction-2.jpg)
+<figure>
+    <img src="/images/2024/2024-11/2024-11-27-a-petrus-thanksgiving/ucsd-construction-2.jpg" alt="second pic of UCSD under construction" width="300" style="display: block; margin: auto;">
+    <figcaption style="text-align: center;">
+        <i>UCSD is permanently under construction lol. They are currently rebuilding Marshall.</i>
+    </figcaption>
+</figure>
 
-UCSD is permanently under construction lol. They are currently rebuilding Marshall.
+<figure>
+    <img src="/images/2024/2024-11/2024-11-27-a-petrus-thanksgiving/sdsc.jpg" alt="pic of the SDSC lobby" width="300" style="display: block; margin: auto;">
+    <figcaption style="text-align: center;">
+        <i>First time inside the SD Supercomputer Center. Dad works here sometimes and we got our gas paid for by checking in here. Perks of the job.</i>
+    </figcaption>
+</figure>
 
-![pic of the SDSC lobby](/images/2024/2024-11/2024-11-27-a-petrus-thanksgiving/sdsc.jpg)
-
-First time inside the SD Supercomputer Center. Dad works here sometimes and we got our gas paid for by checking in here. Perks of the job.
-
-![pic of food from Class 302](/images/2024/2024-11/2024-11-27-a-petrus-thanksgiving/class302.jpg)
-
-Ate dinner at Class 302 in Irvine before heading home. Pretty good.
+<figure>
+    <img src="/images/2024/2024-11/2024-11-27-a-petrus-thanksgiving/class302.jpg" alt="pic of food from Class 302" width="300" style="display: block; margin: auto;">
+    <figcaption style="text-align: center;">
+        <i>Ate dinner at Class 302 in Irvine before heading home. Pretty good.</i>
+    </figcaption>
+</figure>
 
 <details markdown="1">
 <summary>daily reading</summary>
