@@ -2,13 +2,21 @@
 
 Went to hang out with Chen today in Fullerton. We went to Tacos Los Cholos for dinner and then a tea shop called Vivot Cafe. It was fun and we had some solid conversations, which I'm very thankful for.
 
-![pic of Tacos Los Cholos quesadillas](/images/2025/2025-01/2025-01-17-quesadillas-and-tea/quesadillas.jpg)
+<figure>
+    <img src="/images/2025/2025-01/2025-01-17-quesadillas-and-tea/quesadillas.jpg"
+         alt="pic of Tacos Los Cholos quesadillas" width="300" style="display: block; margin: auto;">
+    <figcaption style="text-align: center;">
+        <i>I got an adobada quesadilla and an asada quesadilla. They were really yummy with lots of meat.</i>
+    </figcaption>
+</figure>
 
-I got an adobada quesadilla and an asada quesadilla. They were really yummy with lots of meat.
-
-![pic of Vivot Cafe tea drinks](/images/2025/2025-01/2025-01-17-quesadillas-and-tea/tea.jpg)
-
-Chen has Yelp Elite, so we got this for free. It was like a tea sampler type of thing.
+<figure>
+    <img src="/images/2025/2025-01/2025-01-17-quesadillas-and-tea/tea.jpg"
+         alt="pic of Vivot Cafe tea drinks" width="300" style="display: block; margin: auto;">
+    <figcaption style="text-align: center;">
+        <i>Chen has Yelp Elite, so we got this for free. It was like a tea sampler type of thing.</i>
+    </figcaption>
+</figure>
 
 <details markdown="1">
 <summary>daily reading</summary>
