@@ -6,9 +6,9 @@ Today is Thanksgiving and I read Psalm 84 in my devotional time this morning. Ve
 
 I'm so thankful that someone as sinful as me is able to be in God's presence, to be in His courts and His house. I'm so thankful that I have the blessing of trusting in God and that I can receive His favor, honor, and goodness. God is my highest good and I'm so thankful that I have Him because of Christ. I pray that I will never forget His kindness to me.
 
-<figure>
-    <img src="/images/2024/2024-11/2024-11-28-thankful-for-God/thanksgiving-dinner.jpg" alt="pic of our hot pot thanksgiving dinner" width="300" style="display: block; margin: auto;">
-    <figcaption style="text-align: center;">
+<figure style="display: table">
+    <img src="/images/2024/2024-11/2024-11-28-thankful-for-God/thanksgiving-dinner.jpg" alt="pic of our hot pot thanksgiving dinner" width="300">
+    <figcaption style="display: table-caption; caption-side: bottom;">
         <i>This is what my family ate for dinner. We always eat hot pot for Thanksgiving instead of a typical Thanksgiving dinner, which in my opinion is definitely an upgrade.</i>
     </figcaption>
 </figure>
