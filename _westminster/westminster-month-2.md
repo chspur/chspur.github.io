@@ -9,7 +9,7 @@ navbar: false
 
 - [x] Day 1 (Scripture and Prolegomena): [WCF 1; WSC 1-3; WLC 1-5]({% post_url 2025-01-26-hotpot-and-boba %})
 - [x] Day 2 (God): [WCF 2; WSC 4-6; WLC 6-11]({% post_url 2025-01-27-whole-cake-island %})
-- [ ] Day 3 (God's Decree): WCF 3; WSC 7-8; WLC 12-14
+- [x] Day 3 (God's Decree): [WCF 3; WSC 7-8; WLC 12-14]({% post_url 2025-01-28-more-time-for-prayer %})
 - [ ] Day 4 (Creation): WCF 4, 9.1-9.2; WSC 9-10; WLC 15-17
 - [ ] Day 5 (Providence): WCF 5; WSC 11; WLC 18-19
 - [ ] Day 6 (Covenant of Works): WCF 7.1-7.2; WSC 12; WLC 20
