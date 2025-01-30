@@ -217,7 +217,7 @@ navbar: false
 - [x] Day 208: [Judg. 10:1–11:11; Acts 14; Jer. 23; Mark 9]({% post_url 2025-01-26-hotpot-and-boba %})
 - [x] Day 209: [Judg. 11:12–40; Acts 15; Jer. 24; Mark 10]({% post_url 2025-01-27-whole-cake-island %})
 - [x] Day 210: [Judg. 12; Acts 16; Jer. 25; Mark 11]({% post_url 2025-01-28-more-time-for-prayer %})
-- [ ] Day 211: Judg. 13; Acts 17; Jer. 26; Mark 12
+- [x] Day 211: [Judg. 13; Acts 17; Jer. 26; Mark 12]({% post_url 2025-01-29-space-time-smackdown %})
 - [ ] Day 212: Judg. 14; Acts 18; Jer. 27; Mark 13
 - [ ] Day 213: Judg. 15; Acts 19; Jer. 28; Mark 14
 - [ ] Day 214: Judg. 16; Acts 20; Jer. 29; Mark 15
