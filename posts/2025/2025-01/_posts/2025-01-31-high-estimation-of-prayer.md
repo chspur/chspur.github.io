@@ -1,5 +1,7 @@
 ## high estimation of prayer
 
+Prayer and holiness is like a feedback loop. The more a man prays, the holier he becomes. The holier a man becomes, the more he prays.
+
 > The holier a man is, the more does he estimate prayer; the clearer does he see that God gives himself to the praying ones and that the measure of God's revelation to the soul is the measure of the soul's longing, importunate prayer for God. Salvation never finds its way to a prayerless heart. The Holy Spirit never abides in a prayerless spirit. Preaching never edifies a prayerless soul. Christ knows nothing of prayerless Christians.
 
 —E. M. Bounds, *Power Through Prayer*
