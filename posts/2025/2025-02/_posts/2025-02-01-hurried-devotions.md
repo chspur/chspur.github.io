@@ -6,7 +6,6 @@ I need to spend more time in my private devotions. Spending more time would be p
 
 —William Wilberforce
 
-
 > Our devotions are not measured by the clock, but time is of their essence. The ability to wait and stay and press belongs essentially to our intercourse with God. Hurry, everywhere unseeming and damaging, is so to an alarming extent in the great business of communion with God. Short devotions are the bane of deep piety. Calmness, grasp, and strength are never the companions of hurry. Short devotions deplete spiritual vigor, arrest spiritual progress, sap spiritual foundations, and blight the root and bloom of spiritual life. They are the prolific source of backsliding, the sure indication of a superficial piety; they deceive, blight, and rot the seed and impoverish the soil. . . . Hurried devotions make weak faith, feeble convictions, and questionable piety. To be little with God is to be little for God. To cut short the praying makes the whole religious character short, scrimp, niggardly, and slovenly.
 
 —E. M. Bounds, *Power Through Prayer*
