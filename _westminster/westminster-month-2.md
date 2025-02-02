@@ -13,7 +13,7 @@ navbar: false
 - [x] Day 4 (Creation): [WCF 4, 9.1-9.2; WSC 9-10; WLC 15-17]({% post_url 2025-01-29-space-time-smackdown %})
 - [x] Day 5 (Providence): [WCF 5; WSC 11; WLC 18-19]({% post_url 2025-01-30-retiring-from-chess %})
 - [x] Day 6 (Covenant of Works): [WCF 7.1-7.2; WSC 12; WLC 20]({% post_url 2025-01-31-high-estimation-of-prayer %})
-- [ ] Day 7 (Sin): WCF 6, 9.3; WSC 13-19, 83-85; WLC 21-29, 150-154
+- [x] Day 7 (Sin): [WCF 6, 9.3; WSC 13-19, 83-85; WLC 21-29, 150-154]({% post_url 2025-02-01-hurried-devotions %})
 - [ ] Day 8 (Covenant of Grace): WCF 7.3-7.6; WSC 20; WLC 30-35
 - [ ] Day 9 (Christ): WCF 8; WSC 21-30; WLC 36-59
 - [ ] Day 10 (Effectual Calling): WCF 10; WSC 31-32, 36; WLC 60-61, 66-69, 83

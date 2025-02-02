@@ -220,7 +220,7 @@ navbar: false
 - [x] Day 211: [Judg. 13; Acts 17; Jer. 26; Mark 12]({% post_url 2025-01-29-space-time-smackdown %})
 - [x] Day 212: [Judg. 14; Acts 18; Jer. 27; Mark 13]({% post_url 2025-01-30-retiring-from-chess %})
 - [x] Day 213: [Judg. 15; Acts 19; Jer. 28; Mark 14]({% post_url 2025-01-31-high-estimation-of-prayer %})
-- [ ] Day 214: Judg. 16; Acts 20; Jer. 29; Mark 15
+- [x] Day 214: [Judg. 16; Acts 20; Jer. 29; Mark 15]({% post_url 2025-02-01-hurried-devotions %})
 - [ ] Day 215: Judg. 17; Acts 21; Jer. 30–31; Mark 16
 - [ ] Day 216: Judg. 18; Acts 22; Jer. 32; Ps. 1–2
 - [ ] Day 217: Judg. 19; Acts 23; Jer. 33; Ps. 3–4
