@@ -9,8 +9,8 @@ I had dinner at Diane's house with Jadon and Chen. We ate hotpot and it was deli
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Judg. 14; Acts 18; Jer. 27; Mark 13]({% link _Bible/Bible-year-1.md %}) |
-| [WCF 5; WSC 11; WLC 18-19]({% link _westminster/westminster-month-2.md %}) |
+| [Judg. 18; Acts 22; Jer. 32; Ps. 1–2]({% link _Bible/Bible-year-1.md %}) |
+| [WCF 8; WSC 21-30; WLC 36-59]({% link _westminster/westminster-month-2.md %}) |
 | [The Athanasian Creed](https://threeforms.org/the-athanasian-creed/) |
 
 </details>
