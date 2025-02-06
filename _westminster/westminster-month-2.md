@@ -17,7 +17,7 @@ navbar: false
 - [x] Day 8 (Covenant of Grace): [WCF 7.3-7.6; WSC 20; WLC 30-35]({% post_url 2025-02-02-much-forgiven %})
 - [x] Day 9 (Christ): [WCF 8; WSC 21-30; WLC 36-59]({% post_url 2025-02-03-an-interesting-group %})
 - [x] Day 10 (Effectual Calling): [WCF 10; WSC 31-32, 36; WLC 60-61, 66-69, 83]({% post_url 2025-02-04-goodbye-dust-jackets %})
-- [ ] Day 11 (Justification): WCF 11; WSC 33; WLC 70-73
+- [x] Day 11 (Justification): [WCF 11; WSC 33; WLC 70-73]({% post_url 2025-02-05-the-apostles-creed %})
 - [ ] Day 12 (Adoption): WCF 12; WSC 34; WLC 74
 - [ ] Day 13 (Sanctification): WCF 9.4; WSC 35; WLC 75, 77-78
 - [ ] Day 14 (Faith): WCF 14; WSC 85, 86; WLC 72-73, 153

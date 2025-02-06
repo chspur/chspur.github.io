@@ -224,7 +224,7 @@ navbar: false
 - [x] Day 215: [Judg. 17; Acts 21; Jer. 30–31; Mark 16]({% post_url 2025-02-02-much-forgiven %})
 - [x] Day 216: [Judg. 18; Acts 22; Jer. 32; Ps. 1–2]({% post_url 2025-02-03-an-interesting-group %})
 - [x] Day 217: [Judg. 19; Acts 23; Jer. 33; Ps. 3–4]({% post_url 2025-02-04-goodbye-dust-jackets %})
-- [ ] Day 218: Judg. 20; Acts 24; Jer. 34; Ps. 5–6
+- [x] Day 218: [Judg. 20; Acts 24; Jer. 34; Ps. 5–6]({% post_url 2025-02-05-the-apostles-creed %})
 - [ ] Day 219: Judg. 21; Acts 25; Jer. 35; Ps. 7–8
 - [ ] Day 220: Ruth 1; Acts 26; Jer. 36, 45; Ps. 9
 - [ ] Day 221: Ruth 2; Acts 27; Jer. 37; Ps. 10
