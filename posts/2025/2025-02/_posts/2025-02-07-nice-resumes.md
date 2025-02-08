@@ -1,6 +1,6 @@
 ## nice resumes
 
-Went to Office Depot today to get some nice resumes for my upcoming in-person interview. I got two copies. Price-wise it was pretty inexpensive. I think I only spent around two dollars. I had them printed on resume paper, but it didn't seem all that different from normal paper, so that was kind of interesting.
+Went to Office Depot today to get some nice resumes for my upcoming in-person interview. I got two copies. In terms of price, it was pretty inexpensive. I think I only spent around two dollars. I had them printed on resume paper, but it didn't seem all that different from normal paper, so that was kind of interesting.
 
 Swam around 2000 meters today. I forgot my watch, which really annoyed me because it's hard for me to keep track of how many laps I did without my watch.
 
