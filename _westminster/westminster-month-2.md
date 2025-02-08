@@ -19,7 +19,7 @@ navbar: false
 - [x] Day 10 (Effectual Calling): [WCF 10; WSC 31-32, 36; WLC 60-61, 66-69, 83]({% post_url 2025-02-04-goodbye-dust-jackets %})
 - [x] Day 11 (Justification): [WCF 11; WSC 33; WLC 70-73]({% post_url 2025-02-05-the-apostles-creed %})
 - [x] Day 12 (Adoption): [WCF 12; WSC 34; WLC 74]({% post_url 2025-02-06-the-power-of-prayer %})
-- [ ] Day 13 (Sanctification): WCF 9.4; WSC 35; WLC 75, 77-78
+- [x] Day 13 (Sanctification): [WCF 9.4; WSC 35; WLC 75, 77-78]({% post_url 2025-02-07-nice-resumes %})
 - [ ] Day 14 (Faith): WCF 14; WSC 85, 86; WLC 72-73, 153
 - [ ] Day 15 (Repentance): WCF 15; WSC 87; WLC 76
 - [ ] Day 16 (Assurance and Perseverance): WCF 17-18; WSC 36; WLC 79-81, 83
