@@ -227,7 +227,7 @@ navbar: false
 - [x] Day 218: [Judg. 20; Acts 24; Jer. 34; Ps. 5–6]({% post_url 2025-02-05-the-apostles-creed %})
 - [x] Day 219: [Judg. 21; Acts 25; Jer. 35; Ps. 7–8]({% post_url 2025-02-06-the-power-of-prayer %})
 - [x] Day 220: [Ruth 1; Acts 26; Jer. 36, 45; Ps. 9]({% post_url 2025-02-07-nice-resumes %})
-- [ ] Day 221: Ruth 2; Acts 27; Jer. 37; Ps. 10
+- [x] Day 221: [Ruth 2; Acts 27; Jer. 37; Ps. 10]({% post_url 2025-02-08-old-suit %})
 - [ ] Day 222: Ruth 3–4; Acts 28; Jer. 38; Ps. 11–12
 - [ ] Day 223: 1 Sam. 1; Rom. 1; Jer. 39; Ps. 13–14
 - [ ] Day 224: 1 Sam. 2; Rom. 2; Jer. 40; Ps. 15–16
