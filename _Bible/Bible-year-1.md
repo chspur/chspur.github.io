@@ -229,7 +229,7 @@ navbar: false
 - [x] Day 220: [Ruth 1; Acts 26; Jer. 36, 45; Ps. 9]({% post_url 2025-02-07-nice-resumes %})
 - [x] Day 221: [Ruth 2; Acts 27; Jer. 37; Ps. 10]({% post_url 2025-02-08-old-suit %})
 - [x] Day 222: [Ruth 3–4; Acts 28; Jer. 38; Ps. 11–12]({% post_url 2025-02-09-no-time %})
-- [ ] Day 223: 1 Sam. 1; Rom. 1; Jer. 39; Ps. 13–14
+- [x] Day 223: [1 Sam. 1; Rom. 1; Jer. 39; Ps. 13–14]({% post_url 2025-02-10-first-in-person-interview %})
 - [ ] Day 224: 1 Sam. 2; Rom. 2; Jer. 40; Ps. 15–16
 - [ ] Day 225: 1 Sam. 3; Rom. 3; Jer. 41; Ps. 17
 - [ ] Day 226: 1 Sam. 4; Rom. 4; Jer. 42; Ps. 18

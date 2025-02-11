@@ -22,7 +22,7 @@ navbar: false
 - [x] Day 13 (Sanctification): [WCF 9.4; WSC 35; WLC 75, 77-78]({% post_url 2025-02-07-nice-resumes %})
 - [x] Day 14 (Faith): [WCF 14; WSC 85, 86; WLC 72-73, 153]({% post_url 2025-02-08-old-suit %})
 - [x] Day 15 (Repentance): [WCF 15; WSC 87; WLC 76]({% post_url 2025-02-09-no-time %})
-- [ ] Day 16 (Assurance and Perseverance): WCF 17-18; WSC 36; WLC 79-81, 83
+- [x] Day 16 (Assurance and Perseverance): [WCF 17-18; WSC 36; WLC 79-81, 83]({% post_url 2025-02-10-first-in-person-interview %})
 - [ ] Day 17 (Law of God): WCF 16, 19-20; WSC 39-44, 82-83; WLC 91-101, 149
 - [ ] Day 18 (Worship): WCF 21; WSC 45-62; WLC 102-121
 - [ ] Day 19 (Lawful Oaths): WCF 22; WSC 76-78; WLC 143-145
