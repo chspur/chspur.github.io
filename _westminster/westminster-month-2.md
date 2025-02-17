@@ -28,7 +28,7 @@ navbar: false
 - [x] Day 19 (Lawful Oaths): [WCF 22; WSC 76-78; WLC 143-145]({% post_url 2025-02-13-round-two %})
 - [x] Day 20 (Civil Magistrate): [WCF 23; WSC 63-69, 73-75, 79-81; WLC 122-136, 140-142, 146-148]({% post_url 2025-02-14-first-job %})
 - [x] Day 21 (Marriage): [WCF 24; WSC 70-72; WLC 137-139]({% post_url 2025-02-15-saturday-swim %})
-- [ ] Day 22 (Church): WCF 20, 25-26, 30-31; WLC 62-65
+- [x] Day 22 (Church): [WCF 20, 25-26, 30-31; WLC 62-65]({% post_url 2025-02-16-he-bore-our-sins %})
 - [ ] Day 23 (Means of Grace): WCF 1.7, 3.6, 17.3, 18.3; WSC 85, 88; WLC 153, 154
 - [ ] Day 24 (Word of God): WCF 21.5; WSC 89-90; WLC 155-160
 - [ ] Day 25 (Sacraments): WCF 27; WSC 91-93; WLC 161-164, 176-177

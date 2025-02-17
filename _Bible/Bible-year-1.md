@@ -235,7 +235,7 @@ navbar: false
 - [x] Day 226: [1 Sam. 4; Rom. 4; Jer. 42; Ps. 18]({% post_url 2025-02-13-round-two %})
 - [x] Day 227: [1 Sam. 5–6; Rom. 5; Jer. 43; Ps. 19]({% post_url 2025-02-14-first-job %})
 - [x] Day 228: [1 Sam. 7–8; Rom. 6; Jer. 44; Ps. 20–21]({% post_url 2025-02-15-saturday-swim %})
-- [ ] Day 229: 1 Sam. 9; Rom. 7; Jer. 46; Ps. 22
+- [x] Day 229: [1 Sam. 9; Rom. 7; Jer. 46; Ps. 22]({% post_url 2025-02-16-he-bore-our-sins %})
 - [ ] Day 230: 1 Sam. 10; Rom. 8; Jer. 47; Ps. 23–24
 - [ ] Day 231: 1 Sam. 11; Rom. 9; Jer. 48; Ps. 25
 - [ ] Day 232: 1 Sam. 12; Rom. 10; Jer. 49; Ps. 26–27
