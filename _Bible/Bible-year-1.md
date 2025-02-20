@@ -238,7 +238,7 @@ navbar: false
 - [x] Day 229: [1 Sam. 9; Rom. 7; Jer. 46; Ps. 22]({% post_url 2025-02-16-He-bore-our-sins %})
 - [x] Day 230: [1 Sam. 10; Rom. 8; Jer. 47; Ps. 23–24]({% post_url 2025-02-17-devotional-doctrine %})
 - [x] Day 231: [1 Sam. 11; Rom. 9; Jer. 48; Ps. 25]({% post_url 2025-02-18-whatever-my-God-ordains-is-right %})
-- [ ] Day 232: 1 Sam. 12; Rom. 10; Jer. 49; Ps. 26–27
+- [x] Day 232: [1 Sam. 12; Rom. 10; Jer. 49; Ps. 26–27]({% post_url 2025-02-19-He-leads-the-humble %})
 - [ ] Day 233: 1 Sam. 13; Rom. 11; Jer. 50; Ps. 28–29
 - [ ] Day 234: 1 Sam. 14; Rom. 12; Jer. 51; Ps. 30
 - [ ] Day 235: 1 Sam. 15; Rom. 13; Jer. 52; Ps. 31
