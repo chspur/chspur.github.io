@@ -33,7 +33,7 @@ navbar: false
 - [x] Day 24 (Word of God): [WCF 21.5; WSC 89-90; WLC 155-160]({% post_url 2025-02-18-whatever-my-God-ordains-is-right %})
 - [x] Day 25 (Sacraments): [WCF 27; WSC 91-93; WLC 161-164, 176-177]({% post_url 2025-02-19-He-leads-the-humble %})
 - [x] Day 26 (Baptism): [WCF 28; WSC 94-95; WLC 165-167]({% post_url 2025-02-20-the-council-convenes %})
-- [ ] Day 27 (Lord's Supper): WCF 29; WSC 96-97; WLC 168-175
+- [x] Day 27 (Lord's Supper): [WCF 29; WSC 96-97; WLC 168-175]({% post_url 2025-02-21-so-tired %})
 - [ ] Day 28 (Prayer): WCF 21.3-21.4, 21.6; WSC 98-107; WLC 178-196
 - [ ] Day 29 (Death): WCF 9.5; WSC 37; WLC 82
 - [ ] Day 30 (Resurrection and Last Judgment): WCF 9.5, 32-33; WSC 37-38; WLC 86-90

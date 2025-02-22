@@ -240,7 +240,7 @@ navbar: false
 - [x] Day 231: [1 Sam. 11; Rom. 9; Jer. 48; Ps. 25]({% post_url 2025-02-18-whatever-my-God-ordains-is-right %})
 - [x] Day 232: [1 Sam. 12; Rom. 10; Jer. 49; Ps. 26–27]({% post_url 2025-02-19-He-leads-the-humble %})
 - [x] Day 233: [1 Sam. 13; Rom. 11; Jer. 50; Ps. 28–29]({% post_url 2025-02-20-the-council-convenes %})
-- [ ] Day 234: 1 Sam. 14; Rom. 12; Jer. 51; Ps. 30
+- [x] Day 234: [1 Sam. 14; Rom. 12; Jer. 51; Ps. 30]({% post_url 2025-02-21-so-tired %})
 - [ ] Day 235: 1 Sam. 15; Rom. 13; Jer. 52; Ps. 31
 - [ ] Day 236: 1 Sam. 16; Rom. 14; Lam. 1; Ps. 32
 - [ ] Day 237: 1 Sam. 17; Rom. 15; Lam. 2; Ps. 33
