@@ -36,8 +36,8 @@ navbar: false
 - [x] Day 27 (Lord's Supper): [WCF 29; WSC 96-97; WLC 168-175]({% post_url 2025-02-21-so-tired %})
 - [x] Day 28 (Prayer): [WCF 21.3-21.4, 21.6; WSC 98-107; WLC 178-196]({% post_url 2025-02-22-wing-stop %})
 - [x] Day 29 (Death): [WCF 9.5; WSC 37; WLC 82]({% post_url 2025-02-23-spiritual-healing %})
-- [ ] Day 30 (Resurrection and Last Judgment): WCF 9.5, 32-33; WSC 37-38; WLC 86-90
+- [x] Day 30 (Resurrection and Last Judgment): [WCF 9.5, 32-33; WSC 37-38; WLC 86-90]({% post_url 2025-02-24-helping-mom %})
 
-*Finished:*
+*Finished: February 25, 2025*
 
 *Source:* [*Christ Covenant OPC*](https://s3.us-west-1.amazonaws.com/blog.swang.cloud/westminster-monthly-systematic.pdf)
