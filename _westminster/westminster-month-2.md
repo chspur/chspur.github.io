@@ -35,7 +35,7 @@ navbar: false
 - [x] Day 26 (Baptism): [WCF 28; WSC 94-95; WLC 165-167]({% post_url 2025-02-20-the-council-convenes %})
 - [x] Day 27 (Lord's Supper): [WCF 29; WSC 96-97; WLC 168-175]({% post_url 2025-02-21-so-tired %})
 - [x] Day 28 (Prayer): [WCF 21.3-21.4, 21.6; WSC 98-107; WLC 178-196]({% post_url 2025-02-22-wing-stop %})
-- [ ] Day 29 (Death): WCF 9.5; WSC 37; WLC 82
+- [x] Day 29 (Death): [WCF 9.5; WSC 37; WLC 82]({% post_url 2025-02-23-spiritual-healing %})
 - [ ] Day 30 (Resurrection and Last Judgment): WCF 9.5, 32-33; WSC 37-38; WLC 86-90
 
 *Finished:*
