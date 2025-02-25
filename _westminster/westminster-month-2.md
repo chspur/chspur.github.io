@@ -38,6 +38,6 @@ navbar: false
 - [x] Day 29 (Death): [WCF 9.5; WSC 37; WLC 82]({% post_url 2025-02-23-spiritual-healing %})
 - [x] Day 30 (Resurrection and Last Judgment): [WCF 9.5, 32-33; WSC 37-38; WLC 86-90]({% post_url 2025-02-24-helping-mom %})
 
-*Finished: February 25, 2025*
+*Finished: February 24, 2025*
 
 *Source:* [*Christ Covenant OPC*](https://s3.us-west-1.amazonaws.com/blog.swang.cloud/westminster-monthly-systematic.pdf)
