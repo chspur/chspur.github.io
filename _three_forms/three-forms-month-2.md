@@ -7,7 +7,7 @@ navbar: false
 
 *Started: February 25, 2025*
 
-- [ ] Day 1: BC 1-2; HC 1-5; CD I: Art. 1-4
+- [x] Day 1: [BC 1-2; HC 1-5; CD I: Art. 1-4]({% post_url 2025-02-25-the-council-deliberates %})
 - [ ] Day 2: BC 3-4; HC 6-11; CD I: Art. 5-7
 - [ ] Day 3: BC 5-6; HC 12-15; CD I: Art. 8-12
 - [ ] Day 4: BC 7; HC 16-19; CD I: Art. 13-15

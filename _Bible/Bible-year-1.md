@@ -244,7 +244,7 @@ navbar: false
 - [x] Day 235: [1 Sam. 15; Rom. 13; Jer. 52; Ps. 31]({% post_url 2025-02-22-wing-stop %})
 - [x] Day 236: [1 Sam. 16; Rom. 14; Lam. 1; Ps. 32]({% post_url 2025-02-23-spiritual-healing %})
 - [x] Day 237: [1 Sam. 17; Rom. 15; Lam. 2; Ps. 33]({% post_url 2025-02-24-helping-mom %})
-- [ ] Day 238: 1 Sam. 18; Rom. 16; Lam. 3; Ps. 34
+- [x] Day 238: [1 Sam. 18; Rom. 16; Lam. 3; Ps. 34]({% post_url 2025-02-25-the-council-deliberates %})
 - [ ] Day 239: 1 Sam. 19; 1 Cor. 1; Lam. 4; Ps. 35
 - [ ] Day 240: 1 Sam. 20; 1 Cor. 2; Lam. 5; Ps. 36
 - [ ] Day 241: 1 Sam. 21–22; 1 Cor. 3; Ezek. 1; Ps. 37
