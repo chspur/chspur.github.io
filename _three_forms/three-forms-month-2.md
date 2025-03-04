@@ -12,7 +12,7 @@ navbar: false
 - [x] Day 3: [BC 5-6; HC 12-15; CD I: Art. 8-12]({% post_url 2025-02-27-stop-the-cap %})
 - [x] Day 4: [BC 7; HC 16-19; CD I: Art. 13-15]({% post_url 2025-02-28-10-30-pm %})
 - [x] Day 5: [BC 8; HC 20-23; CD I: Art. 16-18]({% post_url 2025-03-01-bacio-di-latte %})
-- [ ] Day 6: BC 9; HC 24-26; CD I: Rej. 1-3
+- [x] Day 6: [BC 9; HC 24-26; CD I: Rej. 1-3]({% post_url 2025-03-02-no-harmless-thing %})
 - [ ] Day 7: BC 10-11; HC 27-28; CD I: Rej. 4-6
 - [ ] Day 8: BC 12; HC 29-34; CD I: Rej. 7-9
 - [ ] Day 9: BC 13; HC 35-39; CD II: Art. 1-3

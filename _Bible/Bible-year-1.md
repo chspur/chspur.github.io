@@ -249,7 +249,7 @@ navbar: false
 - [x] Day 240: [1 Sam. 20; 1 Cor. 2; Lam. 5; Ps. 36]({% post_url 2025-02-27-stop-the-cap %})
 - [x] Day 241: [1 Sam. 21–22; 1 Cor. 3; Ezek. 1; Ps. 37]({% post_url 2025-02-28-10-30-pm %})
 - [x] Day 242: [1 Sam. 23; 1 Cor. 4; Ezek. 2; Ps. 38]({% post_url 2025-03-01-bacio-di-latte %})
-- [ ] Day 243: 1 Sam. 24; 1 Cor. 5; Ezek. 3; Ps. 39
+- [x] Day 243: [1 Sam. 24; 1 Cor. 5; Ezek. 3; Ps. 39]({% post_url 2025-03-02-no-harmless-thing %})
 - [ ] Day 244: 1 Sam. 25; 1 Cor. 6; Ezek. 4; Ps. 40–41
 - [ ] Day 245: 1 Sam. 26; 1 Cor. 7; Ezek. 5; Ps. 42–43
 - [ ] Day 246: 1 Sam. 27; 1 Cor. 8; Ezek. 6; Ps. 44
