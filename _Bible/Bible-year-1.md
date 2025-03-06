@@ -252,7 +252,7 @@ navbar: false
 - [x] Day 243: [1 Sam. 24; 1 Cor. 5; Ezek. 3; Ps. 39]({% post_url 2025-03-02-no-harmless-thing %})
 - [x] Day 244: [1 Sam. 25; 1 Cor. 6; Ezek. 4; Ps. 40–41]({% post_url 2025-03-03-last-monday %})
 - [x] Day 245: [1 Sam. 26; 1 Cor. 7; Ezek. 5; Ps. 42–43]({% post_url 2025-03-04-home-all-day %})
-- [ ] Day 246: 1 Sam. 27; 1 Cor. 8; Ezek. 6; Ps. 44
+- [x] Day 246: [1 Sam. 27; 1 Cor. 8; Ezek. 6; Ps. 44]({% post_url 2025-03-05-sandwich-ingredients %})
 - [ ] Day 247: 1 Sam. 28; 1 Cor. 9; Ezek. 7; Ps. 45
 - [ ] Day 248: 1 Sam. 29–30; 1 Cor. 10; Ezek. 8; Ps. 46–47
 - [ ] Day 249: 1 Sam. 31; 1 Cor. 11; Ezek. 9; Ps. 48
