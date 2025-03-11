@@ -256,7 +256,7 @@ navbar: false
 - [x] Day 247: [1 Sam. 28; 1 Cor. 9; Ezek. 7; Ps. 45]({% post_url 2025-03-06-last-day-of-freedom %})
 - [x] Day 248: [1 Sam. 29–30; 1 Cor. 10; Ezek. 8; Ps. 46–47]({% post_url 2025-03-07-first-day-of-work %})
 - [x] Day 249: [1 Sam. 31; 1 Cor. 11; Ezek. 9; Ps. 48]({% post_url 2025-03-08-league-with-the-bois %})
-- [ ] Day 250: 2 Sam. 1; 1 Cor. 12; Ezek. 10; Ps. 49
+- [x] Day 250: [2 Sam. 1; 1 Cor. 12; Ezek. 10; Ps. 49]({% post_url 2025-03-09-soccer-fellowship %})
 - [ ] Day 251: 2 Sam. 2; 1 Cor. 13; Ezek. 11; Ps. 50
 - [ ] Day 252: 2 Sam. 3; 1 Cor. 14; Ezek. 12; Ps. 51
 - [ ] Day 253: 2 Sam. 4–5; 1 Cor. 15; Ezek. 13; Ps. 52–54
