@@ -24,7 +24,7 @@ navbar: false
 - [x] Day 15: [BC 21; HC 65-68; CD III/IV: Art. 5-8]({% post_url 2025-03-11-new-schedule %})
 - [x] Day 16: [BC 22; HC 69-74; CD III/IV: Art. 9-11]({% post_url 2025-03-12-after-work-swim %})
 - [x] Day 17: [BC 23; HC 75-79; CD III/IV: Art. 12-14]({% post_url 2025-03-13-all-staff-meeting %})
-- [ ] Day 18: BC 24; HC 80-82; CD III/IV: Art. 15-17
+- [x] Day 18: [BC 24; HC 80-82; CD III/IV: Art. 15-17]({% post_url 2025-03-14-first-week-of-work %})
 - [ ] Day 19: BC 25; HC 83-85; CD III/IV: Rej. 1-3
 - [ ] Day 20: BC 26; HC 86-91; CD III/IV: Rej. 4-6
 - [ ] Day 21: BC 27; HC 92-93; CD III/IV: Rej. 7-9
