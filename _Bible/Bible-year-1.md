@@ -262,7 +262,7 @@ navbar: false
 - [x] Day 253: [2 Sam. 4–5; 1 Cor. 15; Ezek. 13; Ps. 52–54]({% post_url 2025-03-12-after-work-swim %})
 - [x] Day 254: [2 Sam. 6; 1 Cor. 16; Ezek. 14; Ps. 55]({% post_url 2025-03-13-all-staff-meeting %})
 - [x] Day 255: [2 Sam. 7; 2 Cor. 1; Ezek. 15; Ps. 56–57]({% post_url 2025-03-14-first-week-of-work %})
-- [ ] Day 256: 2 Sam. 8–9; 2 Cor. 2; Ezek. 16; Ps. 58–59
+- [x] Day 256: [2 Sam. 8–9; 2 Cor. 2; Ezek. 16; Ps. 58–59]({% post_url 2025-03-15-praise-and-thanksgiving %})
 - [ ] Day 257: 2 Sam. 10; 2 Cor. 3; Ezek. 17; Ps. 60–61
 - [ ] Day 258: 2 Sam. 11; 2 Cor. 4; Ezek. 18; Ps. 62–63
 - [ ] Day 259: 2 Sam. 12; 2 Cor. 5; Ezek. 19; Ps. 64–65 
