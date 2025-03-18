@@ -264,7 +264,7 @@ navbar: false
 - [x] Day 255: [2 Sam. 7; 2 Cor. 1; Ezek. 15; Ps. 56–57]({% post_url 2025-03-14-first-week-of-work %})
 - [x] Day 256: [2 Sam. 8–9; 2 Cor. 2; Ezek. 16; Ps. 58–59]({% post_url 2025-03-15-praise-and-thanksgiving %})
 - [x] Day 257: [2 Sam. 10; 2 Cor. 3; Ezek. 17; Ps. 60–61]({% post_url 2025-03-16-great-responsibility %})
-- [ ] Day 258: 2 Sam. 11; 2 Cor. 4; Ezek. 18; Ps. 62–63
+- [x] Day 258: [2 Sam. 11; 2 Cor. 4; Ezek. 18; Ps. 62–63]({% post_url 2025-03-17-on-the-phones %})
 - [ ] Day 259: 2 Sam. 12; 2 Cor. 5; Ezek. 19; Ps. 64–65 
 - [ ] Day 260: 2 Sam. 13; 2 Cor. 6; Ezek. 20; Ps. 66–67
 - [ ] Day 261: 2 Sam. 14; 2 Cor. 7; Ezek. 21; Ps. 68
