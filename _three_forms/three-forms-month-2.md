@@ -29,7 +29,7 @@ navbar: false
 - [x] Day 20: [BC 26; HC 86-91; CD III/IV: Rej. 4-6]({% post_url 2025-03-16-great-responsibility %})
 - [x] Day 21: [BC 27; HC 92-93; CD III/IV: Rej. 7-9]({% post_url 2025-03-17-on-the-phones %})
 - [x] Day 22: [BC 28; HC 94-98; CD V: Art. 1-3]({% post_url 2025-03-18-credit-card %})
-- [ ] Day 23: BC 29; HC 99-102; CD V: Art. 4-6
+- [x] Day 23: [BC 29; HC 99-102; CD V: Art. 4-6]({% post_url 2025-03-19-vscode-theme %})
 - [ ] Day 24: BC 30-31; HC 103-107; CD V: Art. 7-9
 - [ ] Day 25: BC 32; HC 108-111; CD V: Art. 10-12
 - [ ] Day 26: BC 33; HC 112-115; CD V: Art. 13-15
