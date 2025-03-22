@@ -268,7 +268,7 @@ navbar: false
 - [x] Day 259: [2 Sam. 12; 2 Cor. 5; Ezek. 19; Ps. 64–65]({% post_url 2025-03-18-credit-card %})
 - [x] Day 260: [2 Sam. 13; 2 Cor. 6; Ezek. 20; Ps. 66–67]({% post_url 2025-03-19-vscode-theme %})
 - [x] Day 261: [2 Sam. 14; 2 Cor. 7; Ezek. 21; Ps. 68]({% post_url 2025-03-20-spontaneous-calls %})
-- [ ] Day 262: 2 Sam. 15; 2 Cor. 8; Ezek. 22; Ps. 69
+- [x] Day 262: [2 Sam. 15; 2 Cor. 8; Ezek. 22; Ps. 69]({% post_url 2025-03-21-going-to-retreat %})
 - [ ] Day 263: 2 Sam. 16; 2 Cor. 9; Ezek. 23; Ps. 70–71
 - [ ] Day 264: 2 Sam. 17; 2 Cor. 10; Ezek. 24; Ps. 72
 - [ ] Day 265: 2 Sam. 18; 2 Cor. 11; Ezek. 25; Ps. 73
