@@ -7,8 +7,8 @@ We decided to end retreat early, which was a relief because sleeping there is so
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [2 Sam. 12; 2 Cor. 5; Ezek. 19; Ps. 64–65]({% link _Bible/Bible-year-1.md %}) |
-| [BC 28; HC 94-98; CD V: Art. 1-3]({% link _three_forms/three-forms-month-2.md %}) |
+| [2 Sam. 16; 2 Cor. 9; Ezek. 23; Ps. 70–71]({% link _Bible/Bible-year-1.md %}) |
+| [BC 33; HC 112-115; CD V: Art. 13-15]({% link _three_forms/three-forms-month-2.md %}) |
 | [The Nicene Creed](https://threeforms.org/the-nicene-creed/) |
 
 </details>
