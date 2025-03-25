@@ -271,7 +271,7 @@ navbar: false
 - [x] Day 262: [2 Sam. 15; 2 Cor. 8; Ezek. 22; Ps. 69]({% post_url 2025-03-21-going-to-retreat %})
 - [x] Day 263: [2 Sam. 16; 2 Cor. 9; Ezek. 23; Ps. 70–71]({% post_url 2025-03-22-back-from-retreat %})
 - [x] Day 264: [2 Sam. 17; 2 Cor. 10; Ezek. 24; Ps. 72]({% post_url 2025-03-23-the-ami-pirates %})
-- [ ] Day 265: 2 Sam. 18; 2 Cor. 11; Ezek. 25; Ps. 73
+- [x] Day 265: [2 Sam. 18; 2 Cor. 11; Ezek. 25; Ps. 73]({% post_url 2025-03-24-swim-days %})
 - [ ] Day 266: 2 Sam. 19; 2 Cor. 12; Ezek. 26; Ps. 74
 - [ ] Day 267: 2 Sam. 20; 2 Cor. 13; Ezek. 27; Ps. 75–76
 - [ ] Day 268: 2 Sam. 21; Gal. 1; Ezek. 28; Ps. 77
