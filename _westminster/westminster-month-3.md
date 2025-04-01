@@ -11,7 +11,7 @@ navbar: false
 - [x] Day 2: [WCF 2; WLC 7-11; WSC 4-6]({% post_url 2025-03-28-downtime %})
 - [x] Day 3: [WCF 3; WLC 12-20; WSC 7-12]({% post_url 2025-03-29-hike-with-the-guys %})
 - [x] Day 4: [WCF 4; WLC 21-29; WSC 13-19]({% post_url 2025-03-30-my-everything %})
-- [ ] Day 5: WCF 5; WLC 30-35; WSC 20-23
+- [x] Day 5: [WCF 5; WLC 30-35; WSC 20-23]({% post_url 2025-03-31-finished-training %})
 - [ ] Day 6: WCF 6; WLC 36-42; WSC 24-26
 - [ ] Day 7: WCF 7; WLC 43-50; WSC 27-28
 - [ ] Day 8: WCF 8; WLC 51-56; WSC 29-32

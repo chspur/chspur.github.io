@@ -278,7 +278,7 @@ navbar: false
 - [x] Day 269: [2 Sam. 22; Gal. 2; Ezek. 29; Ps. 78:1–37]({% post_url 2025-03-28-downtime %})
 - [x] Day 270: [2 Sam. 23; Gal. 3; Ezek. 30; Ps. 78:38–72]({% post_url 2025-03-29-hike-with-the-guys %})
 - [x] Day 271: [2 Sam. 24; Gal. 4; Ezek. 31; Ps. 79]({% post_url 2025-03-30-my-everything %})
-- [ ] Day 272: 1 Kings 1; Gal. 5; Ezek. 32; Ps. 80
+- [x] Day 272: [1 Kings 1; Gal. 5; Ezek. 32; Ps. 80]({% post_url 2025-03-31-finished-training %})
 - [ ] Day 273: 1 Kings 2; Gal. 6; Ezek. 33; Ps. 81–82
 - [ ] Day 274: 1 Kings 3; Eph. 1; Ezek. 34; Ps. 83–84
 - [ ] Day 275: 1 Kings 4–5; Eph. 2; Ezek. 35; Ps. 85
