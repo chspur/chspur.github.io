@@ -8,7 +8,7 @@ Today I went on a hike with Han and Sam. We got there at 6:30 in the morning, so
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
 | [2 Sam. 23; Gal. 3; Ezek. 30; Ps. 78:38–72]({% link _Bible/Bible-year-1.md %}) |
-| [WCF 3; WLC 12-20; WSC 7-12]({% link _three_forms/three-forms-month-2.md %}) |
+| [WCF 3; WLC 12-20; WSC 7-12]({% link _westminster/westminster-month-3.md %}) |
 | [The Apostles' Creed](https://threeforms.org/the-apostles-creed/) |
 
 </details>

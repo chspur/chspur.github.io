@@ -10,7 +10,7 @@ I was very moved during the sermon. I can tell that P Dan really loves us by the
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
 | [2 Sam. 24; Gal. 4; Ezek. 31; Ps. 79]({% link _Bible/Bible-year-1.md %}) |
-| [WCF 4; WLC 21-29; WSC 13-19]({% link _three_forms/three-forms-month-2.md %}) |
+| [WCF 4; WLC 21-29; WSC 13-19]({% link _westminster/westminster-month-3.md %}) |
 | [The Nicene Creed](https://threeforms.org/the-nicene-creed/) |
 
 </details>
