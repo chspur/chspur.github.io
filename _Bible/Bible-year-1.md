@@ -280,7 +280,7 @@ navbar: false
 - [x] Day 271: [2 Sam. 24; Gal. 4; Ezek. 31; Ps. 79]({% post_url 2025-03-30-my-everything %})
 - [x] Day 272: [1 Kings 1; Gal. 5; Ezek. 32; Ps. 80]({% post_url 2025-03-31-finished-training %})
 - [x] Day 273: [1 Kings 2; Gal. 6; Ezek. 33; Ps. 81–82]({% post_url 2025-04-01-dinner-with-chen %})
-- [ ] Day 274: 1 Kings 3; Eph. 1; Ezek. 34; Ps. 83–84
+- [x] Day 274: [1 Kings 3; Eph. 1; Ezek. 34; Ps. 83–84]({% post_url 2025-04-02-swim-struggles %})
 - [ ] Day 275: 1 Kings 4–5; Eph. 2; Ezek. 35; Ps. 85
 - [ ] Day 276: 1 Kings 6; Eph. 3; Ezek. 36; Ps. 86
 - [ ] Day 277: 1 Kings 7; Eph. 4; Ezek. 37; Ps. 87–88
