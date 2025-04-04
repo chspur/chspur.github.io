@@ -14,7 +14,7 @@ navbar: false
 - [x] Day 5: [WCF 5; WLC 30-35; WSC 20-23]({% post_url 2025-03-31-finished-training %})
 - [x] Day 6: [WCF 6; WLC 36-42; WSC 24-26]({% post_url 2025-04-01-dinner-with-chen %})
 - [x] Day 7: [WCF 7; WLC 43-50; WSC 27-28]({% post_url 2025-04-02-swim-struggles %})
-- [ ] Day 8: WCF 8; WLC 51-56; WSC 29-32
+- [x] Day 8: [WCF 8; WLC 51-56; WSC 29-32]({% post_url 2025-04-03-sermon-42 %})
 - [ ] Day 9: WCF 9; WLC 57-61; WSC 33-36
 - [ ] Day 10: WCF 10; WLC 62-69; WSC 37-38
 - [ ] Day 11: WCF 11; WLC 70-78; WSC 39-42
