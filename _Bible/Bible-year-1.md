@@ -283,7 +283,7 @@ navbar: false
 - [x] Day 274: [1 Kings 3; Eph. 1; Ezek. 34; Ps. 83–84]({% post_url 2025-04-02-swim-struggles %})
 - [x] Day 275: [1 Kings 4–5; Eph. 2; Ezek. 35; Ps. 85]({% post_url 2025-04-03-sermon-42 %})
 - [x] Day 276: [1 Kings 6; Eph. 3; Ezek. 36; Ps. 86]({% post_url 2025-04-04-council-call %})
-- [ ] Day 277: 1 Kings 7; Eph. 4; Ezek. 37; Ps. 87–88
+- [x] Day 277: [1 Kings 7; Eph. 4; Ezek. 37; Ps. 87–88]({% post_url 2025-04-05-bass-pro-shops %})
 - [ ] Day 278: 1 Kings 8; Eph. 5; Ezek. 38; Ps. 89
 - [ ] Day 279: 1 Kings 9; Eph. 6; Ezek. 39; Ps. 90
 - [ ] Day 280: 1 Kings 10; Phil. 1; Ezek. 40; Ps. 91

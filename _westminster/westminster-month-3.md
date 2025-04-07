@@ -16,7 +16,7 @@ navbar: false
 - [x] Day 7: [WCF 7; WLC 43-50; WSC 27-28]({% post_url 2025-04-02-swim-struggles %})
 - [x] Day 8: [WCF 8; WLC 51-56; WSC 29-32]({% post_url 2025-04-03-sermon-42 %})
 - [x] Day 9: [WCF 9; WLC 57-61; WSC 33-36]({% post_url 2025-04-04-council-call %})
-- [ ] Day 10: WCF 10; WLC 62-69; WSC 37-38
+- [x] Day 10: [WCF 10; WLC 62-69; WSC 37-38]({% post_url 2025-04-05-bass-pro-shops %})
 - [ ] Day 11: WCF 11; WLC 70-78; WSC 39-42
 - [ ] Day 12: WCF 12; WLC 79-83; WSC 43-44
 - [ ] Day 13: WCF 13; WLC 84-90; WSC 45-48
