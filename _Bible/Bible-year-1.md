@@ -285,7 +285,7 @@ navbar: false
 - [x] Day 276: [1 Kings 6; Eph. 3; Ezek. 36; Ps. 86]({% post_url 2025-04-04-council-call %})
 - [x] Day 277: [1 Kings 7; Eph. 4; Ezek. 37; Ps. 87–88]({% post_url 2025-04-05-bass-pro-shops %})
 - [x] Day 278: [1 Kings 8; Eph. 5; Ezek. 38; Ps. 89]({% post_url 2025-04-06-ordination-service %})
-- [ ] Day 279: 1 Kings 9; Eph. 6; Ezek. 39; Ps. 90
+- [x] Day 279: [1 Kings 9; Eph. 6; Ezek. 39; Ps. 90]({% post_url 2025-04-07-prints-and-stickers %})
 - [ ] Day 280: 1 Kings 10; Phil. 1; Ezek. 40; Ps. 91
 - [ ] Day 281: 1 Kings 11; Phil. 2; Ezek. 41; Ps. 92–93
 - [ ] Day 282: 1 Kings 12; Phil. 3; Ezek. 42; Ps. 94
