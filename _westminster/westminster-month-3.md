@@ -21,7 +21,7 @@ navbar: false
 - [x] Day 12: [WCF 12; WLC 79-83; WSC 43-44]({% post_url 2025-04-07-prints-and-stickers %})
 - [x] Day 13: [WCF 13; WLC 84-90; WSC 45-48]({% post_url 2025-04-08-sermon-43 %})
 - [x] Day 14: [WCF 14; WLC 91-98; WSC 49-52]({% post_url 2025-04-09-super-tired %})
-- [ ] Day 15: WCF 15; WLC 99-100; WSC 53-56
+- [x] Day 15: [WCF 15; WLC 99-100; WSC 53-56]({% post_url 2025-04-10-chen-birthday %})
 - [ ] Day 16: WCF 16; WLC 101-106; WSC 57-62
 - [ ] Day 17: WCF 17; WLC 107-114; WSC 63-66
 - [ ] Day 18: WCF 18; WLC 115-121; WSC 67-69
