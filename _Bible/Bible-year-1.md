@@ -289,7 +289,7 @@ navbar: false
 - [x] Day 280: [1 Kings 10; Phil. 1; Ezek. 40; Ps. 91]({% post_url 2025-04-08-sermon-43 %})
 - [x] Day 281: [1 Kings 11; Phil. 2; Ezek. 41; Ps. 92–93]({% post_url 2025-04-09-super-tired %})
 - [x] Day 282: [1 Kings 12; Phil. 3; Ezek. 42; Ps. 94]({% post_url 2025-04-10-chen-birthday %})
-- [ ] Day 283: 1 Kings 13; Phil. 4; Ezek. 43; Ps. 95–96
+- [x] Day 283: [1 Kings 13; Phil. 4; Ezek. 43; Ps. 95–96]({% post_url 2025-04-11-work-convos %})
 - [ ] Day 284: 1 Kings 14; Col. 1; Ezek. 44; Ps. 97–98
 - [ ] Day 285: 1 Kings 15; Col. 2; Ezek. 45; Ps. 99–101
 - [ ] Day 286: 1 Kings 16; Col. 3; Ezek. 46; Ps. 102
