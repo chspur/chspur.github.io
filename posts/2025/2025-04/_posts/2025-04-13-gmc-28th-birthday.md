@@ -1,6 +1,6 @@
 ## gmc 28th birthday
 
-We had a joint service with the KM today at church in commemoration of GMC's 28^th^ anniversary. It was cool hearing the senior pastor preach in English and Korean at the same time. A group from the KM also did a drum performance, which was interesting and quite loud.
+We had a joint service with the KM today at church in commemoration of GMC's 28<sup>th</sup> anniversary. It was cool hearing the senior pastor preach in English and Korean at the same time. A group from the KM also did a drum performance, which was interesting and quite loud.
 
 P Kenny announced his resignation today. It was sad to hear the news and some people were crying. He's not going too far, just moving to another church in our presbytery to be a KM pastor, so that's good. Hopefully, we'll still be able to see him around from time to time. Grateful for him and the ways he has served our congregation. He reached out and got lunch with me when I first started coming to GMC, and I still really appreciate that to this day.
 
