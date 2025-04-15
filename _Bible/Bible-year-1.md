@@ -292,7 +292,7 @@ navbar: false
 - [x] Day 283: [1 Kings 13; Phil. 4; Ezek. 43; Ps. 95–96]({% post_url 2025-04-11-work-convos %})
 - [x] Day 284: [1 Kings 14; Col. 1; Ezek. 44; Ps. 97–98]({% post_url 2025-04-12-sermon-44 %})
 - [x] Day 285: [1 Kings 15; Col. 2; Ezek. 45; Ps. 99–101]({% post_url 2025-04-13-gmc-28th-birthday %})
-- [ ] Day 286: 1 Kings 16; Col. 3; Ezek. 46; Ps. 102
+- [x] Day 286: [1 Kings 16; Col. 3; Ezek. 46; Ps. 102]({% post_url 2025-04-14-limited-edition-sproul %})
 - [ ] Day 287: 1 Kings 17; Col. 4; Ezek. 47; Ps. 103
 - [ ] Day 288: 1 Kings 18; 1 Thess. 1; Ezek. 48; Ps. 104
 - [ ] Day 289: 1 Kings 19; 1 Thess. 2; Dan. 1; Ps. 105
