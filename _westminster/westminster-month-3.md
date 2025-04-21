@@ -31,7 +31,7 @@ navbar: false
 - [x] Day 22: [WCF 22; WLC 146-152; WSC 79-81]({% post_url 2025-04-17-golf-and-suits %})
 - [x] Day 23: [WCF 23; WLC 153-160; WSC 82-84]({% post_url 2025-04-18-good-friday %})
 - [x] Day 24: [WCF 24; WLC 161-164, 176-177; WSC 85-87]({% post_url 2025-04-19-laker-game %})
-- [ ] Day 25: WCF 25; WLC 165-167; WSC 88-90
+- [x] Day 25: [WCF 25; WLC 165-167; WSC 88-90]({% post_url 2025-04-20-resurrection-sunday %})
 - [ ] Day 26: WCF 26; WLC 168-175; WSC 91-93
 - [ ] Day 27: WCF 27; WLC 178-185; WSC 94-97
 - [ ] Day 28: WCF 28; WLC 186-189; WSC 98-100
