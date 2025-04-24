@@ -301,7 +301,7 @@ navbar: false
 - [x] Day 292: [1 Kings 22; 1 Thess. 5; Dan. 4; Ps. 108–109]({% post_url 2025-04-20-resurrection-sunday %})
 - [x] Day 293: [2 Kings 1; 2 Thess. 1; Dan. 5; Ps. 110–111]({% post_url 2025-04-21-dads-birthday-popes-deathday %})
 - [x] Day 294: [2 Kings 2; 2 Thess. 2; Dan. 6; Ps. 112–113]({% post_url 2025-04-22-sermon-46 %})
-- [ ] Day 295: 2 Kings 3; 2 Thess. 3; Dan. 7; Ps. 114–115
+- [x] Day 295: [2 Kings 3; 2 Thess. 3; Dan. 7; Ps. 114–115]({% post_url 2025-04-23-catechism-of-the-catholic-church %})
 - [ ] Day 296: 2 Kings 4; 1 Tim. 1; Dan. 8; Ps. 116
 - [ ] Day 297: 2 Kings 5; 1 Tim. 2; Dan. 9; Ps. 117–118
 - [ ] Day 298: 2 Kings 6; 1 Tim. 3; Dan. 10; Ps. 119:1–24
