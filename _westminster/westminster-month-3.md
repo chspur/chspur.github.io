@@ -35,7 +35,7 @@ navbar: false
 - [x] Day 26: [WCF 26; WLC 168-175; WSC 91-93]({% post_url 2025-04-21-dads-birthday-popes-deathday %})
 - [x] Day 27: [WCF 27; WLC 178-185; WSC 94-97]({% post_url 2025-04-22-sermon-46 %})
 - [x] Day 28: [WCF 28; WLC 186-189; WSC 98-100]({% post_url 2025-04-23-catechism-of-the-catholic-church %})
-- [ ] Day 29: WCF 29; WLC 190-192; WSC 101-103
+- [x] Day 29: [WCF 29; WLC 190-192; WSC 101-103]({% post_url 2025-04-24-sermon-47 %})
 - [ ] Day 30: WCF 30-33; WLC 193-196; WSC 104-107
 
 *Finished:*
