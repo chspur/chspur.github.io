@@ -303,7 +303,7 @@ navbar: false
 - [x] Day 294: [2 Kings 2; 2 Thess. 2; Dan. 6; Ps. 112–113]({% post_url 2025-04-22-sermon-46 %})
 - [x] Day 295: [2 Kings 3; 2 Thess. 3; Dan. 7; Ps. 114–115]({% post_url 2025-04-23-catechism-of-the-catholic-church %})
 - [x] Day 296: [2 Kings 4; 1 Tim. 1; Dan. 8; Ps. 116]({% post_url 2025-04-24-sermon-47 %})
-- [ ] Day 297: 2 Kings 5; 1 Tim. 2; Dan. 9; Ps. 117–118
+- [x] Day 297: [2 Kings 5; 1 Tim. 2; Dan. 9; Ps. 117–118]({% post_url 2025-04-25-council-call %})
 - [ ] Day 298: 2 Kings 6; 1 Tim. 3; Dan. 10; Ps. 119:1–24
 - [ ] Day 299: 2 Kings 7; 1 Tim. 4; Dan. 11; Ps. 119:25–48
 - [ ] Day 300: 2 Kings 8; 1 Tim. 5; Dan. 12; Ps. 119:49–72
