@@ -12,7 +12,7 @@ Halfway through *What It Means To Be Protestant* by Gavin Ortlund. A good read s
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
 | [2 Kings 6; 1 Tim. 3; Dan. 10; Ps. 119:1–24]({% link _Bible/Bible-year-1.md %}) |
-| [BC 1-2; HC 1-5; CD I: Art. 1-4]({% link _three_forms/three-forms-month-3 %}) |
+| [BC 1-2; HC 1-5; CD I: Art. 1-4]({% link _three_forms/three-forms-month-3.md %}) |
 | [The Apostles' Creed](https://threeforms.org/the-apostles-creed/) |
 
 </details>
