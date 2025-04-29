@@ -9,7 +9,7 @@ navbar: false
 
 - [x] Day 1: [BC 1-2; HC 1-5; CD I: Art. 1-4]({% post_url 2025-04-26-swimming-in-the-rain %})
 - [x] Day 2: [BC 3-4; HC 6-11; CD I: Art. 5-7]({% post_url 2025-04-27-pastor-kennys-last-sermon %})
-- [ ] Day 3: BC 5-6; HC 12-15; CD I: Art. 8-12
+- [x] Day 3: [BC 5-6; HC 12-15; CD I: Art. 8-12]({% post_url 2025-04-28-spring-cleaning %})
 - [ ] Day 4: BC 7; HC 16-19; CD I: Art. 13-15
 - [ ] Day 5: BC 8; HC 20-23; CD I: Art. 16-18
 - [ ] Day 6: BC 9; HC 24-26; CD I: Rej. 1-3
