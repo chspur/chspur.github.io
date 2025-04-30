@@ -1,4 +1,4 @@
-## Pastor Kenny's last sermon
+## pastor kenny's last sermon
 
 Today, P Kenny gave his last sermon. It was on Judges 2:10 and his charge to us to be a faithful generation of God's people.
 
