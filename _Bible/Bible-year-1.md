@@ -310,7 +310,7 @@ navbar: false
 - [x] Day 301: [2 Kings 9; 1 Tim. 6; Hos. 1; Ps. 119:73–96]({% post_url 2025-04-29-calvins-sermons-on-ephesians %})
 - [x] Day 302: [2 Kings 10; 2 Tim. 1; Hos. 2; Ps. 119:97–120]({% post_url 2025-04-30-no-open-lanes %})
 - [x] Day 303: [2 Kings 11–12; 2 Tim. 2; Hos. 3–4; Ps. 119:121–144]({% post_url 2025-05-01-tree-bookshelf %})
-- [ ] Day 304: 2 Kings 13; 2 Tim. 3; Hos. 5–6; Ps. 119:145–176
+- [x] Day 304: [2 Kings 13; 2 Tim. 3; Hos. 5–6; Ps. 119:145–176]({% post_url 2025-05-02-air-purifier %})
 - [ ] Day 305: 2 Kings 14; 2 Tim. 4; Hos. 7; Ps. 120–122
 - [ ] Day 306: 2 Kings 15; Titus 1; Hos. 8; Ps. 123–125
 - [ ] Day 307: 2 Kings 16; Titus 2; Hos. 9; Ps. 126–128
