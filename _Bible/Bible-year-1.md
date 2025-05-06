@@ -312,7 +312,7 @@ navbar: false
 - [x] Day 303: [2 Kings 11–12; 2 Tim. 2; Hos. 3–4; Ps. 119:121–144]({% post_url 2025-05-01-tree-bookshelf %})
 - [x] Day 304: [2 Kings 13; 2 Tim. 3; Hos. 5–6; Ps. 119:145–176]({% post_url 2025-05-02-air-purifier %})
 - [x] Day 305: [2 Kings 14; 2 Tim. 4; Hos. 7; Ps. 120–122]({% post_url 2025-05-03-new-tires %})
-- [ ] Day 306: 2 Kings 15; Titus 1; Hos. 8; Ps. 123–125
+- [x] Day 306: [2 Kings 15; Titus 1; Hos. 8; Ps. 123–125]({% post_url 2025-05-03-farewell-pastor-kenny %})
 - [ ] Day 307: 2 Kings 16; Titus 2; Hos. 9; Ps. 126–128
 - [ ] Day 308: 2 Kings 17; Titus 3; Hos. 10; Ps. 129–131
 - [ ] Day 309: 2 Kings 18; Philem. 1; Hos. 11; Ps. 132–134

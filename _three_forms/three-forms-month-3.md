@@ -15,7 +15,7 @@ navbar: false
 - [x] Day 6: [BC 9; HC 24-26; CD I: Rej. 1-3]({% post_url 2025-05-01-tree-bookshelf %})
 - [x] Day 7: [BC 10-11; HC 27-28; CD I: Rej. 4-6]({% post_url 2025-05-02-air-purifier %})
 - [x] Day 8: [BC 12; HC 29-34; CD I: Rej. 7-9]({% post_url 2025-05-03-new-tires %})
-- [ ] Day 9: BC 13; HC 35-39; CD II: Art. 1-3
+- [ ] Day 9: [BC 13; HC 35-39; CD II: Art. 1-3]({% post_url 2025-05-03-farewell-pastor-kenny %})
 - [ ] Day 10: BC 14-15; HC 40-44; CD II: Art. 4-7
 - [ ] Day 11: BC 16-17; HC 45-49; CD II: Art. 8-9
 - [ ] Day 12: BC 18; HC 50-52; CD II: Rej. 1-3
