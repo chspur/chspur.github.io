@@ -316,7 +316,7 @@ navbar: false
 - [x] Day 307: [2 Kings 16; Titus 2; Hos. 9; Ps. 126–128]({% post_url 2025-05-05-normal-work-day %})
 - [x] Day 308: [2 Kings 17; Titus 3; Hos. 10; Ps. 129–131]({% post_url 2025-05-06-haircut-day %})
 - [x] Day 309: [2 Kings 18; Philem. 1; Hos. 11; Ps. 132–134]({% post_url 2025-05-07-ayce-chicken-wings %})
-- [ ] Day 310: 2 Kings 19; Heb. 1; Hos. 12; Ps. 135–136
+- [x] Day 310: [2 Kings 19; Heb. 1; Hos. 12; Ps. 135–136]({% post_url 2025-05-08-damaged-books %})
 - [ ] Day 311: 2 Kings 20; Heb. 2; Hos. 13; Ps. 137–138
 - [ ] Day 312: 2 Kings 21; Heb. 3; Hos. 14; Ps. 139
 - [ ] Day 313: 2 Kings 22; Heb. 4; Joel 1; Ps. 140–141
