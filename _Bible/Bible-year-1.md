@@ -318,7 +318,7 @@ navbar: false
 - [x] Day 309: [2 Kings 18; Philem. 1; Hos. 11; Ps. 132–134]({% post_url 2025-05-07-ayce-chicken-wings %})
 - [x] Day 310: [2 Kings 19; Heb. 1; Hos. 12; Ps. 135–136]({% post_url 2025-05-08-damaged-books %})
 - [x] Day 311: [2 Kings 20; Heb. 2; Hos. 13; Ps. 137–138]({% post_url 2025-05-09-prayer-walk %})
-- [ ] Day 312: 2 Kings 21; Heb. 3; Hos. 14; Ps. 139
+- [x] Day 312: [2 Kings 21; Heb. 3; Hos. 14; Ps. 139]({% post_url 2025-05-10-grace-and-glory %})
 - [ ] Day 313: 2 Kings 22; Heb. 4; Joel 1; Ps. 140–141
 - [ ] Day 314: 2 Kings 23; Heb. 5; Joel 2; Ps. 142
 - [ ] Day 315: 2 Kings 24; Heb. 6; Joel 3; Ps. 143
