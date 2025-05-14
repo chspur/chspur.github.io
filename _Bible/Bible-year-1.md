@@ -321,7 +321,7 @@ navbar: false
 - [x] Day 312: [2 Kings 21; Heb. 3; Hos. 14; Ps. 139]({% post_url 2025-05-10-grace-and-glory %})
 - [x] Day 313: [2 Kings 22; Heb. 4; Joel 1; Ps. 140–141]({% post_url 2025-05-11-mothers-day %})
 - [x] Day 314: [2 Kings 23; Heb. 5; Joel 2; Ps. 142]({% post_url 2025-05-12-more-aligners %})
-- [ ] Day 315: 2 Kings 24; Heb. 6; Joel 3; Ps. 143
+- [x] Day 315: [2 Kings 24; Heb. 6; Joel 3; Ps. 143]({% post_url 2025-05-13-what-it-means-to-be-protestant %})
 - [ ] Day 316: 2 Kings 25; Heb. 7; Amos 1; Ps. 144
 - [ ] Day 317: 1 Chron. 1–2; Heb. 8; Amos 2; Ps. 145
 - [ ] Day 318: 1 Chron. 3–4; Heb. 9; Amos 3; Ps. 146–147
