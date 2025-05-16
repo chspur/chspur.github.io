@@ -323,7 +323,7 @@ navbar: false
 - [x] Day 314: [2 Kings 23; Heb. 5; Joel 2; Ps. 142]({% post_url 2025-05-12-more-aligners %})
 - [x] Day 315: [2 Kings 24; Heb. 6; Joel 3; Ps. 143]({% post_url 2025-05-13-what-it-means-to-be-protestant %})
 - [x] Day 316: [2 Kings 25; Heb. 7; Amos 1; Ps. 144]({% post_url 2025-05-14-church-history-and-other-traditions %})
-- [ ] Day 317: 1 Chron. 1–2; Heb. 8; Amos 2; Ps. 145
+- [x] Day 317: [1 Chron. 1–2; Heb. 8; Amos 2; Ps. 145]({% post_url 2025-05-15-theology-at-work %})
 - [ ] Day 318: 1 Chron. 3–4; Heb. 9; Amos 3; Ps. 146–147
 - [ ] Day 319: 1 Chron. 5–6; Heb. 10; Amos 4; Ps. 148–150
 - [ ] Day 320: 1 Chron. 7–8; Heb. 11; Amos 5; Luke 1:1–38
