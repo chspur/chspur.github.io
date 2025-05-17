@@ -27,7 +27,7 @@ navbar: false
 - [x] Day 18: [BC 24; HC 80-82; CD III/IV: Art. 15-17]({% post_url 2025-05-13-what-it-means-to-be-protestant %})
 - [x] Day 19: [BC 25; HC 83-85; CD III/IV: Rej. 1-3]({% post_url 2025-05-14-church-history-and-other-traditions %})
 - [x] Day 20: [BC 26; HC 86-91; CD III/IV: Rej. 4-6]({% post_url 2025-05-15-theology-at-work %})
-- [ ] Day 21: BC 27; HC 92-93; CD III/IV: Rej. 7-9
+- [x] Day 21: [BC 27; HC 92-93; CD III/IV: Rej. 7-9]({% post_url 2025-05-16-sermon-2 %})
 - [ ] Day 22: BC 28; HC 94-98; CD V: Art. 1-3
 - [ ] Day 23: BC 29; HC 99-102; CD V: Art. 4-6
 - [ ] Day 24: BC 30-31; HC 103-107; CD V: Art. 7-9
