@@ -326,7 +326,7 @@ navbar: false
 - [x] Day 317: [1 Chron. 1–2; Heb. 8; Amos 2; Ps. 145]({% post_url 2025-05-15-theology-at-work %})
 - [x] Day 318: [1 Chron. 3–4; Heb. 9; Amos 3; Ps. 146–147]({% post_url 2025-05-16-sermon-2 %})
 - [x] Day 319: [1 Chron. 5–6; Heb. 10; Amos 4; Ps. 148–150]({% post_url 2025-05-17-sermon-3 %})
-- [ ] Day 320: 1 Chron. 7–8; Heb. 11; Amos 5; Luke 1:1–38
+- [ ] Day 320: [1 Chron. 7–8; Heb. 11; Amos 5; Luke 1:1–38]({% post_url 2025-05-18-applying-the-gospel %})
 - [ ] Day 321: 1 Chron. 9–10; Heb. 12; Amos 6; Luke 1:39–80
 - [ ] Day 322: 1 Chron. 11–12; Heb. 13; Amos 7; Luke 2
 - [ ] Day 323: 1 Chron. 13–14; James 1; Amos 8; Luke 3
