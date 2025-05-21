@@ -31,7 +31,7 @@ navbar: false
 - [x] Day 22: [BC 28; HC 94-98; CD V: Art. 1-3]({% post_url 2025-05-17-sermon-3 %})
 - [x] Day 23: [BC 29; HC 99-102; CD V: Art. 4-6]({% post_url 2025-05-18-applying-the-gospel %})
 - [x] Day 24: [BC 30-31; HC 103-107; CD V: Art. 7-9]({% post_url 2025-05-19-new-towel %})
-- [ ] Day 25: BC 32; HC 108-111; CD V: Art. 10-12
+- [x] Day 25: [BC 32; HC 108-111; CD V: Art. 10-12]({% post_url 2025-05-20-new-preorders %})
 - [ ] Day 26: BC 33; HC 112-115; CD V: Art. 13-15
 - [ ] Day 27: BC 34; HC 116-119; CD V: Rej. 1-3
 - [ ] Day 28: BC 35; HC 120-122; CD V: Rej. 4-6
