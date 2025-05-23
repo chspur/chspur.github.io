@@ -7,8 +7,8 @@ Busy day at the pool today. I had to wait a little bit before a lane opened up, 
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [1 Chron. 5–6; Heb. 10; Amos 4; Ps. 148–150]({% link _Bible/Bible-year-1.md %}) |
-| [BC 28; HC 94-98; CD V: Art. 1-3]({% link _three_forms/three-forms-month-3.md %}) |
+| [1 Chron. 13–14; James 1; Amos 8; Luke 3]({% link _Bible/Bible-year-1.md %}) |
+| [BC 33; HC 112-115; CD V: Art. 13-15]({% link _three_forms/three-forms-month-3.md %}) |
 | [The Nicene Creed](https://threeforms.org/the-nicene-creed/) |
 
 </details>
