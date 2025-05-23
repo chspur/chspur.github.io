@@ -330,7 +330,7 @@ navbar: false
 - [x] Day 321: [1 Chron. 9–10; Heb. 12; Amos 6; Luke 1:39–80]({% post_url 2025-05-19-new-towel %})
 - [x] Day 322: [1 Chron. 11–12; Heb. 13; Amos 7; Luke 2]({% post_url 2025-05-20-new-preorders %})
 - [x] Day 323: [1 Chron. 13–14; James 1; Amos 8; Luke 3]({% post_url 2025-05-21-busy-day-at-the-pool %})
-- [ ] Day 324: 1 Chron. 15; James 2; Amos 9; Luke 4
+- [x] Day 324: [1 Chron. 15; James 2; Amos 9; Luke 4]({% post_url 2025-05-22-catholic-christianity %})
 - [ ] Day 325: 1 Chron. 16; James 3; Obad. 1; Luke 5
 - [ ] Day 326: 1 Chron. 17; James 4; Jonah 1; Luke 6
 - [ ] Day 327: 1 Chron. 18; James 5; Jonah 2; Luke 7
