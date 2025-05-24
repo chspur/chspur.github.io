@@ -34,7 +34,7 @@ navbar: false
 - [x] Day 25: [BC 32; HC 108-111; CD V: Art. 10-12]({% post_url 2025-05-20-new-preorders %})
 - [x] Day 26: [BC 33; HC 112-115; CD V: Art. 13-15]({% post_url 2025-05-21-busy-day-at-the-pool %})
 - [x] Day 27: [BC 34; HC 116-119; CD V: Rej. 1-3]({% post_url 2025-05-22-catholic-christianity %})
-- [ ] Day 28: BC 35; HC 120-122; CD V: Rej. 4-6
+- [x] Day 28: [BC 35; HC 120-122; CD V: Rej. 4-6]({% post_url 2025-05-23-reformed-dogmatics %})
 - [ ] Day 29: BC 36; HC 123-125; CD V: Rej. 7-9
 - [ ] Day 30: BC 37; HC 126-129; CD Conclusion
 
