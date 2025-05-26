@@ -332,7 +332,7 @@ navbar: false
 - [x] Day 323: [1 Chron. 13–14; James 1; Amos 8; Luke 3]({% post_url 2025-05-21-busy-day-at-the-pool %})
 - [x] Day 324: [1 Chron. 15; James 2; Amos 9; Luke 4]({% post_url 2025-05-22-catholic-christianity %})
 - [x] Day 325: [1 Chron. 16; James 3; Obad. 1; Luke 5]({% post_url 2025-05-23-reformed-dogmatics %})
-- [ ] Day 326: 1 Chron. 17; James 4; Jonah 1; Luke 6
+- [x] Day 326: [1 Chron. 17; James 4; Jonah 1; Luke 6]({% post_url 2025-05-24-jadon-and-diane-day %})
 - [ ] Day 327: 1 Chron. 18; James 5; Jonah 2; Luke 7
 - [ ] Day 328: 1 Chron. 19–20; 1 Pet. 1; Jonah 3; Luke 8
 - [ ] Day 329: 1 Chron. 21; 1 Pet. 2; Jonah 4; Luke 9
