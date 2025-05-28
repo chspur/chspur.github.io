@@ -334,7 +334,7 @@ navbar: false
 - [x] Day 325: [1 Chron. 16; James 3; Obad. 1; Luke 5]({% post_url 2025-05-23-reformed-dogmatics %})
 - [x] Day 326: [1 Chron. 17; James 4; Jonah 1; Luke 6]({% post_url 2025-05-24-jadon-and-diane-day %})
 - [x] Day 327: [1 Chron. 18; James 5; Jonah 2; Luke 7]({% post_url 2025-05-25-teacher-steve %})
-- [ ] Day 328: 1 Chron. 19–20; 1 Pet. 1; Jonah 3; Luke 8
+- [x] Day 328: [1 Chron. 19–20; 1 Pet. 1; Jonah 3; Luke 8]({% post_url 2025-05-26-the-last-hoorah %})
 - [ ] Day 329: 1 Chron. 21; 1 Pet. 2; Jonah 4; Luke 9
 - [ ] Day 330: 1 Chron. 22; 1 Pet. 3; Mic. 1; Luke 10
 - [ ] Day 331: 1 Chron. 23; 1 Pet. 4; Mic. 2; Luke 11
