@@ -7,7 +7,7 @@ navbar: false
 
 *Started: May 26, 2025*
 
-- [x] Day 1: WCF Chapter 1
+- [x] Day 1: [WCF Chapter 1]({% post_url 2025-05-26-the-last-hoorah %})
 - [ ] Day 2: WCF Chapter 2
 - [ ] Day 3: WCF Chapter 3
 - [ ] Day 4: WCF Chapter 4
