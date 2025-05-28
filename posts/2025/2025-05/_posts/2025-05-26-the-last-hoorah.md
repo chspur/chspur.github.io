@@ -8,7 +8,7 @@ The council hung out in person today in San Diego. Ellie was still around after 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
 | [1 Chron. 19–20; 1 Pet. 1; Jonah 3; Luke 8]({% link _Bible/Bible-year-1.md %}) |
-| [WCF Chapter 12]({% link _wcf/wcf-month-1.md %}) |
+| [WCF Chapter 1]({% link _wcf/wcf-month-1.md %}) |
 | [The Athanasian Creed](https://threeforms.org/the-athanasian-creed/) |
 
 </details>
