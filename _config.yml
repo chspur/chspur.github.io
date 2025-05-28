@@ -47,8 +47,10 @@ collections:
   - Bible
   - westminster
   - three_forms
+  - wcf
 
 include:
   - _Bible
   - _westminster
   - _three_forms
+  - _wcf
