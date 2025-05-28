@@ -3,6 +3,7 @@ layout: page
 title: One Piece Arc Tier List (Whole Cake Island)
 permalink: /one-piece-arc-tier-list-wci/
 navbar: false
+published: false
 ---
 
 <p>My <a href="https://onepiece.fandom.com/wiki/Story_Arcs">One Piece arc</a> tier list up to the Whole Cake Island Saga.</p>
