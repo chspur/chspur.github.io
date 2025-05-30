@@ -337,7 +337,7 @@ navbar: false
 - [x] Day 328: [1 Chron. 19–20; 1 Pet. 1; Jonah 3; Luke 8]({% post_url 2025-05-26-the-last-hoorah %})
 - [x] Day 329: [1 Chron. 21; 1 Pet. 2; Jonah 4; Luke 9]({% post_url 2025-05-27-tuesday-swim %})
 - [x] Day 330: [1 Chron. 22; 1 Pet. 3; Mic. 1; Luke 10]({% post_url 2025-05-28-the-fulfillment-of-the-promises-of-God %})
-- [ ] Day 331: 1 Chron. 23; 1 Pet. 4; Mic. 2; Luke 11
+- [x] Day 331: [1 Chron. 23; 1 Pet. 4; Mic. 2; Luke 11]({% post_url 2025-05-29-thursday-swim %})
 - [ ] Day 332: 1 Chron. 24–25; 1 Pet. 5; Mic. 3; Luke 12
 - [ ] Day 333: 1 Chron. 26–27; 2 Pet. 1; Mic. 4; Luke 13
 - [ ] Day 334: 1 Chron. 28; 2 Pet. 2; Mic. 5; Luke 14
