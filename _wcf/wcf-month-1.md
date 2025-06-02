@@ -13,7 +13,7 @@ navbar: false
 - [x] Day 4: [WCF Chapter 4]({% post_url 2025-05-29-thursday-swim %})
 - [x] Day 5: [WCF Chapter 5]({% post_url 2025-05-30-devo-improvements %})
 - [x] Day 6: [WCF Chapter 6]({% post_url 2025-05-31-recentering-my-life %})
-- [ ] Day 7: WCF Chapter 7
+- [x] Day 7: [WCF Chapter 7]({% post_url 2025-06-01-dealings-with-God %})
 - [ ] Day 8: WCF Chapter 8
 - [ ] Day 9: WCF Chapter 9
 - [ ] Day 10: WCF Chapter 10
