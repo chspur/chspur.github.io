@@ -341,7 +341,7 @@ navbar: false
 - [x] Day 332: [1 Chron. 24–25; 1 Pet. 5; Mic. 3; Luke 12]({% post_url 2025-05-30-devo-improvements %})
 - [x] Day 333: [1 Chron. 26–27; 2 Pet. 1; Mic. 4; Luke 13]({% post_url 2025-05-31-recentering-my-life %})
 - [x] Day 334: [1 Chron. 28; 2 Pet. 2; Mic. 5; Luke 14]({% post_url 2025-06-01-dealings-with-God %})
-- [ ] Day 335: 1 Chron. 29; 2 Pet. 3; Mic. 6; Luke 15
+- [x] Day 335: [1 Chron. 29; 2 Pet. 3; Mic. 6; Luke 15]({% post_url 2025-06-02-monday %})
 - [ ] Day 336: 2 Chron. 1; 1 John 1; Mic. 7; Luke 16
 - [ ] Day 337: 2 Chron. 2; 1 John 2; Nah. 1; Luke 17
 - [ ] Day 338: 2 Chron. 3–4; 1 John 3; Nah. 2; Luke 18
