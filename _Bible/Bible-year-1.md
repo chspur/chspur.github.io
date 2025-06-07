@@ -345,7 +345,7 @@ navbar: false
 - [x] Day 336: [2 Chron. 1; 1 John 1; Mic. 7; Luke 16]({% post_url 2025-06-03-a-great-day %})
 - [x] Day 337: [2 Chron. 2; 1 John 2; Nah. 1; Luke 17]({% post_url 2025-06-04-wednesday %})
 - [x] Day 338: [2 Chron. 3–4; 1 John 3; Nah. 2; Luke 18]({% post_url 2025-06-05-thursday %})
-- [ ] Day 339: 2 Chron. 5:1–6:11; 1 John 4; Nah. 3; Luke 19
+- [x] Day 339: [2 Chron. 5:1–6:11; 1 John 4; Nah. 3; Luke 19]({% post_url 2025-06-06-jonah %})
 - [ ] Day 340: 2 Chron. 6:12–42; 1 John 5; Hab. 1; Luke 20
 - [ ] Day 341: 2 Chron. 7; 2 John 1; Hab. 2; Luke 21
 - [ ] Day 342: 2 Chron. 8; 3 John 1; Hab. 3; Luke 22
