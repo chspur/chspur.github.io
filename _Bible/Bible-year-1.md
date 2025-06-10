@@ -348,7 +348,7 @@ navbar: false
 - [x] Day 339: [2 Chron. 5:1–6:11; 1 John 4; Nah. 3; Luke 19]({% post_url 2025-06-06-jonah %})
 - [x] Day 340: [2 Chron. 6:12–42; 1 John 5; Hab. 1; Luke 20]({% post_url 2025-06-07-saturday %})
 - [x] Day 341: [2 Chron. 7; 2 John 1; Hab. 2; Luke 21]({% post_url 2025-06-08-good-stewards %})
-- [ ] Day 342: 2 Chron. 8; 3 John 1; Hab. 3; Luke 22
+- [x] Day 342: [2 Chron. 8; 3 John 1; Hab. 3; Luke 22]({% post_url 2025-06-09-monday %})
 - [ ] Day 343: 2 Chron. 9; Jude 1; Zeph. 1; Luke 23
 - [ ] Day 344: 2 Chron. 10; Rev. 1; Zeph. 2; Luke 24
 - [ ] Day 345: 2 Chron. 11–12; Rev. 2; Zeph. 3; John 1
