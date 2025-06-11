@@ -1,4 +1,4 @@
-## wednesday 6:01-6:48AM
+## wednesday 6:01-6:48am
 
 I had a decent time with the Lord today. I prayed for my family and the covenant children. I also prayed to God what the apostles said to the Lord: "Increase our faith!" 
 
