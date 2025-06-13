@@ -351,7 +351,7 @@ navbar: false
 - [x] Day 342: [2 Chron. 8; 3 John 1; Hab. 3; Luke 22]({% post_url 2025-06-09-monday %})
 - [x] Day 343: [2 Chron. 9; Jude 1; Zeph. 1; Luke 23]({% post_url 2025-06-10-tuesday %})
 - [x] Day 344: [2 Chron. 10; Rev. 1; Zeph. 2; Luke 24]({% post_url 2025-06-11-wednesday %})
-- [ ] Day 345: 2 Chron. 11–12; Rev. 2; Zeph. 3; John 1
+- [x] Day 345: [2 Chron. 11–12; Rev. 2; Zeph. 3; John 1]({% post_url 2025-06-12-summer-swims %})
 - [ ] Day 346: 2 Chron. 13; Rev. 3; Hag. 1; John 2
 - [ ] Day 347: 2 Chron. 14–15; Rev. 4; Hag. 2; John 3
 - [ ] Day 348: 2 Chron. 16; Rev. 5; Zech. 1; John 4
