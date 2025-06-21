@@ -32,7 +32,7 @@ navbar: false
 - [x] Day 23: [WCF Chapter 23]({% post_url 2025-06-17-tuesday %})
 - [x] Day 24: [WCF Chapter 24]({% post_url 2025-06-18-wednesday %})
 - [x] Day 25: [WCF Chapter 25]({% post_url 2025-06-19-thursday %})
-- [ ] Day 26: WCF Chapter 26
+- [x] Day 26: [WCF Chapter 26]({% post_url 2025-06-20-friday %})
 - [ ] Day 27: WCF Chapter 27
 - [ ] Day 28: WCF Chapter 28
 - [ ] Day 29: WCF Chapter 29
