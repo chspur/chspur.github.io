@@ -35,7 +35,7 @@ navbar: false
 - [x] Day 26: [WCF Chapter 26]({% post_url 2025-06-20-friday %})
 - [x] Day 27: [WCF Chapter 27]({% post_url 2025-06-21-an-enjoyable-saturday %})
 - [x] Day 28: [WCF Chapter 28]({% post_url 2025-06-22-the-book-of-church-order %})
-- [ ] Day 29: WCF Chapter 29
+- [x] Day 29: [WCF Chapter 29]({% post_url 2025-06-23-sermon-8 %})
 - [ ] Day 30: WCF Chapter 30-33
 
 *Finished:*
