@@ -48,9 +48,11 @@ collections:
   - westminster
   - three_forms
   - wcf
+  - wlc
 
 include:
   - _Bible
   - _westminster
   - _three_forms
   - _wcf
+  - _wlc
