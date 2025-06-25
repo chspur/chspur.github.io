@@ -38,6 +38,6 @@ navbar: false
 - [x] Day 29: [WCF Chapter 29]({% post_url 2025-06-23-sermon-8 %})
 - [x] Day 30: [WCF Chapter 30-33]({% post_url 2025-06-24-tired-as-usual %})
 
-*Finished:*
+*Finished: June 24, 2025*
 
 *Source:* [*Mid-America Reformed Seminary*](https://s3.us-west-1.amazonaws.com/blog.swang.cloud/reformed-standards-monthly.pdf)
