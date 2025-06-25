@@ -363,7 +363,7 @@ navbar: false
 - [x] Day 354: [2 Chron. 24; Rev. 11; Zech. 7; John 10]({% post_url 2025-06-21-an-enjoyable-saturday %})
 - [x] Day 355: [2 Chron. 25; Rev. 12; Zech. 8; John 11]({% post_url 2025-06-22-the-book-of-church-order %})
 - [x] Day 356: [2 Chron. 26; Rev. 13; Zech. 9; John 12]({% post_url 2025-06-23-sermon-8 %})
-- [ ] Day 357: 2 Chron. 27–28; Rev. 14; Zech. 10; John 13
+- [x] Day 357: [2 Chron. 27–28; Rev. 14; Zech. 10; John 13]({% post_url 2025-06-24-tired-as-usual %})
 - [ ] Day 358: 2 Chron. 29; Rev. 15; Zech. 11; John 14
 - [ ] Day 359: 2 Chron. 30; Rev. 16; Zech. 12:1–13:1; John 15
 - [ ] Day 360: 2 Chron. 31; Rev. 17; Zech. 13:2–9; John 16
