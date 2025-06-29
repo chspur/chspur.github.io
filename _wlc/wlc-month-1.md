@@ -7,9 +7,9 @@ navbar: false
 
 *Started: June 25, 2025*
 
-- [ ] Day 1: WLC 1-6
-- [ ] Day 2: WLC 7-11
-- [ ] Day 3: WLC 12-20
+- [x] Day 1: [WLC 1-6]({% post_url 2025-06-25-vbs-day-1 %})
+- [x] Day 2: [WLC 7-11]({% post_url 2025-06-26-vbs-day-2 %})
+- [x] Day 3: [WLC 12-20]({% post_url 2025-06-27-vbs-day-3 %})
 - [ ] Day 4: WLC 21-29
 - [ ] Day 5: WLC 30-35
 - [ ] Day 6: WLC 36-42
