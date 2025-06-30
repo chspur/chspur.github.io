@@ -367,7 +367,7 @@ navbar: false
 - [x] Day 358: [2 Chron. 29; Rev. 15; Zech. 11; John 14]({% post_url 2025-06-25-vbs-day-1 %})
 - [x] Day 359: [2 Chron. 30; Rev. 16; Zech. 12:1–13:1; John 15]({% post_url 2025-06-26-vbs-day-2 %})
 - [x] Day 360: [2 Chron. 31; Rev. 17; Zech. 13:2–9; John 16]({% post_url 2025-06-27-vbs-day-3 %})
-- [ ] Day 361: 2 Chron. 32; Rev. 18; Zech. 14; John 17
+- [x] Day 361: [2 Chron. 32; Rev. 18; Zech. 14; John 17]({% post_url 2025-06-28-restful-saturday %})
 - [ ] Day 362: 2 Chron. 33; Rev. 19; Mal. 1; John 18
 - [ ] Day 363: 2 Chron. 34; Rev. 20; Mal. 2; John 19
 - [ ] Day 364: 2 Chron. 35; Rev. 21; Mal. 3; John 20
