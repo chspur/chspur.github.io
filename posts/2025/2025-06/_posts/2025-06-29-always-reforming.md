@@ -8,7 +8,7 @@ P Justin preached an excellent sermon today on Reformed worship and the importan
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
 | [2 Chron. 33; Rev. 19; Mal. 1; John 18]({% link _Bible/Bible-year-1.md %}) |
-| [WLC 30-35]({% link _wcf/wcf-month-1.md %}) |
+| [WLC 30-35]({% link _wlc/wlc-month-1.md %}) |
 | [The Apostles' Creed](https://threeforms.org/the-apostles-creed/) |
 
 </details>
