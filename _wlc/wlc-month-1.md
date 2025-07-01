@@ -12,7 +12,7 @@ navbar: false
 - [x] Day 3: [WLC 12-20]({% post_url 2025-06-27-vbs-day-3 %})
 - [x] Day 4: [WLC 21-29]({% post_url 2025-06-28-restful-saturday %})
 - [x] Day 5: [WLC 30-35]({% post_url 2025-06-29-always-reforming %})
-- [ ] Day 6: WLC 36-42
+- [x] Day 6: [WLC 36-42]({% post_url 2025-06-30-monday %})
 - [ ] Day 7: WLC 43-50
 - [ ] Day 8: WLC 51-56
 - [ ] Day 9: WLC 57-61
