@@ -371,8 +371,8 @@ navbar: false
 - [x] Day 362: [2 Chron. 33; Rev. 19; Mal. 1; John 18]({% post_url 2025-06-29-always-reforming %})
 - [x] Day 363: [2 Chron. 34; Rev. 20; Mal. 2; John 19]({% post_url 2025-06-30-monday %})
 - [x] Day 364: [2 Chron. 35; Rev. 21; Mal. 3; John 20]({% post_url 2025-07-01-jasmine-milk-tea-milkshake %})
-- [ ] Day 365: 2 Chron. 36; Rev. 22; Mal. 4; John 21
+- [x] Day 365: [2 Chron. 36; Rev. 22; Mal. 4; John 21]({% post_url 2025-07-02-another-Bible-year-finished %})
 
-*Finished:*
+*Finished: July 2, 2025*
 
 *Source:* [*The Gospel Coalition*](https://s3.us-west-1.amazonaws.com/blog.swang.cloud/mcheyne-bible-plan.pdf)
