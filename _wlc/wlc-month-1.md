@@ -15,7 +15,7 @@ navbar: false
 - [x] Day 6: [WLC 36-42]({% post_url 2025-06-30-monday %})
 - [x] Day 7: [WLC 43-50]({% post_url 2025-07-01-jasmine-milk-tea-milkshake %})
 - [x] Day 8: [WLC 51-56]({% post_url 2025-07-02-another-Bible-year-finished %})
-- [ ] Day 9: WLC 57-61
+- [x] Day 9: [WLC 57-61]({% post_url 2025-07-03-deeper-communion-with-God %})
 - [ ] Day 10: WLC 62-69
 - [ ] Day 11: WLC 70-78
 - [ ] Day 12: WLC 79-83
