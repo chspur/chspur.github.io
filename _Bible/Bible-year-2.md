@@ -8,7 +8,7 @@ navbar: false
 *Started: July 3, 2025*
 
 - [x] Day 1: [Gen. 1; Matt. 1; Ezra 1; Acts 1]({% post_url 2025-07-03-deeper-communion-with-God %})
-- [ ] Day 2: Gen. 2; Matt. 2; Ezra 2; Acts 2
+- [x] Day 2: [Gen. 2; Matt. 2; Ezra 2; Acts 2]({% post_url 2025-07-04-good-progress %})
 - [ ] Day 3: Gen. 3; Matt. 3; Ezra 3; Acts 3
 - [ ] Day 4: Gen. 4; Matt. 4; Ezra 4; Acts 4
 - [ ] Day 5: Gen. 5; Matt. 5; Ezra 5; Acts 5
