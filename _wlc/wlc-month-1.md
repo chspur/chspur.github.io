@@ -18,7 +18,7 @@ navbar: false
 - [x] Day 9: [WLC 57-61]({% post_url 2025-07-03-deeper-communion-with-God %})
 - [x] Day 10: [WLC 62-69]({% post_url 2025-07-04-good-progress %})
 - [x] Day 11: [WLC 70-78]({% post_url 2025-07-05-eating-good %})
-- [ ] Day 12: WLC 79-83
+- [x] Day 12: [WLC 79-83]({% post_url 2025-07-06-new-students %})
 - [ ] Day 13: WLC 84-90
 - [ ] Day 14: WLC 91-98
 - [ ] Day 15: WLC 99-100
