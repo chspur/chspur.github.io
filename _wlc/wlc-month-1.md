@@ -19,7 +19,7 @@ navbar: false
 - [x] Day 10: [WLC 62-69]({% post_url 2025-07-04-good-progress %})
 - [x] Day 11: [WLC 70-78]({% post_url 2025-07-05-eating-good %})
 - [x] Day 12: [WLC 79-83]({% post_url 2025-07-06-new-students %})
-- [ ] Day 13: WLC 84-90
+- [x] Day 13: [WLC 84-90]({% post_url 2025-07-07-clearance-books %})
 - [ ] Day 14: WLC 91-98
 - [ ] Day 15: WLC 99-100
 - [ ] Day 16: WLC 101-106

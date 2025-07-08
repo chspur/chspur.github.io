@@ -11,7 +11,7 @@ navbar: false
 - [x] Day 2: [Gen. 2; Matt. 2; Ezra 2; Acts 2]({% post_url 2025-07-04-good-progress %})
 - [x] Day 3: [Gen. 3; Matt. 3; Ezra 3; Acts 3]({% post_url 2025-07-05-eating-good %})
 - [x] Day 4: [Gen. 4; Matt. 4; Ezra 4; Acts 4]({% post_url 2025-07-06-new-students %})
-- [ ] Day 5: Gen. 5; Matt. 5; Ezra 5; Acts 5
+- [x] Day 5: [Gen. 5; Matt. 5; Ezra 5; Acts 5]({% post_url 2025-07-07-clearance-books %})
 - [ ] Day 6: Gen. 6; Matt. 6; Ezra 6; Acts 6
 - [ ] Day 7: Gen. 7; Matt. 7; Ezra 7; Acts 7
 - [ ] Day 8: Gen. 8; Matt. 8; Ezra 8; Acts 8
