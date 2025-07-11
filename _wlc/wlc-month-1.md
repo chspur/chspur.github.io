@@ -21,7 +21,7 @@ navbar: false
 - [x] Day 12: [WLC 79-83]({% post_url 2025-07-06-new-students %})
 - [x] Day 13: [WLC 84-90]({% post_url 2025-07-07-clearance-books %})
 - [x] Day 14: [WLC 91-98]({% post_url 2025-07-08-tuesday %})
-- [ ] Day 15: WLC 99-100
+- [x] Day 15: [WLC 99-100]({% post_url 2025-07-09-elliot-and-anthony.md %})
 - [ ] Day 16: WLC 101-106
 - [ ] Day 17: WLC 107-114
 - [ ] Day 18: WLC 115-121
