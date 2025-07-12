@@ -22,7 +22,7 @@ navbar: false
 - [x] Day 13: [WLC 84-90]({% post_url 2025-07-07-clearance-books %})
 - [x] Day 14: [WLC 91-98]({% post_url 2025-07-08-tuesday %})
 - [x] Day 15: [WLC 99-100]({% post_url 2025-07-09-elliot-and-anthony %})
-- [ ] Day 16: WLC 101-106
+- [x] Day 16: [WLC 101-106]({% post_url 2025-07-10-sermon-12 %})
 - [ ] Day 17: WLC 107-114
 - [ ] Day 18: WLC 115-121
 - [ ] Day 19: WLC 122-133

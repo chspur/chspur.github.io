@@ -14,7 +14,7 @@ navbar: false
 - [x] Day 5: [Gen. 5; Matt. 5; Ezra 5; Acts 5]({% post_url 2025-07-07-clearance-books %})
 - [x] Day 6: [Gen. 6; Matt. 6; Ezra 6; Acts 6]({% post_url 2025-07-08-tuesday %})
 - [x] Day 7: [Gen. 7; Matt. 7; Ezra 7; Acts 7]({% post_url 2025-07-09-elliot-and-anthony %})
-- [ ] Day 8: Gen. 8; Matt. 8; Ezra 8; Acts 8
+- [x] Day 8: [Gen. 8; Matt. 8; Ezra 8; Acts 8]({% post_url 2025-07-10-sermon-12 %})
 - [ ] Day 9: Gen. 9–10; Matt. 9; Ezra 9; Acts 9
 - [ ] Day 10: Gen. 11; Matt. 10; Ezra 10; Acts 10
 - [ ] Day 11: Gen. 12; Matt. 11; Neh. 1; Acts 11
