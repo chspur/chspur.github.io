@@ -24,7 +24,7 @@ navbar: false
 - [x] Day 15: [WLC 99-100]({% post_url 2025-07-09-elliot-and-anthony %})
 - [x] Day 16: [WLC 101-106]({% post_url 2025-07-10-sermon-12 %})
 - [x] Day 17: [WLC 107-114]({% post_url 2025-07-11-prayer-meeting %})
-- [ ] Day 18: WLC 115-121
+- [x] Day 18: [WLC 115-121]({% post_url 2025-07-12-oil-change %})
 - [ ] Day 19: WLC 122-133
 - [ ] Day 20: WLC 134-139
 - [ ] Day 21: WLC 140-145
