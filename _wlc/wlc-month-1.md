@@ -25,7 +25,7 @@ navbar: false
 - [x] Day 16: [WLC 101-106]({% post_url 2025-07-10-sermon-12 %})
 - [x] Day 17: [WLC 107-114]({% post_url 2025-07-11-prayer-meeting %})
 - [x] Day 18: [WLC 115-121]({% post_url 2025-07-12-oil-change %})
-- [ ] Day 19: WLC 122-133
+- [x] Day 19: [WLC 122-133]({% post_url 2025-07-13-laying-hold-of-the-promises %})
 - [ ] Day 20: WLC 134-139
 - [ ] Day 21: WLC 140-145
 - [ ] Day 22: WLC 153-160
