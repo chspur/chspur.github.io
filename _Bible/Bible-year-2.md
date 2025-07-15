@@ -18,7 +18,7 @@ navbar: false
 - [x] Day 9: [Gen. 9–10; Matt. 9; Ezra 9; Acts 9]({% post_url 2025-07-11-prayer-meeting %})
 - [x] Day 10: [Gen. 11; Matt. 10; Ezra 10; Acts 10]({% post_url 2025-07-12-oil-change %})
 - [x] Day 11: [Gen. 12; Matt. 11; Neh. 1; Acts 11]({% post_url 2025-07-13-laying-hold-of-the-promises %})
-- [ ] Day 12: Gen. 13; Matt. 12; Neh. 2; Acts 12
+- [x] Day 12: [Gen. 13; Matt. 12; Neh. 2; Acts 12]({% post_url 2025-07-14-time-well-spent %})
 - [ ] Day 13: Gen. 14; Matt. 13; Neh. 3; Acts 13
 - [ ] Day 14: Gen. 15; Matt. 14; Neh. 4; Acts 14
 - [ ] Day 15: Gen. 16; Matt. 15; Neh. 5; Acts 15
