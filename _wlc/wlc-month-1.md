@@ -30,7 +30,7 @@ navbar: false
 - [x] Day 21: [WLC 140-145]({% post_url 2025-07-15-concordia %})
 - [x] Day 22: [WLC 146-152]({% post_url 2025-07-16-my-library %})
 - [x] Day 23: [WLC 153-160]({% post_url 2025-07-17-sermon-15 %})
-- [ ] Day 24: WLC 161-164, 176-177
+- [x] Day 24: [WLC 161-164, 176-177]({% post_url 2025-07-18-summer-overcast %})
 - [ ] Day 25: WLC 165-167
 - [ ] Day 26: WLC 168-175
 - [ ] Day 27: WLC 178-185
