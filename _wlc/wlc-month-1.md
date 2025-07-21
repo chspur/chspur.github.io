@@ -31,8 +31,8 @@ navbar: false
 - [x] Day 22: [WLC 146-152]({% post_url 2025-07-16-my-library %})
 - [x] Day 23: [WLC 153-160]({% post_url 2025-07-17-sermon-15 %})
 - [x] Day 24: [WLC 161-164, 176-177]({% post_url 2025-07-18-summer-overcast %})
-- [ ] Day 25: WLC 165-167
-- [ ] Day 26: WLC 168-175
+- [x] Day 25: [WLC 165-167]({% post_url 2025-07-19-sermon-16 %})
+- [x] Day 26: [WLC 168-175]({% post_url 2025-07-20-cm-outing %})
 - [ ] Day 27: WLC 178-185
 - [ ] Day 28: WLC 186-189
 - [ ] Day 29: WLC 190-192
