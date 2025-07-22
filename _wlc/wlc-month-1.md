@@ -33,7 +33,7 @@ navbar: false
 - [x] Day 24: [WLC 161-164, 176-177]({% post_url 2025-07-18-summer-overcast %})
 - [x] Day 25: [WLC 165-167]({% post_url 2025-07-19-sermon-16 %})
 - [x] Day 26: [WLC 168-175]({% post_url 2025-07-20-cm-outing %})
-- [ ] Day 27: WLC 178-185
+- [x] Day 27: [WLC 178-185]({% post_url 2025-07-21-shower-prayers %})
 - [ ] Day 28: WLC 186-189
 - [ ] Day 29: WLC 190-192
 - [ ] Day 30: WLC 193-196

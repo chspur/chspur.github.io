@@ -25,7 +25,7 @@ navbar: false
 - [x] Day 16: [Gen. 17; Matt. 16; Neh. 6; Acts 16]({% post_url 2025-07-18-summer-overcast %})
 - [x] Day 17: [Gen. 18; Matt. 17; Neh. 7; Acts 17]({% post_url 2025-07-19-sermon-16 %})
 - [x] Day 18: [Gen. 19; Matt. 18; Neh. 8; Acts 18]({% post_url 2025-07-20-cm-outing %})
-- [ ] Day 19: Gen. 20; Matt. 19; Neh. 9; Acts 19
+- [x] Day 19: [Gen. 20; Matt. 19; Neh. 9; Acts 19]({% post_url 2025-07-21-shower-prayers %})
 - [ ] Day 20: Gen. 21; Matt. 20; Neh. 10; Acts 20
 - [ ] Day 21: Gen. 22; Matt. 21; Neh. 11; Acts 21
 - [ ] Day 22: Gen. 23; Matt. 22; Neh. 12; Acts 22
