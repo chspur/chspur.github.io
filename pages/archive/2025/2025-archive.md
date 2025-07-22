@@ -6,6 +6,7 @@ navbar: false
 ---
 
 <ul>
+  <li><h3><a href="{% link pages/archive/2025/2025-07-archive.md %}">July</a></h3></li>
   <li><h3><a href="{% link pages/archive/2025/2025-06-archive.md %}">June</a></h3></li>
   <li><h3><a href="{% link pages/archive/2025/2025-05-archive.md %}">May</a></h3></li>
   <li><h3><a href="{% link pages/archive/2025/2025-04-archive.md %}">April</a></h3></li>
