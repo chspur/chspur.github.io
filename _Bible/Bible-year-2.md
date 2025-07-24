@@ -27,7 +27,7 @@ navbar: false
 - [x] Day 18: [Gen. 19; Matt. 18; Neh. 8; Acts 18]({% post_url 2025-07-20-cm-outing %})
 - [x] Day 19: [Gen. 20; Matt. 19; Neh. 9; Acts 19]({% post_url 2025-07-21-shower-prayers %})
 - [x] Day 20: [Gen. 21; Matt. 20; Neh. 10; Acts 20]({% post_url 2025-07-22-confessional-lutheranism %})
-- [ ] Day 21: Gen. 22; Matt. 21; Neh. 11; Acts 21
+- [x] Day 21: [Gen. 22; Matt. 21; Neh. 11; Acts 21]({% post_url 2025-07-23-the-shadow-of-Christ-in-the-law-of-moses%})
 - [ ] Day 22: Gen. 23; Matt. 22; Neh. 12; Acts 22
 - [ ] Day 23: Gen. 24; Matt. 23; Neh. 13; Acts 23
 - [ ] Day 24: Gen. 25; Matt. 24; Est. 1; Acts 24

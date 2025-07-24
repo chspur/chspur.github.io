@@ -35,7 +35,7 @@ navbar: false
 - [x] Day 26: [WLC 168-175]({% post_url 2025-07-20-cm-outing %})
 - [x] Day 27: [WLC 178-185]({% post_url 2025-07-21-shower-prayers %})
 - [x] Day 28: [WLC 186-189]({% post_url 2025-07-22-confessional-lutheranism %})
-- [ ] Day 29: WLC 190-192
+- [x] Day 29: [WLC 190-192]({% post_url 2025-07-23-the-shadow-of-Christ-in-the-law-of-moses%})
 - [ ] Day 30: WLC 193-196
 
 *Finished:*
