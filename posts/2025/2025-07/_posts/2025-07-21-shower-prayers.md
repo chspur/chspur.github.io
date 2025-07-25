@@ -1,6 +1,6 @@
 ## shower prayers
 
-Was praying for the little ones during my shower today. Not a week goes by where I don't think about and pray for our covenant children. I don't know how much time I'll have with them, so I'm going to make the best of it
+Was praying for the little ones during my shower today. Not a week goes by where I don't think about and pray for our covenant children. I don't know how much time I'll have with them, so I'm going to make the best of it.
 
 <details markdown="1">
 <summary>daily reading</summary>
