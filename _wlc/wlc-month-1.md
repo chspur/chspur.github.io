@@ -38,6 +38,6 @@ navbar: false
 - [x] Day 29: [WLC 190-192]({% post_url 2025-07-23-the-shadow-of-Christ-in-the-law-of-moses %})
 - [x] Day 30: [WLC 193-196]({% post_url 2025-07-24-three-days-in-a-row %})
 
-*Finished:*
+*Finished: July 24, 2025*
 
 *Source:* [*Mid-America Reformed Seminary*](https://s3.us-west-1.amazonaws.com/blog.swang.cloud/reformed-standards-monthly.pdf)
