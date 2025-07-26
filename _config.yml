@@ -49,6 +49,7 @@ collections:
   - three_forms
   - wcf
   - wlc
+  - wsc
 
 include:
   - _Bible
@@ -56,3 +57,4 @@ include:
   - _three_forms
   - _wcf
   - _wlc
+  - _wsc
