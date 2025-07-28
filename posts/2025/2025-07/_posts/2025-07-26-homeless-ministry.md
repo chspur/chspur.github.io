@@ -7,7 +7,7 @@ Went to GMC's homeless ministry for the first time today. It's pretty similar to
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Gen. 24; Matt. 23; Neh. 13; Acts 23]({% link _Bible/Bible-year-2.md %}) |
+| [Gen. 25; Matt. 24; Est. 1; Acts 24]({% link _Bible/Bible-year-2.md %}) |
 | [WSC 4-6]({% link _wsc/wsc-month-1.md %}) |
 | [The Chalcedonian Definition](https://thewestminsterstandard.org/the-chalcedonian-creed/) |
 
