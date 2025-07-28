@@ -29,7 +29,7 @@ navbar: false
 - [x] Day 20: [Gen. 21; Matt. 20; Neh. 10; Acts 20]({% post_url 2025-07-22-confessional-lutheranism %})
 - [x] Day 21: [Gen. 22; Matt. 21; Neh. 11; Acts 21]({% post_url 2025-07-23-the-shadow-of-Christ-in-the-law-of-moses %})
 - [x] Day 22: [Gen. 23; Matt. 22; Neh. 12; Acts 22]({% post_url 2025-07-24-three-days-in-a-row %})
-- [ ] Day 23: Gen. 24; Matt. 23; Neh. 13; Acts 23
+- [x] Day 23: [Gen. 24; Matt. 23; Neh. 13; Acts 23]({% post_url 2025-07-26-homeless-ministry %})
 - [ ] Day 24: Gen. 25; Matt. 24; Est. 1; Acts 24
 - [ ] Day 25: Gen. 26; Matt. 25; Est. 2; Acts 25
 - [ ] Day 26: Gen. 27; Matt. 26; Est. 3; Acts 26
