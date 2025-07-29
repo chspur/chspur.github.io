@@ -10,7 +10,7 @@ navbar: false
 - [x] Day 1: [WSC 1-3]({% post_url 2025-07-25-thankful-for-my-friends %})
 - [x] Day 2: [WSC 4-6]({% post_url 2025-07-26-homeless-ministry %})
 - [x] Day 3: [WSC 7-12]({% post_url 2025-07-27-fantastic-four %})
-- [ ] Day 4: WSC 13-19
+- [x] Day 4: [WSC 13-19]({% post_url 2025-07-28-He-cares-for-me %})
 - [ ] Day 5: WSC 20-23
 - [ ] Day 6: WSC 24-26
 - [ ] Day 7: WSC 27-28
