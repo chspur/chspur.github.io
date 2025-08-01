@@ -35,7 +35,7 @@ navbar: false
 - [x] Day 26: [Gen. 27; Matt. 26; Est. 3; Acts 26]({% post_url 2025-07-28-He-cares-for-me %})
 - [x] Day 27: [Gen. 28; Matt. 27; Est. 4; Acts 27]({% post_url 2025-07-29-tuesday %})
 - [x] Day 28: [Gen. 29; Matt. 28; Est. 5; Acts 28]({% post_url 2025-07-30-wednesday %})
-- [ ] Day 29: Gen. 30; Mark 1; Est. 6; Rom. 1
+- [x] Day 29: [Gen. 30; Mark 1; Est. 6; Rom. 1]({% post_url 2025-07-31-power-outage %})
 - [ ] Day 30: Gen. 31; Mark 2; Est. 7; Rom. 2
 - [ ] Day 31: Gen. 32; Mark 3; Est. 8; Rom. 3
 - [ ] Day 32: Gen. 33; Mark 4; Est. 9–10; Rom. 4
