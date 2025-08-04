@@ -14,7 +14,7 @@ navbar: false
 - [x] Day 5: [WSC 20-23]({% post_url 2025-07-29-tuesday %})
 - [x] Day 6: [WSC 24-26]({% post_url 2025-07-30-wednesday %})
 - [x] Day 7: [WSC 27-28]({% post_url 2025-07-31-power-outage %})
-- [ ] Day 8: WSC 29-32
+- [x] Day 8: [WSC 29-32]({% post_url 2025-08-01-edward-reynolds %})
 - [ ] Day 9: WSC 33-36
 - [ ] Day 10: WSC 37-38
 - [ ] Day 11: WSC 39-42
