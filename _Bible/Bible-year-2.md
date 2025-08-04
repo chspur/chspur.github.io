@@ -37,7 +37,7 @@ navbar: false
 - [x] Day 28: [Gen. 29; Matt. 28; Est. 5; Acts 28]({% post_url 2025-07-30-wednesday %})
 - [x] Day 29: [Gen. 30; Mark 1; Est. 6; Rom. 1]({% post_url 2025-07-31-power-outage %})
 - [x] Day 30: [Gen. 31; Mark 2; Est. 7; Rom. 2]({% post_url 2025-08-01-edward-reynolds %})
-- [ ] Day 31: Gen. 32; Mark 3; Est. 8; Rom. 3
+- [x] Day 31: [Gen. 32; Mark 3; Est. 8; Rom. 3]({% post_url 2025-08-02-too-much-league %})
 - [ ] Day 32: Gen. 33; Mark 4; Est. 9–10; Rom. 4
 - [ ] Day 33: Gen. 34; Mark 5; Job 1; Rom. 5
 - [ ] Day 34: Gen. 35–36; Mark 6; Job 2; Rom. 6
