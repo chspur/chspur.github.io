@@ -17,7 +17,7 @@ navbar: false
 - [x] Day 8: [WSC 29-32]({% post_url 2025-08-01-edward-reynolds %})
 - [x] Day 9: [WSC 33-36]({% post_url 2025-08-02-too-much-league %})
 - [x] Day 10: [WSC 37-38]({% post_url 2025-08-03-therefore-I-work %})
-- [ ] Day 11: WSC 39-42
+- [x] Day 11: [WSC 39-42]({% post_url 2025-08-04-book-haul %})
 - [ ] Day 12: WSC 43-44
 - [ ] Day 13: WSC 45-48
 - [ ] Day 14: WSC 49-52
