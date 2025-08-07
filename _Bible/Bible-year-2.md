@@ -41,7 +41,7 @@ navbar: false
 - [x] Day 32: [Gen. 33; Mark 4; Est. 9–10; Rom. 4]({% post_url 2025-08-03-therefore-I-work %})
 - [x] Day 33: [Gen. 34; Mark 5; Job 1; Rom. 5]({% post_url 2025-08-04-book-haul %})
 - [x] Day 34: [Gen. 35–36; Mark 6; Job 2; Rom. 6]({% post_url 2025-08-05-book-progress %})
-- [ ] Day 35: Gen. 37; Mark 7; Job 3; Rom. 7
+- [x] Day 35: [Gen. 37; Mark 7; Job 3; Rom. 7]({% post_url 2025-08-06-new-bookshelf %})
 - [ ] Day 36: Gen. 38; Mark 8; Job 4; Rom. 8
 - [ ] Day 37: Gen. 39; Mark 9; Job 5; Rom. 9
 - [ ] Day 38: Gen. 40; Mark 10; Job 6; Rom. 10
