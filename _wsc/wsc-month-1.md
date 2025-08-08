@@ -20,7 +20,7 @@ navbar: false
 - [x] Day 11: [WSC 39-42]({% post_url 2025-08-04-book-haul %})
 - [x] Day 12: [WSC 43-44]({% post_url 2025-08-05-book-progress %})
 - [x] Day 13: [WSC 45-48]({% post_url 2025-08-06-new-bookshelf %})
-- [ ] Day 14: WSC 49-52
+- [x] Day 14: [WSC 49-52]({% post_url 2025-08-07-bookshelf-assembly %})
 - [ ] Day 15: WSC 53-56
 - [ ] Day 16: WSC 57-62
 - [ ] Day 17: WSC 63-66
