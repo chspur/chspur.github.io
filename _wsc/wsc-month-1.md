@@ -22,7 +22,7 @@ navbar: false
 - [x] Day 13: [WSC 45-48]({% post_url 2025-08-06-new-bookshelf %})
 - [x] Day 14: [WSC 49-52]({% post_url 2025-08-07-bookshelf-assembly %})
 - [x] Day 15: [WSC 53-56]({% post_url 2025-08-08-post-prayer-hangouts %})
-- [ ] Day 16: WSC 57-62
+- [ ] Day 16: [WSC 57-62]({% post_url 2025-08-09-elias-and-kelly %})
 - [ ] Day 17: WSC 63-66
 - [ ] Day 18: WSC 67-69
 - [ ] Day 19: WSC 70-72
