@@ -24,7 +24,7 @@ navbar: false
 - [x] Day 15: [WSC 53-56]({% post_url 2025-08-08-post-prayer-hangouts %})
 - [x] Day 16: [WSC 57-62]({% post_url 2025-08-09-elias-and-kelly %})
 - [x] Day 17: [WSC 63-66]({% post_url 2025-08-10-extremely-tired %})
-- [ ] Day 18: WSC 67-69
+- [x] Day 18: [WSC 67-69]({% post_url 2025-08-11-sermon-69 %})
 - [ ] Day 19: WSC 70-72
 - [ ] Day 20: WSC 73-75
 - [ ] Day 21: WSC 76-78
