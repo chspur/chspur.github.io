@@ -26,7 +26,7 @@ navbar: false
 - [x] Day 17: [WSC 63-66]({% post_url 2025-08-10-extremely-tired %})
 - [x] Day 18: [WSC 67-69]({% post_url 2025-08-11-sermon-69 %})
 - [x] Day 19: [WSC 70-72]({% post_url 2025-08-12-new-laptop %})
-- [ ] Day 20: WSC 73-75
+- [x] Day 20: [WSC 73-75]({% post_url 2025-08-13-wednesday %})
 - [ ] Day 21: WSC 76-78
 - [ ] Day 22: WSC 79-81
 - [ ] Day 23: WSC 82-84

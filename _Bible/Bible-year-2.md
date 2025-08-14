@@ -48,7 +48,7 @@ navbar: false
 - [x] Day 39: [Gen. 41; Mark 11; Job 7; Rom. 11]({% post_url 2025-08-10-extremely-tired %})
 - [x] Day 40: [Gen. 42; Mark 12; Job 8; Rom. 12]({% post_url 2025-08-11-sermon-69 %})
 - [x] Day 41: [Gen. 43; Mark 13; Job 9; Rom. 13]({% post_url 2025-08-12-new-laptop %})
-- [ ] Day 42: Gen. 44; Mark 14; Job 10; Rom. 14
+- [x] Day 42: [Gen. 44; Mark 14; Job 10; Rom. 14]({% post_url 2025-08-13-wednesday %})
 - [ ] Day 43: Gen. 45; Mark 15; Job 11; Rom. 15
 - [ ] Day 44: Gen. 46; Mark 16; Job 12; Rom. 16
 - [ ] Day 45: Gen. 47; Luke 1:1–38; Job 13; 1 Cor. 1
