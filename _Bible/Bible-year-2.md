@@ -51,7 +51,7 @@ navbar: false
 - [x] Day 42: [Gen. 44; Mark 14; Job 10; Rom. 14]({% post_url 2025-08-13-wednesday %})
 - [x] Day 43: [Gen. 45; Mark 15; Job 11; Rom. 15]({% post_url 2025-08-14-seek-first-the-kingdom %})
 - [x] Day 44: [Gen. 46; Mark 16; Job 12; Rom. 16]({% post_url 2025-08-15-praise-and-prayer %})
-- [ ] Day 45: Gen. 47; Luke 1:1–38; Job 13; 1 Cor. 1
+- [x] Day 45: [Gen. 47; Luke 1:1–38; Job 13; 1 Cor. 1]({% post_url 2025-08-16-hearthstone %})
 - [ ] Day 46: Gen. 48; Luke 1:39–80; Job 14; 1 Cor. 2
 - [ ] Day 47: Gen. 49; Luke 2; Job 15; 1 Cor. 3
 - [ ] Day 48: Gen. 50; Luke 3; Job 16–17; 1 Cor. 4
