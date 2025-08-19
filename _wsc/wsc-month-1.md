@@ -31,7 +31,7 @@ navbar: false
 - [x] Day 22: [WSC 79-81]({% post_url 2025-08-15-praise-and-prayer %})
 - [x] Day 23: [WSC 82-84]({% post_url 2025-08-16-hearthstone %})
 - [x] Day 24: [WSC 85-87]({% post_url 2025-08-17-childrens-catechism %})
-- [ ] Day 25: WSC 88-90
+- [x] Day 25: [WSC 88-90]({% post_url 2025-08-18-jonk-birthday %})
 - [ ] Day 26: WSC 91-93
 - [ ] Day 27: WSC 94-97
 - [ ] Day 28: WSC 98-100
