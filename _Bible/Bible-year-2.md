@@ -55,7 +55,7 @@ navbar: false
 - [x] Day 46: [Gen. 48; Luke 1:39–80; Job 14; 1 Cor. 2]({% post_url 2025-08-17-childrens-catechism %})
 - [x] Day 47: [Gen. 49; Luke 2; Job 15; 1 Cor. 3]({% post_url 2025-08-18-jonk-birthday %})
 - [x] Day 48: [Gen. 50; Luke 3; Job 16–17; 1 Cor. 4]({% post_url 2025-08-19-loneliness %})
-- [ ] Day 49: Ex. 1; Luke 4; Job 18; 1 Cor. 5
+- [x] Day 49: [Ex. 1; Luke 4; Job 18; 1 Cor. 5]({% post_url 2025-08-20-car-battery %})
 - [ ] Day 50: Ex. 2; Luke 5; Job 19; 1 Cor. 6
 - [ ] Day 51: Ex. 3; Luke 6; Job 20; 1 Cor. 7
 - [ ] Day 52: Ex. 4; Luke 7; Job 21; 1 Cor. 8

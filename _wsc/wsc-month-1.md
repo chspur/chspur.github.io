@@ -33,7 +33,7 @@ navbar: false
 - [x] Day 24: [WSC 85-87]({% post_url 2025-08-17-childrens-catechism %})
 - [x] Day 25: [WSC 88-90]({% post_url 2025-08-18-jonk-birthday %})
 - [x] Day 26: [WSC 91-93]({% post_url 2025-08-19-loneliness %})
-- [ ] Day 27: WSC 94-97
+- [x] Day 27: [WSC 94-97]({% post_url 2025-08-20-car-battery %})
 - [ ] Day 28: WSC 98-100
 - [ ] Day 29: WSC 101-103
 - [ ] Day 30: WSC 104-107
