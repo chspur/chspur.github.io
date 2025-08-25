@@ -50,6 +50,7 @@ collections:
   - wcf
   - wlc
   - wsc
+  - bc
 
 include:
   - _Bible
@@ -58,3 +59,4 @@ include:
   - _wcf
   - _wlc
   - _wsc
+  - _bc

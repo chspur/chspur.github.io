@@ -12,4 +12,5 @@ navbar: true
   <li><h3><a href="{% link pages/reading-plans/wlc-plans.md %}">Westminster Larger Catechism</a></h3></li>
   <li><h3><a href="{% link pages/reading-plans/wsc-plans.md %}">Westminster Shorter Catechism</a></h3></li>
   <li><h3><a href="{% link pages/reading-plans/three-forms-plans.md %}">Three Forms of Unity</a></h3></li>
+  <li><h3><a href="{% link pages/reading-plans/bc-plans.md %}">Belgic Confession</a></h3></li>
 </ul>
