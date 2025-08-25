@@ -36,8 +36,8 @@ navbar: false
 - [x] Day 27: [WSC 94-97]({% post_url 2025-08-20-car-battery %})
 - [x] Day 28: [WSC 98-100]({% post_url 2025-08-21-ccc-progress %})
 - [x] Day 29: [WSC 101-103]({% post_url 2025-08-22-God-besotted-freak %})
-- [ ] Day 30: WSC 104-107
+- [x] Day 30: [WSC 104-107]({% post_url 2025-08-23-homeless-ministry %})
 
-*Finished:*
+*Finished: August 23, 2025*
 
 *Source:* [*Mid-America Reformed Seminary*](https://s3.us-west-1.amazonaws.com/blog.swang.cloud/reformed-standards-monthly.pdf)
