@@ -60,7 +60,7 @@ navbar: false
 - [x] Day 51: [Ex. 3; Luke 6; Job 20; 1 Cor. 7]({% post_url 2025-08-22-God-besotted-freak %})
 - [x] Day 52: [Ex. 4; Luke 7; Job 21; 1 Cor. 8]({% post_url 2025-08-23-homeless-ministry %})
 - [x] Day 53: [Ex. 5; Luke 8; Job 22; 1 Cor. 9]({% post_url 2025-08-24-petrus-day %})
-- [ ] Day 54: Ex. 6; Luke 9; Job 23; 1 Cor. 10
+- [x] Day 54: [Ex. 6; Luke 9; Job 23; 1 Cor. 10]({% post_url 2025-08-25-question-60 %})
 - [ ] Day 55: Ex. 7; Luke 10; Job 24; 1 Cor. 11
 - [ ] Day 56: Ex. 8; Luke 11; Job 25–26; 1 Cor. 12
 - [ ] Day 57: Ex. 9; Luke 12; Job 27; 1 Cor. 13

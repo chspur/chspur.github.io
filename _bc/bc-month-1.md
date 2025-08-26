@@ -8,7 +8,7 @@ navbar: false
 *Started: August 24, 2025*
 
 - [x] Day 1: [BC 1, 2]({% post_url 2025-08-24-petrus-day %})
-- [ ] Day 2: BC 3, 4
+- [x] Day 2: [BC 3, 4]({% post_url 2025-08-25-question-60 %})
 - [ ] Day 3: BC 5, 6
 - [ ] Day 4: BC 7
 - [ ] Day 5: BC 8
