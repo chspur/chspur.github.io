@@ -62,7 +62,7 @@ navbar: false
 - [x] Day 53: [Ex. 5; Luke 8; Job 22; 1 Cor. 9]({% post_url 2025-08-24-petrus-day %})
 - [x] Day 54: [Ex. 6; Luke 9; Job 23; 1 Cor. 10]({% post_url 2025-08-25-question-60 %})
 - [x] Day 55: [Ex. 7; Luke 10; Job 24; 1 Cor. 11]({% post_url 2025-08-26-handle-yourself %})
-- [ ] Day 56: Ex. 8; Luke 11; Job 25–26; 1 Cor. 12
+- [x] Day 56: [Ex. 8; Luke 11; Job 25–26; 1 Cor. 12]({% post_url 2025-08-27-jerome-and-abelard %})
 - [ ] Day 57: Ex. 9; Luke 12; Job 27; 1 Cor. 13
 - [ ] Day 58: Ex. 10; Luke 13; Job 28; 1 Cor. 14
 - [ ] Day 59: Ex. 11:1–12:21; Luke 14; Job 29; 1 Cor. 15
