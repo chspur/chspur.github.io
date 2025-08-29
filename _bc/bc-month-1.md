@@ -11,7 +11,7 @@ navbar: false
 - [x] Day 2: [BC 3, 4]({% post_url 2025-08-25-question-60 %})
 - [x] Day 3: [BC 5, 6]({% post_url 2025-08-26-handle-yourself %})
 - [x] Day 4: [BC 7]({% post_url 2025-08-27-jerome-and-abelard %})
-- [ ] Day 5: BC 8
+- [x] Day 5: [BC 8]({% post_url 2025-08-28-hawaiian-day %})
 - [ ] Day 6: BC 9
 - [ ] Day 7: BC 10, 11
 - [ ] Day 8: BC 12
