@@ -13,7 +13,7 @@ navbar: false
 - [x] Day 4: [BC 7]({% post_url 2025-08-27-jerome-and-abelard %})
 - [x] Day 5: [BC 8]({% post_url 2025-08-28-hawaiian-day %})
 - [x] Day 6: [BC 9]({% post_url 2025-08-29-new-lamp %})
-- [ ] Day 7: BC 10, 11
+- [x] Day 7: [BC 10, 11]({% post_url 2025-08-30-knowing-God %})
 - [ ] Day 8: BC 12
 - [ ] Day 9: BC 13
 - [ ] Day 10: BC 14, 15
