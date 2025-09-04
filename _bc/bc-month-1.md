@@ -17,7 +17,7 @@ navbar: false
 - [x] Day 8: [BC 12]({% post_url 2025-08-31-Psalm-67 %})
 - [x] Day 9: [BC 13]({% post_url 2025-09-01-labor-day %})
 - [x] Day 10: [BC 14, 15]({% post_url 2025-09-02-sweet-prayer %})
-- [ ] Day 11: BC 16, 17
+- [x] Day 11: [BC 16, 17]({% post_url 2025-09-03-reading-much %})
 - [ ] Day 12: BC 18
 - [ ] Day 13: BC 19
 - [ ] Day 14: BC 20

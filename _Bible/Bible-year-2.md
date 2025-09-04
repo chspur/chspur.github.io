@@ -69,7 +69,7 @@ navbar: false
 - [x] Day 60: [Ex. 12:22–51; Luke 15; Job 30; 1 Cor. 16]({% post_url 2025-08-31-Psalm-67 %})
 - [x] Day 61: [Ex. 13; Luke 16; Job 31; 2 Cor. 1]({% post_url 2025-09-01-labor-day %})
 - [x] Day 62: [Ex. 14; Luke 17; Job 32; 2 Cor. 2]({% post_url 2025-09-02-sweet-prayer %})
-- [ ] Day 63: Ex. 15; Luke 18; Job 33; 2 Cor. 3
+- [x] Day 63: [Ex. 15; Luke 18; Job 33; 2 Cor. 3]({% post_url 2025-09-03-reading-much %})
 - [ ] Day 64: Ex. 16; Luke 19; Job 34; 2 Cor. 4
 - [ ] Day 65: Ex. 17; Luke 20; Job 35; 2 Cor. 5
 - [ ] Day 66: Ex. 18; Luke 21; Job 36; 2 Cor. 6
