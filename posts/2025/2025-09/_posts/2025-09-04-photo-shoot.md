@@ -11,8 +11,8 @@ Called the council again today too. I feel like our calls recently have been qui
 
 | {{ page.date | date: "%B %-d, %Y" }} |
 | :-------------: |
-| [Ex. 12:22–51; Luke 15; Job 30; 1 Cor. 16]({% link _Bible/Bible-year-2.md %}) |
-| [BC 12]({% link _bc/bc-month-1.md %}) |
+| [Ex. 16; Luke 19; Job 34; 2 Cor. 4]({% link _Bible/Bible-year-2.md %}) |
+| [BC 18]({% link _bc/bc-month-1.md %}) |
 | [The Chalcedonian Definition](https://thewestminsterstandard.org/the-chalcedonian-creed/) |
 
 </details>
