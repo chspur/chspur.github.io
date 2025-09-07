@@ -1,6 +1,8 @@
 ## league with trungy
 
-Sleeping late tonight because I ran a couple of games with Trungy.
+Sleeping late tonight because I ran a couple of games with Trungy. 
+
+I asked the council if they wanted to do a book club together and they agree. We are reading *The Law and the Gospel* by John Colquhoun. The goal is to do a chapter every two weeks, which is quite a reasonable pace.
 
 <details markdown="1">
 <summary>daily reading</summary>
