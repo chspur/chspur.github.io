@@ -72,7 +72,7 @@ navbar: false
 - [x] Day 63: [Ex. 15; Luke 18; Job 33; 2 Cor. 3]({% post_url 2025-09-03-reading-much %})
 - [x] Day 64: [Ex. 16; Luke 19; Job 34; 2 Cor. 4]({% post_url 2025-09-04-photo-shoot %})
 - [x] Day 65: [Ex. 17; Luke 20; Job 35; 2 Cor. 5]({% post_url 2025-09-05-league-with-trungy %})
-- [ ] Day 66: Ex. 18; Luke 21; Job 36; 2 Cor. 6
+- [x] Day 66: [Ex. 18; Luke 21; Job 36; 2 Cor. 6]({% post_url 2025-09-06-petrus-gone %})
 - [ ] Day 67: Ex. 19; Luke 22; Job 37; 2 Cor. 7
 - [ ] Day 68: Ex. 20; Luke 23; Job 38; 2 Cor. 8
 - [ ] Day 69: Ex. 21; Luke 24; Job 39; 2 Cor. 9
