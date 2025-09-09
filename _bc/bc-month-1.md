@@ -21,7 +21,7 @@ navbar: false
 - [x] Day 12: [BC 18]({% post_url 2025-09-04-photo-shoot %})
 - [x] Day 13: [BC 19]({% post_url 2025-09-05-league-with-trungy %})
 - [x] Day 14: [BC 20]({% post_url 2025-09-06-petrus-gone %})
-- [ ] Day 15: BC 21
+- [x] Day 15: [BC 21]({% post_url 2025-09-07-look-upon-Christ %})
 - [ ] Day 16: BC 22
 - [ ] Day 17: BC 23
 - [ ] Day 18: BC 24
