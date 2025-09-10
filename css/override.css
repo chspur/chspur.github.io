@@ -127,9 +127,7 @@ footer a:link, footer a:visited {
 
 /* Additional dark mode enhancements */
 @media (prefers-color-scheme: dark) {
-  /* Make homepage hr less apparent in dark mode */
-  .home hr,
-  body.home hr {
+  hr {
     border-color: rgba(255, 255, 255, 0.15) !important;
     border-top: 1px solid rgba(255, 255, 255, 0.15) !important;
   }
