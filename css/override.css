@@ -224,13 +224,14 @@ footer a:link, footer a:visited {
   }
   
   th, td {
-    border-color: var(--border-color);
-    background-color: #2a2a2a;
-    color: var(--text-color);
+    border-color: var(--border-color) !important;
+    background-color: #2a2a2a !important;
+    color: var(--text-color) !important;
   }
   
   th {
-    background-color: #2d2d2d;
+    background-color: #2d2d2d !important;
+    color: var(--text-color) !important;
   }
   
   /* Ensure table links keep the proper color */
