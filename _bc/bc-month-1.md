@@ -22,7 +22,7 @@ navbar: false
 - [x] Day 13: [BC 19]({% post_url 2025-09-05-league-with-trungy %})
 - [x] Day 14: [BC 20]({% post_url 2025-09-06-petrus-gone %})
 - [x] Day 15: [BC 21]({% post_url 2025-09-07-look-upon-Christ %})
-- [ ] Day 16: BC 22
+- [x] Day 16: [BC 22]({% post_url 2025-09-08-catechism-flashcards %})
 - [ ] Day 17: BC 23
 - [ ] Day 18: BC 24
 - [ ] Day 19: BC 25
