@@ -225,9 +225,13 @@ footer a:link, footer a:visited {
     color: var(--text-color) !important;
   }
   
-  /* Make third row same background as header row */
-  tr:nth-child(3) td {
+  /* Make alternating rows: 1st and 3rd rows darker, 2nd and 4th lighter */
+  tr:nth-child(odd) td {
     background-color: #2d2d2d !important;
+  }
+  
+  tr:nth-child(even) td {
+    background-color: #2a2a2a !important;
   }
   
   /* Ensure table links keep the proper color */
