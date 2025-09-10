@@ -60,3 +60,10 @@ include:
   - _wlc
   - _wsc
   - _bc
+
+giscus:
+  repo: "chspur/chspur.github.io"
+  repo_id: "R_kgDONT20Yw"
+  category: "Announcements"
+  category_id: "DIC_kwDONT20Y84CvQQP"
+  theme: "light"
