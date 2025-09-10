@@ -128,6 +128,37 @@ footer a:link, footer a:visited {
 
 /* Additional dark mode enhancements */
 @media (prefers-color-scheme: dark) {
+  /* Header and navigation styling */
+  .site-header {
+    background-color: var(--bg-color) !important;
+    border-top-color: var(--border-color) !important;
+    border-bottom-color: var(--border-color) !important;
+  }
+  
+  .site-title,
+  .site-title:visited {
+    color: var(--text-color) !important;
+  }
+  
+  .site-nav .page-link {
+    color: var(--text-color) !important;
+  }
+  
+  .site-nav .page-link:hover {
+    color: var(--link-color) !important;
+  }
+  
+  /* Mobile menu button */
+  .site-nav .menu-icon > svg {
+    fill: var(--text-color);
+  }
+  
+  /* Mobile menu when expanded */
+  .site-nav .trigger {
+    background-color: var(--bg-color);
+    border: 1px solid var(--border-color);
+  }
+  
   /* Ensure headers are visible */
   h1, h2, h3, h4, h5, h6 {
     color: var(--text-color);
