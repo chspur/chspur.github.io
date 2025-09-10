@@ -127,6 +127,19 @@ footer a:link, footer a:visited {
 
 /* Additional dark mode enhancements */
 @media (prefers-color-scheme: dark) {
+  /* Make ALL hr elements completely invisible by default */
+  hr {
+    border-color: transparent !important;
+    border-top: 1px solid transparent !important;
+  }
+  
+  /* Then make ONLY the homepage hr visible */
+  .home hr,
+  body.home hr {
+    border-color: rgba(255, 255, 255, 0.4) !important;
+    border-top: 1px solid rgba(255, 255, 255, 0.4) !important;
+  }
+  
   /* Header background and make bottom separator line less apparent */
   header,
   .site-header {
@@ -138,13 +151,6 @@ footer a:link, footer a:visited {
   .site-footer,
   footer {
     border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
-  }
-  
-  /* Make hr elements more apparent ONLY on the homepage */
-  .home hr,
-  body.home hr {
-    border-color: rgba(255, 255, 255, 0.4) !important;
-    border-top: 1px solid rgba(255, 255, 255, 0.4) !important;
   }
   
   /* Title styling */
