@@ -128,35 +128,52 @@ footer a:link, footer a:visited {
 
 /* Additional dark mode enhancements */
 @media (prefers-color-scheme: dark) {
-  /* Header and navigation styling */
-  .site-header {
+  /* Header background and borders */
+  header,
+  .site-header,
+  header.site-header {
     background-color: var(--bg-color) !important;
+    background: var(--bg-color) !important;
     border-top-color: var(--border-color) !important;
     border-bottom-color: var(--border-color) !important;
+    border-color: var(--border-color) !important;
   }
   
+  /* Title styling */
   .site-title,
-  .site-title:visited {
+  .site-title:visited,
+  .site-title:link,
+  header .site-title,
+  h1.site-title,
+  a.site-title {
     color: var(--text-color) !important;
   }
   
-  .site-nav .page-link {
+  /* Navigation links */
+  .site-nav .page-link,
+  .site-nav a,
+  nav a,
+  header nav a {
     color: var(--text-color) !important;
+    text-decoration: none !important;
   }
   
-  .site-nav .page-link:hover {
+  .site-nav .page-link:hover,
+  .site-nav a:hover,
+  nav a:hover,
+  header nav a:hover {
     color: var(--link-color) !important;
   }
   
   /* Mobile menu button */
   .site-nav .menu-icon > svg {
-    fill: var(--text-color);
+    fill: var(--text-color) !important;
   }
   
   /* Mobile menu when expanded */
   .site-nav .trigger {
-    background-color: var(--bg-color);
-    border: 1px solid var(--border-color);
+    background-color: var(--bg-color) !important;
+    border: 1px solid var(--border-color) !important;
   }
   
   /* Ensure headers are visible */
