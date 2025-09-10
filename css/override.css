@@ -128,10 +128,24 @@ footer a:link, footer a:visited {
 
 /* Additional dark mode enhancements */
 @media (prefers-color-scheme: dark) {
-  /* Header background only */
+  /* Header background and make separator line less apparent */
   header,
   .site-header {
     background-color: var(--bg-color) !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+    border-top: 5px solid rgba(255, 255, 255, 0.1) !important;
+  }
+  
+  /* Footer separator line less apparent */
+  .site-footer,
+  footer {
+    border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
+  }
+  
+  /* Make hr elements more apparent in dark mode */
+  hr {
+    border-color: rgba(255, 255, 255, 0.4) !important;
+    border-top: 1px solid rgba(255, 255, 255, 0.4) !important;
   }
   
   /* Title styling */
