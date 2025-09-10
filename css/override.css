@@ -218,16 +218,14 @@ footer a:link, footer a:visited {
     color: var(--text-color) !important;
   }
   
-  th {
+  /* Header row and odd data rows - same dark background */
+  th,
+  tr:nth-child(odd) td {
     background-color: #2d2d2d !important;
     color: var(--text-color) !important;
   }
   
-  /* Make alternating rows: 1st and 3rd rows darker, 2nd and 4th lighter */
-  tr:nth-child(odd) td {
-    background-color: #2d2d2d !important;
-  }
-  
+  /* Even data rows - lighter background */
   tr:nth-child(even) td {
     background-color: #2a2a2a !important;
   }
