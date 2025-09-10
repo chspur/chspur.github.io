@@ -134,19 +134,31 @@ footer a:link, footer a:visited {
     background-color: var(--bg-color) !important;
   }
   
-  /* Title styling - be very specific */
+  /* Title styling */
   .site-title,
   .site-title:visited {
     color: var(--text-color) !important;
   }
   
-  /* Navigation links - only target the specific navigation classes */
+  /* Navigation links - minimal styling to avoid border issues */
   .site-nav .page-link {
     color: var(--text-color) !important;
+    text-decoration: none !important;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
   }
   
+  /* Navigation hover - use underline like light mode */
   .site-nav .page-link:hover {
-    color: var(--link-color) !important;
+    color: var(--text-color) !important;
+    text-decoration: underline !important;
+  }
+  
+  /* Remove any borders or outlines from navigation container */
+  .site-nav {
+    border: none !important;
+    outline: none !important;
   }
   
   /* Mobile menu button */
