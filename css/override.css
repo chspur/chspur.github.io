@@ -141,6 +141,13 @@ footer a:link, footer a:visited {
     border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
   }
   
+  /* Make hr elements more apparent ONLY on the homepage */
+  .home hr,
+  body.home hr {
+    border-color: rgba(255, 255, 255, 0.4) !important;
+    border-top: 1px solid rgba(255, 255, 255, 0.4) !important;
+  }
+  
   /* Title styling */
   .site-title,
   .site-title:visited {
