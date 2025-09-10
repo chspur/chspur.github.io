@@ -147,22 +147,6 @@ footer a:link, footer a:visited {
     border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
   }
   
-  /* Make ONLY the homepage hr visible */
-  .home hr,
-  body.home hr {
-    border-color: rgba(255, 255, 255, 0.4) !important;
-    border-top: 1px solid rgba(255, 255, 255, 0.4) !important;
-  }
-  
-  /* Hide hr elements that appear under post/page titles */
-  .post-header hr,
-  .page-header hr,
-  h1 + hr,
-  .post-title + hr {
-    border-color: transparent !important;
-    border-top: 1px solid transparent !important;
-  }
-  
   /* Header background and make bottom separator line less apparent */
   header,
   .site-header {
@@ -239,6 +223,11 @@ footer a:link, footer a:visited {
   th {
     background-color: #2d2d2d !important;
     color: var(--text-color) !important;
+  }
+  
+  /* Make third row same background as header row */
+  tr:nth-child(3) td {
+    background-color: #2d2d2d !important;
   }
   
   /* Ensure table links keep the proper color */
