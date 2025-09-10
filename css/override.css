@@ -128,13 +128,6 @@ footer a:link, footer a:visited {
 
 /* Additional dark mode enhancements */
 @media (prefers-color-scheme: dark) {
-  /* Make ALL hr elements completely invisible by default */
-  hr {
-    border-color: transparent !important;
-    border-top: 1px solid transparent !important;
-  }
-  
-  /* Then make ONLY the homepage hr visible */
   .home hr,
   body.home hr {
     border-color: rgba(255, 255, 255, 0.4) !important;
