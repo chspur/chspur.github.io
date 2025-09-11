@@ -214,8 +214,8 @@ footer a:link, footer a:visited {
   
   th, td {
     border-color: var(--border-color) !important;
-    background-color: #2a2a2a !important;
-    color: var(--text-color) !important;
+    /*background-color: #2a2a2a !important;
+    color: var(--text-color) !important;*/
   }
   
   /* Header row and odd data rows - same dark background */
