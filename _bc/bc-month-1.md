@@ -24,7 +24,7 @@ navbar: false
 - [x] Day 15: [BC 21]({% post_url 2025-09-07-look-upon-Christ %})
 - [x] Day 16: [BC 22]({% post_url 2025-09-08-catechism-flashcards %})
 - [x] Day 17: [BC 23]({% post_url 2025-09-09-got-distracted %})
-- [ ] Day 18: BC 24
+- [x] Day 18: [BC 24]({% post_url 2025-09-10-ccc-progress %})
 - [ ] Day 19: BC 25
 - [ ] Day 20: BC 26
 - [ ] Day 21: BC 27

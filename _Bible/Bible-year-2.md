@@ -76,7 +76,7 @@ navbar: false
 - [x] Day 67: [Ex. 19; Luke 22; Job 37; 2 Cor. 7]({% post_url 2025-09-07-look-upon-Christ %})
 - [x] Day 68: [Ex. 20; Luke 23; Job 38; 2 Cor. 8]({% post_url 2025-09-08-catechism-flashcards %})
 - [x] Day 69: [Ex. 21; Luke 24; Job 39; 2 Cor. 9]({% post_url 2025-09-09-got-distracted %})
-- [ ] Day 70: Ex. 22; John 1; Job 40; 2 Cor. 10
+- [x] Day 70: [Ex. 22; John 1; Job 40; 2 Cor. 10]({% post_url 2025-09-10-ccc-progress %})
 - [ ] Day 71: Ex. 23; John 2; Job 41; 2 Cor. 11
 - [ ] Day 72: Ex. 24; John 3; Job 42; 2 Cor. 12
 - [ ] Day 73: Ex. 25; John 4; Prov. 1; 2 Cor. 13
