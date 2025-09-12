@@ -25,7 +25,7 @@ navbar: false
 - [x] Day 16: [BC 22]({% post_url 2025-09-08-catechism-flashcards %})
 - [x] Day 17: [BC 23]({% post_url 2025-09-09-got-distracted %})
 - [x] Day 18: [BC 24]({% post_url 2025-09-10-ccc-progress %})
-- [ ] Day 19: BC 25
+- [x] Day 19: [BC 25]({% post_url 2025-09-11-union-with-Christ %})
 - [ ] Day 20: BC 26
 - [ ] Day 21: BC 27
 - [ ] Day 22: BC 28
