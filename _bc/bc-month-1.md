@@ -27,7 +27,7 @@ navbar: false
 - [x] Day 18: [BC 24]({% post_url 2025-09-10-ccc-progress %})
 - [x] Day 19: [BC 25]({% post_url 2025-09-11-union-with-Christ %})
 - [x] Day 20: [BC 26]({% post_url 2025-09-12-sing-hymnal %})
-- [ ] Day 21: BC 27
+- [ ] Day 21: [BC 27]({% post_url 2025-09-13-smog-check %})
 - [ ] Day 22: BC 28
 - [ ] Day 23: BC 29
 - [ ] Day 24: BC 30, 31
