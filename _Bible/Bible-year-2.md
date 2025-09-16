@@ -81,7 +81,7 @@ navbar: false
 - [x] Day 72: [Ex. 24; John 3; Job 42; 2 Cor. 12]({% post_url 2025-09-12-sing-hymnal %})
 - [x] Day 73: [Ex. 25; John 4; Prov. 1; 2 Cor. 13]({% post_url 2025-09-13-smog-check %})
 - [x] Day 74: [Ex. 26; John 5; Prov. 2; Gal. 1]({% post_url 2025-09-14-psalm-81 %})
-- [ ] Day 75: Ex. 27; John 6; Prov. 3; Gal. 2
+- [x] Day 75: [Ex. 27; John 6; Prov. 3; Gal. 2]({% post_url 2025-09-15-wsc-progress %})
 - [ ] Day 76: Ex. 28; John 7; Prov. 4; Gal. 3
 - [ ] Day 77: Ex. 29; John 8; Prov. 5; Gal. 4
 - [ ] Day 78: Ex. 30; John 9; Prov. 6; Gal. 5
