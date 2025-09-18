@@ -83,7 +83,7 @@ navbar: false
 - [x] Day 74: [Ex. 26; John 5; Prov. 2; Gal. 1]({% post_url 2025-09-14-psalm-81 %})
 - [x] Day 75: [Ex. 27; John 6; Prov. 3; Gal. 2]({% post_url 2025-09-15-wsc-progress %})
 - [x] Day 76: [Ex. 28; John 7; Prov. 4; Gal. 3]({% post_url 2025-09-16-law-and-gospel %})
-- [ ] Day 77: Ex. 29; John 8; Prov. 5; Gal. 4
+- [x] Day 77: [Ex. 29; John 8; Prov. 5; Gal. 4]({% post_url 2025-09-17-covenant-of-grace %})
 - [ ] Day 78: Ex. 30; John 9; Prov. 6; Gal. 5
 - [ ] Day 79: Ex. 31; John 10; Prov. 7; Gal. 6
 - [ ] Day 80: Ex. 32; John 11; Prov. 8; Eph. 1
