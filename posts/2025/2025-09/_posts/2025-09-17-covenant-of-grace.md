@@ -1,4 +1,4 @@
-## 
+## covenant of grace
 
 Here's another excellent passage from John Colquhoun's *The Law and the Gospel*:
 
