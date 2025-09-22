@@ -33,7 +33,7 @@ navbar: false
 - [x] Day 24: [BC 30, 31]({% post_url 2025-09-16-law-and-gospel %})
 - [x] Day 25: [BC 32]({% post_url 2025-09-17-covenant-of-grace %})
 - [x] Day 26: [BC 33]({% post_url 2025-09-18-demon-slayer %})
-- [ ] Day 27: BC 34
+- [x] Day 27: [BC 34]({% post_url 2025-09-19-resolutions %})
 - [ ] Day 28: BC 35
 - [ ] Day 29: BC 36
 - [ ] Day 30: BC 37
