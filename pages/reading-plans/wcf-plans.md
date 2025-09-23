@@ -3,6 +3,7 @@ layout: page
 title: Reading Plans (Westminster Confession of Faith)
 permalink: /wcf-plans/
 navbar: false
+published: false
 ---
 
 <ul>

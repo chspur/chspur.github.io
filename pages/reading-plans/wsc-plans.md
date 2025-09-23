@@ -3,6 +3,7 @@ layout: page
 title: Reading Plans (Westminster Shorter Catechism)
 permalink: /wsc-plans/
 navbar: false
+published: false
 ---
 
 <ul>

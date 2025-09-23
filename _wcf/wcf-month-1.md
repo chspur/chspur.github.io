@@ -3,6 +3,7 @@ layout: page
 title: Westminster Confession of Faith Month 1
 permalink: /wcf-month-1/
 navbar: false
+published: false
 ---
 
 *Started: May 26, 2025*

@@ -3,6 +3,7 @@ layout: page
 title: Reading Plans (Westminster Larger Catechism)
 permalink: /wlc-plans/
 navbar: false
+published: false
 ---
 
 <ul>

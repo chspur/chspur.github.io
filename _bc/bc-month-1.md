@@ -3,6 +3,7 @@ layout: page
 title: Belgic Confession Month 1
 permalink: /bc-month-1/
 navbar: false
+published: false
 ---
 
 *Started: August 24, 2025*

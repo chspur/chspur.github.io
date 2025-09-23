@@ -3,6 +3,7 @@ layout: page
 title: Westminster Larger Catechism Month 1
 permalink: /wlc-month-1/
 navbar: false
+published: false
 ---
 
 *Started: June 25, 2025*

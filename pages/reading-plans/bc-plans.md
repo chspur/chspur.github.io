@@ -3,6 +3,7 @@ layout: page
 title: Reading Plans (Belgic Confession)
 permalink: /bc-plans/
 navbar: false
+published: false
 ---
 
 <ul>

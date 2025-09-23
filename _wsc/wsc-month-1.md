@@ -3,6 +3,7 @@ layout: page
 title: Westminster Shorter Catechism Month 1
 permalink: /wsc-month-1/
 navbar: false
+published: false
 ---
 
 *Started: July 25, 2025*
