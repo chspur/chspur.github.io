@@ -8,8 +8,8 @@ navbar: false
 *Started: September 23, 2025*
 
 - [x] Day 1: WCF 1; WLC 1-6; WSC 1-3
-- [ ] Day 2: WCF 2; WLC 7-11; WSC 4-6
-- [ ] Day 3: WCF 3; WLC 12-20; WSC 7-12
+- [x] Day 2: WCF 2; WLC 7-11; WSC 4-6
+- [x] Day 3: WCF 3; WLC 12-20; WSC 7-12
 - [ ] Day 4: WCF 4; WLC 21-29; WSC 13-19
 - [ ] Day 5: WCF 5; WLC 30-35; WSC 20-23
 - [ ] Day 6: WCF 6; WLC 36-42; WSC 24-26
