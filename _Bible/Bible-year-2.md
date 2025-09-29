@@ -92,8 +92,8 @@ navbar: false
 - [x] Day 83: Ex. 35; John 14; Prov. 11; Eph. 4
 - [x] Day 84: Ex. 36; John 15; Prov. 12; Eph. 5
 - [x] Day 85: Ex. 37; John 16; Prov. 13; Eph. 6
-- [ ] Day 86: Ex. 38; John 17; Prov. 14; Phil. 1
-- [ ] Day 87: Ex. 39; John 18; Prov. 15; Phil. 2
+- [x] Day 86: Ex. 38; John 17; Prov. 14; Phil. 1
+- [x] Day 87: Ex. 39; John 18; Prov. 15; Phil. 2
 - [ ] Day 88: Ex. 40; John 19; Prov. 16; Phil. 3
 - [ ] Day 89: Lev. 1; John 20; Prov. 17; Phil. 4
 - [ ] Day 90: Lev. 2–3; John 21; Prov. 18; Col. 1
