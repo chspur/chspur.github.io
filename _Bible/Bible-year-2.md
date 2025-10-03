@@ -98,7 +98,7 @@ navbar: false
 - [x] Day 89: Lev. 1; John 20; Prov. 17; Phil. 4
 - [x] Day 90: Lev. 2–3; John 21; Prov. 18; Col. 1
 - [x] Day 91: Lev. 4; Ps. 1–2; Prov. 19; Col. 2
-- [ ] Day 92: Lev. 5; Ps. 3–4; Prov. 20; Col. 3
+- [x] Day 92: Lev. 5; Ps. 3–4; Prov. 20; Col. 3
 - [ ] Day 93: Lev. 6; Ps. 5–6; Prov. 21; Col. 4
 - [ ] Day 94: Lev. 7; Ps. 7–8; Prov. 22; 1 Thess. 1
 - [ ] Day 95: Lev. 8; Ps. 9; Prov. 23; 1 Thess. 2

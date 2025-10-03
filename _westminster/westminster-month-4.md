@@ -15,8 +15,8 @@ navbar: false
 - [x] Day 6: WCF 6; WLC 36-42; WSC 24-26
 - [x] Day 7: WCF 7; WLC 43-50; WSC 27-28
 - [x] Day 8: WCF 8; WLC 51-56; WSC 29-32
-- [ ] Day 9: WCF 9; WLC 57-61; WSC 33-36
-- [ ] Day 10: WCF 10; WLC 62-69; WSC 37-38
+- [x] Day 9: WCF 9; WLC 57-61; WSC 33-36
+- [x] Day 10: WCF 10; WLC 62-69; WSC 37-38
 - [ ] Day 11: WCF 11; WLC 70-78; WSC 39-42
 - [ ] Day 12: WCF 12; WLC 79-83; WSC 43-44
 - [ ] Day 13: WCF 13; WLC 84-90; WSC 45-48
