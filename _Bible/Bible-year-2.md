@@ -100,10 +100,10 @@ navbar: false
 - [x] Day 91: Lev. 4; Ps. 1–2; Prov. 19; Col. 2
 - [x] Day 92: Lev. 5; Ps. 3–4; Prov. 20; Col. 3
 - [x] Day 93: Lev. 6; Ps. 5–6; Prov. 21; Col. 4
-- [ ] Day 94: Lev. 7; Ps. 7–8; Prov. 22; 1 Thess. 1
-- [ ] Day 95: Lev. 8; Ps. 9; Prov. 23; 1 Thess. 2
-- [ ] Day 96: Lev. 9; Ps. 10; Prov. 24; 1 Thess. 3
-- [ ] Day 97: Lev. 10; Ps. 11–12; Prov. 25; 1 Thess. 4
+- [x] Day 94: Lev. 7; Ps. 7–8; Prov. 22; 1 Thess. 1
+- [x] Day 95: Lev. 8; Ps. 9; Prov. 23; 1 Thess. 2
+- [x] Day 96: Lev. 9; Ps. 10; Prov. 24; 1 Thess. 3
+- [x] Day 97: Lev. 10; Ps. 11–12; Prov. 25; 1 Thess. 4
 - [ ] Day 98: Lev. 11–12; Ps. 13–14; Prov. 26; 1 Thess. 5
 - [ ] Day 99: Lev. 13; Ps. 15–16; Prov. 27; 2 Thess. 1
 - [ ] Day 100: Lev. 14; Ps. 17; Prov. 28; 2 Thess. 2
