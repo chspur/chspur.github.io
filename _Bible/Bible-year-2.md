@@ -110,8 +110,8 @@ navbar: false
 - [x] Day 101: Lev. 15; Ps. 18; Prov. 29; 2 Thess. 3
 - [x] Day 102: Lev. 16; Ps. 19; Prov. 30; 1 Tim. 1
 - [x] Day 103: Lev. 17; Ps. 20–21; Prov. 31; 1 Tim. 2
-- [ ] Day 104: Lev. 18; Ps. 22; Eccles. 1; 1 Tim. 3
-- [ ] Day 105: Lev. 19; Ps. 23–24; Eccles. 2; 1 Tim. 4
+- [x] Day 104: Lev. 18; Ps. 22; Eccles. 1; 1 Tim. 3
+- [x] Day 105: Lev. 19; Ps. 23–24; Eccles. 2; 1 Tim. 4
 - [ ] Day 106: Lev. 20; Ps. 25; Eccles. 3; 1 Tim. 5
 - [ ] Day 107: Lev. 21; Ps. 26–27; Eccles. 4; 1 Tim. 6
 - [ ] Day 108: Lev. 22; Ps. 28–29; Eccles. 5; 2 Tim. 1
