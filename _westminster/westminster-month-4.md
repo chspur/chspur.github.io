@@ -22,7 +22,7 @@ navbar: false
 - [x] Day 13: WCF 13; WLC 84-90; WSC 45-48
 - [x] Day 14: WCF 14; WLC 91-98; WSC 49-52
 - [x] Day 15: WCF 15; WLC 99-100; WSC 53-56
-- [ ] Day 16: WCF 16; WLC 101-106; WSC 57-62
+- [x] Day 16: WCF 16; WLC 101-106; WSC 57-62
 - [ ] Day 17: WCF 17; WLC 107-114; WSC 63-66
 - [ ] Day 18: WCF 18; WLC 115-121; WSC 67-69
 - [ ] Day 19: WCF 19; WLC 122-133; WSC 70-72
