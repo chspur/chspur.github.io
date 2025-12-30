@@ -3,6 +3,7 @@ layout: page
 title: Catechism Challenge
 permalink: /catechism-challenge/
 navbar: false
+published: false
 ---
 
 Hagyeom
