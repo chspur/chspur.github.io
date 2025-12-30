@@ -3,7 +3,6 @@ layout: page
 title: One Piece Arc Tier List (Final)
 permalink: /one-piece-arc-tier-list-final/
 navbar: false
-published: false
 ---
 
 <p>My <a href="https://onepiece.fandom.com/wiki/Story_Arcs">One Piece arc</a> tier list up to the Final Saga.</p>
